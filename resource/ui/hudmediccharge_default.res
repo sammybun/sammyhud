@@ -4,7 +4,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"ChargeLabel"
-		"xpos"			"c75"
+		"xpos"			"c85"
 		"ypos"			"c60"
 		"zpos"			"2"
 		"wide"			"120"
@@ -18,7 +18,7 @@
 		"textAlignment"	"west"
 		"dulltext"		"0"
 		"brighttext"	"0"
-		"font"			"nüBold56"
+		"font"			"nüBold48"
 		"fgcolor"		"ChargePercent"
 	}
 	
@@ -40,7 +40,7 @@
 		"textAlignment"	"west"
 		"dulltext"		"0"
 		"brighttext"	"0"
-		"font"			"nüBoldShadow56"
+		"font"			"nüBoldShadow48"
 		"fgcolor"		"ShadowBlack"
 
 		"pin_to_sibling"	"ChargeLabel"
@@ -54,7 +54,7 @@
 		"fieldName"		"ChargeMeter"
 		"font"			"Default"
 		"xpos"			"c-60"
-		"ypos"			"c80"
+		"ypos"			"c86"
 		"zpos"			"1"
 		"wide"			"120"
 		"tall"			"2"				

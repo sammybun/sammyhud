@@ -42,8 +42,8 @@
 		"fieldName" "HudWeaponAmmo"
 		"visible" "1"
 		"enabled" "1"
-		"xpos"	"c50"
-		"ypos"	"c60"
+		"xpos"	"c60"
+		"ypos"	"c70"
 		"wide"	"265"
 		"tall"	"50"
 		
@@ -80,7 +80,7 @@
 		"fieldName"		"HudItemEffectMeter"
 		"visible"		"1"
 		"enabled"		"1"
-		"xpos"			"c-100"
+		"xpos"			"c-110"
 		"ypos"			"c85"
 		"wide"			"200"
 		"tall"			"50"
@@ -94,7 +94,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"xpos"			"0"
-		"ypos"			"0"
+		"ypos"			"10"
 		"wide"			"f0"
 		"tall"			"480"
 	}
@@ -105,7 +105,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"xpos"			"c-60"
-		"ypos"			"c84"
+		"ypos"			"c94"
 		"zpos"			"1"			// draw in front of ammo
 		"wide"			"200"
 		"tall"			"100"
@@ -120,7 +120,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"xpos"			"c-75"
-		"ypos"			"c121"
+		"ypos"			"c131"
 		"zpos"			"1"			// draw in front of ammo
 		"wide"			"200"
 		"tall"			"100"

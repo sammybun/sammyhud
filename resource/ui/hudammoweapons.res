@@ -75,14 +75,14 @@
 		"fieldName"		"AmmoInReserve"
 		"font"			"nüMedium24"
 		"fgcolor"		"Ammo In Reserve"
-		"xpos"			"73"
-		"ypos"			"10"
+		"xpos"			"55"
+		"ypos"			"0"
 		"zpos"			"7"
 		"wide"			"40"
 		"tall"			"50"
 		"visible"		"0"
 		"enabled"		"1"
-		"textAlignment"	"north-west"		
+		"textAlignment"	"west"		
 		"labelText"		"%AmmoInReserve%"
 		
 	}
@@ -99,7 +99,7 @@
 		"tall"			"50"
 		"visible"		"0"
 		"enabled"		"1"
-		"textAlignment"	"north-west"		
+		"textAlignment"	"west"		
 		"labelText"		"%AmmoInReserve%"
 
 		"pin_to_sibling"	"AmmoInReserve"

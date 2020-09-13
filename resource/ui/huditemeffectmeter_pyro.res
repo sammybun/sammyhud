@@ -6,11 +6,10 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"xpos"			"c-59"
-		"ypos"			"r167"
+		"ypos"			"r157"
 		"wide"			"118"
 		"tall"			"10"
 		
-		"ypos_minmode"			"c38"
 	}
 	
 	"ItemEffectMeterBG"

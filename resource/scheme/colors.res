@@ -16,7 +16,7 @@ Scheme
 		//-----------------------------------------
 		
 		"Ammo In Clip"			"240 240 240 255"
-		"Ammo In Reserve"		"240 240 240 255"
+		"Ammo In Reserve"		"41 152 182 255"
 		"Ammo No Clip"			"240 240 240 255"
 		"Low Ammo 1"			"200 0 0 255"
 		"Low Ammo 2"			"255 75 75 255"

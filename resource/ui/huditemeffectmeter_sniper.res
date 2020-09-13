@@ -12,8 +12,6 @@
 		"MeterFG"		"White"
 		"MeterBG"		"Gray"
 		
-		"xpos_minmode"		"c64"
-		"ypos_minmode"		"c60"	
 	}
 	
 	"ItemEffectMeterBG"
