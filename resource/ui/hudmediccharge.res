@@ -9,7 +9,7 @@
 // Small charge label under crosshair	
 //------------------------------------------
 
-	//#base "hudmediccharge_scl.res"
+	#base "hudmediccharge_scl.res"
 
 //------------------------------------------
 

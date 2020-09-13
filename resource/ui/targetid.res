@@ -23,7 +23,7 @@
 		"zpos"			"-1"
 		"wide"			"140"
 		"tall"	 		"2"
-		"visible"		"1"
+		"visible"		"0"
 		"enabled"		"0"
 		"scaleImage"	"0"
 		"image"				"replay/thumbnails/bg_red"	

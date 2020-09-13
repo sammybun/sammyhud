@@ -6,35 +6,35 @@ Scheme
 		//-----------------------------------------
 		
 		"Health"				"240 240 240 255"
-		"Health Buff"			"41 152 182 255"
-		"Health Buff 2"			"0 200 255 255"
-		"Health Low"			"200 0 0 255"
-		"Health Low 2"			"255 75 75 255"
+		"Health Buff"			"60 255 180 255"	//41 152 182 255
+		"Health Buff 2"			"60 255 120 255"	//0 200 255 255
+		"Health Low"			"204 72 128 255"	//200 0 0 255
+		"Health Low 2"			"209 90 140 255"	//255 75 75 255
 		
 		
 		// Ammo
 		//-----------------------------------------
 		
 		"Ammo In Clip"			"240 240 240 255"
-		"Ammo In Reserve"		"41 152 182 255"
+		"Ammo In Reserve"		"60 255 180 255"	//41 152 182 255
 		"Ammo No Clip"			"240 240 240 255"
-		"Low Ammo 1"			"200 0 0 255"
-		"Low Ammo 2"			"255 75 75 255"
+		"Low Ammo 1"			"204 72 128 255"	//200 0 0 255
+		"Low Ammo 2"			"209 90 140 255"	//255 75 75 255
 		
 		// Medic Charge
 		//-----------------------------------------
 		
 		"ChargePercent"			"240 240 240 255"
 		"Ubercharge Meter"		"240 240 240 255"
-		"Ubercharge 1"			"41 152 182 255"
-		"Ubercharge 2"			"0 200 255 255"
-		"Smallmediccharge"      "0  255 255 255"
+		"Ubercharge 1"			"60 255 180 255"
+		"Ubercharge 2"			"60 255 120 255"
+		"Smallmediccharge"      "60 255 180 255"
 		
 		// Misc
 		//-----------------------------------------
 		
 		"Damage Numbers"		"240 240 240 255" //No longer controlled by the hud. Change this in your advanced options. 
-		"Healing Numbers"		"0 157 224 255"
+		"Healing Numbers"		"60 255 180 255"
 		"Stickies"				"240 240 240 255"
 		"Metal"					"240 240 240 255"
 		"Killstreak"			"240 240 240 255"

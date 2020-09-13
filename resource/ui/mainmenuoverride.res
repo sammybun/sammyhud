@@ -1333,7 +1333,7 @@
 		"ControlName"	"CExLabel"
 		"fieldName"		"HUDVersion"
 		"font"			"DefaultVerySmall"
-		"labelText"		"v1.0!"
+		"labelText"		"v1.13!"
 		"textAlignment"	"east"
 		"xpos"			"r54"
 		"ypos"			"r10"

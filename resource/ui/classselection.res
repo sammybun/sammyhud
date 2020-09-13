@@ -2117,7 +2117,7 @@
 		"fieldName"		"TFPlayerModel"
 		
 		"xpos"			"0"
-		"ypos"			"0"
+		"ypos"			""
 		"zpos"			"-1"		
 		"wide"			"f0"
 		"tall"			"f0"
@@ -2128,7 +2128,7 @@
 		"enabled"		"1"
 		
 		"render_texture"	"0"
-		"fov"			"18"
+		"fov"			"60"
 		"allow_rot"		"0"
 
 		"paintbackground" "1"		
@@ -2144,7 +2144,7 @@
 			"angles_z" "0"
 			"origin_x" "320"
 			"origin_y" "-5"
-			"origin_z" "-59"
+			"origin_z" "5"
 			"frame_origin_x"	"0"
 			"frame_origin_y"	"0"
 			"frame_origin_z"	"0"

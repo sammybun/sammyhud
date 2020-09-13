@@ -7,25 +7,7 @@
 //------------------------------------------
 
 "Resource/HudLayout.res"
-{
-	"HudCloseCaption"
-	{
-		"pin_to_sibling" 											"HudWeaponAmmo"
-		"pin_corner_to_sibling" 									"PIN_TOPLEFT"
-		"pin_to_sibling_corner" 									"PIN_TOPLEFT"	
-	
-		"xpos"														"-80"
-		"ypos"														"70"
-		"wide"														"300"
-
-		"BgAlpha"													"0"
-		"GrowTime"													"0.1"
-		"ItemHiddenTime"											"0.1"  // Nearly same as grow time so that the item doesn't start to show until growth is finished
-		"ItemFadeInTime"											"0.1"	// Once ItemHiddenTime is finished, takes this much longer to fade in
-		"ItemFadeOutTime"											"0.1"
-		"topoffset"													"0"
-	}
-	
+{	
 	HudPlayerStatus
 	{
 		"fieldName" "HudPlayerStatus"
@@ -250,7 +232,7 @@
 		"visible" 	"1"
 		"enabled" 	"1"
 		"xpos"		"c-135"
-		"ypos"		"260"
+		"ypos"		"270"
 		"wide"	 	"600"
 		"tall"	 	"30"
 		"priority"	"40"
@@ -269,7 +251,7 @@
 		"visible" 	"0"
 		"enabled" 	"1"
 		"xpos"		"c-126"
-		"ypos"		"330"
+		"ypos"		"340"
 		"wide"	 	"200"
 		"tall"	 	"30"
 		"priority"	"40"
@@ -285,7 +267,7 @@
 		"visible" 	"0"
 		"enabled" 	"1"
 		"xpos"		"c-126"
-		"ypos"		"340"
+		"ypos"		"350"
 		"wide"	 	"200"
 		"tall"	 	"30"
 		"priority"	"35"
@@ -555,6 +537,7 @@
 		"wide"	 "f0"
 		"tall"	 "480"
 		"ypos"	 "20"
+		"xpos"	 "7"
 	}
 
 	HudMenu
