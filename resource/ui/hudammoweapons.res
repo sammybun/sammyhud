@@ -47,6 +47,7 @@
 		"enabled"		"1"
 		"textAlignment"	"west"	
 		"labelText"		"%Ammo%"
+			"auto_wide_tocontents"	"1"
 		
 	}
 	"AmmoInClipShadow"
@@ -64,6 +65,7 @@
 		"enabled"		"1"
 		"textAlignment"	"west"	
 		"labelText"		"%Ammo%"
+		"auto_wide_tocontents"	"1"
 
 		"pin_to_sibling"	"AmmoInClip"
 		"pin_corner_to_sibling"		"1"
@@ -75,7 +77,7 @@
 		"fieldName"		"AmmoInReserve"
 		"font"			"nüMedium24"
 		"fgcolor"		"Ammo In Reserve"
-		"xpos"			"33"
+		"xpos"			"25"
 		"ypos"			"0"
 		"zpos"			"7"
 		"wide"			"40"
@@ -84,6 +86,7 @@
 		"enabled"		"1"
 		"textAlignment"	"west"		
 		"labelText"		"%AmmoInReserve%"
+			"auto_wide_tocontents"	"1"
 		
 		"pin_to_sibling"	"AmmoInClip"
 		"pin_corner_to_sibling"		"1"
@@ -105,6 +108,7 @@
 		"enabled"		"1"
 		"textAlignment"	"west"		
 		"labelText"		"%AmmoInReserve%"
+			"auto_wide_tocontents"	"1"
 
 		"pin_to_sibling"	"AmmoInReserve"
 		"pin_corner_to_sibling"		"1"
