@@ -1,17 +1,4 @@
-
-// Select a charge layout
-//------------------------------------------
-
-	#base "hudmediccharge_default.res"
-	//#base "hudmediccharge_center.res"
-	//#base "hudmediccharge_bottom.res"  // Bar at the bottom
-
-// Small charge label under crosshair	
-//------------------------------------------
-
-	#base "hudmediccharge_scl.res"
-
-//------------------------------------------
+#base "../../customizations/UberMeters.res"
 
 "Resource/UI/HudMedicCharge.res"
 {
@@ -29,7 +16,7 @@
 		"image"			"../hud/medic_charge_blue_bg"
 		"scaleImage"	"1"	
 		"teambg_2"		"../hud/medic_charge_red_bg"
-		"teambg_3"		"../hud/medic_charge_blue_bg"				
+		"teambg_3"		"../hud/medic_charge_blue_bg"
 	}
 	
 	"IndividualChargesLabel"
