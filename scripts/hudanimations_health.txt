@@ -7,8 +7,8 @@ event HudHealthBonusPulse
 	Animate PlayerStatusHealthValue		FgColor		"Health buff"	Linear 0.0	0.2
 	Animate PlayerStatusHealthValue		FgColor		"Health buff 2"		Linear 0.2	0.4
 
-	//Animate PlayerStatusHealthValueSpec		FgColor		"Health buff"	Linear 0.0 	0.075
-	//Animate	PlayerStatusHealthValueSpec		FgColor		"Health buff 2"		Linear 0.125 	0.075
+	Animate PlayerStatusHealthValueSpec		FgColor		"nüGrey"	Linear 0.0 	0.075
+	Animate	PlayerStatusHealthValueSpec		FgColor		"nüGrey"		Linear 0.125 	0.075
 
 	Animate HealthBarBuff		Alpha	"255"		Accel 0.0 0.0
 	Animate HealthBarBuff2	Alpha	"255"		Accel 0.0 0.0
@@ -38,6 +38,8 @@ event HudHealthBonusPulseStop
 
 	Animate PlayerStatusHealthValue		FgColor		"Health"	Linear 0.0	0.0
 	Animate	PlayerStatusHealthValueSpec		FgColor		"Health"	Linear 0.125 0.075
+	
+	Animate	PlayerStatusHealthValueSpec		FgColor		"Health"		Linear 0.125 	0.075
 	
 	Animate HealthBarBuff		Alpha	"0"		Accel 0.0 0.0
 	Animate HealthBarBuff2	Alpha	"0"		Accel 0.0 0.0

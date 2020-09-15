@@ -7,6 +7,7 @@
 		"enabled"		"1"
 		"xpos"			"90"
 		"ypos"			"r35"
+		"zpos" 			"3"
 		"wide"			"f0"
 		"tall"			"f0"
 		"MeterFG"		"White"
@@ -17,8 +18,8 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"ItemEffectMeterBG"
-		"xpos"			"25"
-		"ypos"			"0"
+		"xpos"			"-30"
+		"ypos"			"10"
 		"zpos"			"0"
 		"wide"			"55"
 		"tall"			"17"
@@ -26,7 +27,7 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"fillcolor"		"220 220 220 0"
+		"fillcolor"		"30 30 30 0"
 	}
 	"ItemEffectMeterLabel"
 	{
@@ -67,7 +68,7 @@
 		"textAlignment"			"west"
 		"dulltext"				"0"
 		"brighttext"			"0"
-		"font"					"nü12"
+		"font"					"nü10"
 		"fgcolor_override"		"white"
 	}
 	"ItemEffectMeterLabelshdw"
@@ -88,7 +89,7 @@
 		"textAlignment"			"west"
 		"dulltext"				"0"
 		"brighttext"			"0"
-		"font"					"nü12"
+		"font"					"nü10"
 		"fgcolor_override"		"0 0 0 255"
 	}
 
@@ -115,7 +116,7 @@
 	{
 		"ControlName"			"CExLabel"
 		"fieldName"				"ItemEffectMeterCount"
-		"xpos"					"19"
+		"xpos"					"17"
 		"ypos"					"-2"
 		"zpos"					"2"
 		"wide"					"30"
@@ -128,7 +129,7 @@
 		"textAlignment"			"center"
 		"dulltext"				"0"
 		"brighttext"			"0"
-		"font"					"nü22"
+		"font"					"nü18"
 		"fgcolor"				"nüwhite"
 	}
 }

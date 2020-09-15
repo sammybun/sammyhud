@@ -8,8 +8,8 @@ Scheme
 		"Health"				"240 240 240 255"
 		"Health Buff"			"60 255 180 255"	//41 152 182 255
 		"Health Buff 2"			"60 255 120 255"	//0 200 255 255
-		"Health Low"			"204 72 128 255"	//200 0 0 255
-		"Health Low 2"			"209 90 140 255"	//255 75 75 255
+		"Health Low"			"204 56 56 255"	//200 0 0 255
+		"Health Low 2"			"255 70 70 255"	//255 75 75 255
 		
 		
 		// Ammo
@@ -18,8 +18,8 @@ Scheme
 		"Ammo In Clip"			"240 240 240 255"
 		"Ammo In Reserve"		"60 255 180 255"	//41 152 182 255
 		"Ammo No Clip"			"240 240 240 255"
-		"Low Ammo 1"			"204 72 128 255"	//200 0 0 255
-		"Low Ammo 2"			"209 90 140 255"	//255 75 75 255
+		"Low Ammo 1"			"204 56 56 255"	//200 0 0 255
+		"Low Ammo 2"			"255 70 70 255"	//255 75 75 255
 		
 		// Medic Charge
 		//-----------------------------------------
@@ -61,9 +61,9 @@ Scheme
 		"DarkPanelBG"			"15 15 15 255"
 
 		"nüBLUTransparent"		"8 146 208 140"
-		"nüREDTransparent"		"255 45 38 140"
+		"nüREDTransparent"		"206 26 30 140"
 		"nüBLUSolid"			"8 146 208 255"
-		"nüREDSolid"			"255 45 38 255"
+		"nüREDSolid"			"235 36 30 255"
 		
 		"ShadowBlack"			"0 0 0 255"
 		
