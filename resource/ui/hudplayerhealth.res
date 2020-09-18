@@ -71,7 +71,7 @@
 		"enabled"		"1"
 		"labelText"		"%Health%"
 		"textAlignment"	"east"	
-		"font"			"nüBold48"
+		"font"			"nüBold56"
 		"fgcolor"		"nüWhite"
 		
 	}
@@ -88,7 +88,7 @@
 		"enabled"		"1"
 		"labelText"		"%Health%"
 		"textAlignment"	"east"	
-		"font"			"nüBoldShadow48"
+		"font"			"nüBoldShadow56"
 		"fgcolor"		"ShadowBlack"
 
 		"pin_to_sibling"	"PlayerStatusHealthValue"

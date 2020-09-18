@@ -2,9 +2,9 @@
 // Select a font to use
 //------------------------------------------
 
-	#base "scheme/FontSizes.res"
-	//#base "scheme/fonts_roboto.res"
-	#base "scheme/fonts_Noto.res"
+	//#base "../customizations/fonts_roboto.res"
+	//#base "../customizations/fonts_Noto.res"
+	#base "../customizations/fonts_gotham.res"
 
 // Do not change these
 //------------------------------------------
@@ -94,6 +94,10 @@ Scheme
 			"font" "resource/fonts/HudasIscariote.otf"
 			"name" "Hudas Iscariote"
 		}
-		
+		"16"
+		{
+			"font" "resource/fonts/Noah-Bold.ttf"
+			"name" "Noah Bold"
+		}
 	}
 }

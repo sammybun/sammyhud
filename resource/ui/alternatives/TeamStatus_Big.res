@@ -185,9 +185,9 @@
 			{
 				"ControlName"	"CExLabel"
 				"fieldName"		"respawntime"
-				"font"			"nüMediumOutline12"
+				"font"			"nüMediumOutline14"
 				"xpos"			"cs-0.5"
-				"ypos"			"0"
+				"ypos"			"1"
 				"zpos"			"7"
 				"wide"			"f0"
 				"tall"			"16"

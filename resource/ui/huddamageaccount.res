@@ -9,8 +9,8 @@
 		"PositiveColor"			"Healing Numbers"
 		"NegativeColor"			"Damage Numbers"
 		"delta_lifetime"		"1.5"
-		"delta_item_font"		"nüMediumOutline24"
-		"delta_item_font_big"	"nüMediumOutline24"
+		"delta_item_font"		"nüMediumOutline30"
+		"delta_item_font_big"	"nüMediumOutline30"
 	}
 	
 	"DamageAccountValue"

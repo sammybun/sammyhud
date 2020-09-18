@@ -102,8 +102,8 @@
 		"label"	""
 		"command" "engine con_enable 1;showconsole;
 					echo ================================
-					echo --- axhud
-					echo --- by alex
+					echo --- sammyHud
+					echo --- by sammy
 					echo ================================"
 		"tooltip" "HUD Info"
 	}
