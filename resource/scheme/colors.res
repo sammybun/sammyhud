@@ -33,7 +33,7 @@ Scheme
 		// Misc
 		//-----------------------------------------
 		
-		"Damage Numbers"		"240 240 240 255" //No longer controlled by the hud. Change this in your advanced options. 
+		"Damage Numbers"		"240 240 240 255" //Damage numbers above ammo
 		"Healing Numbers"		"60 255 180 255"
 		"Stickies"				"240 240 240 255"
 		"Metal"					"240 240 240 255"
@@ -45,6 +45,8 @@ Scheme
 		
 		"BlackLightTransparent"					"0 0 0 50"
 		"Blank"									"0 0 0 0"
+		
+		"nüMint"				"60 255 180 255"
 		
 		"nüBase"				"15 15 15 255"
 		"nüBaseTransparent"		"15 15 15 140"

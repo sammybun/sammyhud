@@ -105,16 +105,19 @@
 		"proportionaltoparent" "1"
 		"actionsignallevel"	"2"
 
-		//"border_default"	"NoBorder"
-		//"border_armed"		"NoBorder"
+		"border_default"	"NoBorder"
+		"border_armed"		"NoBorder"
 		"paintbackground"	"1"
 
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
 
 		"defaultFgColor_override"	"nüWhite"
-		"armedFgColor_override"		"nüWhite"
-		"depressedFgColor_override" "nüWhite"
+		"armedFgColor_override"		"nüGrey"
+		"depressedFgColor_override" "nüGrey"
+		
+		"armedBgColor_override"		"nüMint"
+		"depressedBgColor_override" "nüMint"
 	}	
 
 	"MatchmakingBanPanel"

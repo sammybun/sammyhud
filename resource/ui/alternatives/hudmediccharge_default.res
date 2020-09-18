@@ -18,7 +18,7 @@
 		"textAlignment"	"west"
 		"dulltext"		"0"
 		"brighttext"	"0"
-		"font"			"nüBold48"
+		"font"			"nüBold56"
 		"fgcolor"		"ChargePercent"
 	}
 	
@@ -40,7 +40,7 @@
 		"textAlignment"	"west"
 		"dulltext"		"0"
 		"brighttext"	"0"
-		"font"			"nüBoldShadow48"
+		"font"			"nüBoldShadow56"
 		"fgcolor"		"ShadowBlack"
 
 		"pin_to_sibling"	"ChargeLabel"

@@ -8,7 +8,7 @@ Scheme
 		//-----------------------------------------
 		
 		"nüBase"				"46 138 55 255"
-		"nüBlue"				"41 152 182 255"
+		"nüBlue"				"60 255 180 255"
 		"nüLightBase"			"0 126 140 215"
 		"nüMint"				"60 255 180 255"
 		
@@ -103,7 +103,7 @@ Scheme
 
 		PropertySheet.TextColor				"nüOffWhite"
 		PropertySheet.SelectedTextColor		"nüWhite"
-			
+		
 		Frame.BgColor					"PanelBG"
 		Frame.OutOfFocusBgColor			"LightPanelBG"
 		FrameGrip.Color1				"Blank"
@@ -167,11 +167,13 @@ Scheme
 
 		RichText.TextColor				"nüWhite"
 		RichText.BgColor				"LightPanelBG"
-		RichText.SelectedTextColor		"nüWhite"
+		RichText.SelectedTextColor		"nüGrey"
 		RichText.SelectedBgColor		"nüMint"
 		
 		Console.TextColor			"100 255 100 255"
 		Console.DevTextColor		"nüWhite"
+		Console.SelectedBgColor     "nüMint"
+		Console.SelectedTextColor   "nüGrey"
 
 		TextEntry.TextColor 			"nüWhite"
 		TextEntry.BgColor				"LightPanelBG"

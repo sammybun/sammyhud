@@ -4,7 +4,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"SmallChargeLabel"
-		"xpos"			"c-46"
+		"xpos"			"c-47"
 		"ypos"			"c7"
 		"zpos"			"2"
 		"wide"			"100"

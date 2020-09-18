@@ -12,7 +12,7 @@
 		"visible"		"0"
 		"enabled"		"1"
 		"border"		"NoBorder"
-		"bgcolor_override"	"0 126 140 215"
+		"bgcolor_override"	"60 255 180 215"
 	}
 
 	"TextLabel"

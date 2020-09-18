@@ -2,8 +2,6 @@
 // Select a font to use
 //------------------------------------------
 
-	//#base "../customizations/fonts_roboto.res"
-	//#base "../customizations/fonts_Noto.res"
 	#base "../customizations/fonts_gotham.res"
 
 // Do not change these

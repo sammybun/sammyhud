@@ -173,6 +173,13 @@
 		"Command"		"nextitem"
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
+		
+		"defaultFgColor_override"	"nüWhite"
+		"armedFgColor_override"		"nüGrey"
+		"depressedFgColor_override" "nüGrey"
+		
+		"armedBgColor_override"		"nüMint"
+		"depressedBgColor_override" "nüMint"
 	}
 	"PrevButton"
 	{
@@ -196,6 +203,13 @@
 		"Command"		"previtem"
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
+		
+		"defaultFgColor_override"	"nüWhite"
+		"armedFgColor_override"		"nüGrey"
+		"depressedFgColor_override" "nüGrey"
+		
+		"armedBgColor_override"		"nüMint"
+		"depressedBgColor_override" "nüMint"
 	}
 	
 	"CloseButton"
@@ -221,6 +235,13 @@
 		"default"		"1"
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
+		
+		"defaultFgColor_override"	"nüWhite"
+		"armedFgColor_override"		"nüGrey"
+		"depressedFgColor_override" "nüGrey"
+		
+		"armedBgColor_override"		"nüMint"
+		"depressedBgColor_override" "nüMint"
 	}
 	"OpenLoadoutButton"
 	{
@@ -244,6 +265,14 @@
 		"Command"		"changeloadout"
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
+		
+		
+		"defaultFgColor_override"	"nüWhite"
+		"armedFgColor_override"		"nüGrey"
+		"depressedFgColor_override" "nüGrey"
+		
+		"armedBgColor_override"		"nüMint"
+		"depressedBgColor_override" "nüMint"
 	}
 	
 	"DiscardButton"

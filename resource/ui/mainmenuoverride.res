@@ -87,6 +87,12 @@
 			}		
 		}
 		
+	"DashboardDimmer"
+	{
+		"wide" "0"
+		"tall" "0"
+	}
+		
 		"SaxxySettings"
 		{
 			"xpos"			"0"
@@ -926,6 +932,7 @@
 		"paintbackground"	"1"
 		"border"		"NoBorder"
 		"bgcolor_override"	"0 0 0 240"
+		"fgColor_override"	"nüWhite"
 		
 		"navUp"			"MOTD_ShowButtonPanel"
 		"navDown"		"SettingsButton"
@@ -1014,7 +1021,7 @@
 			"wide"			"210"
 			"tall"			"135"
 			"PaintBackgroundType"	"2"
-			"fgcolor_override"	"117 107 94 255"
+			"fgcolor_override"	"nüWhite"
 			
 			"Notifications_Control"
 			{
@@ -1632,8 +1639,8 @@
 			"armedFgColor_override"   "nüWhite"
 			"depressedFgColor_override" "nüWhite"
 			"defaultBgColor_override" "Blank"
-			"armedBgColor_override"   "47 47 47 215"
-			"depressedBgColor_override" "47 47 47 215"
+			"armedBgColor_override"   "47 47 47 0"
+			"depressedBgColor_override" "47 47 47 0"
 			
 			"SubImage"
 			{
@@ -1724,8 +1731,8 @@
 			"armedFgColor_override"   "nüWhite"
 			"depressedFgColor_override" "nüWhite"
 			"defaultBgColor_override" "Blank"
-			"armedBgColor_override"   "47 47 47 215"
-			"depressedBgColor_override" "47 47 47 215"
+			"armedBgColor_override"   "47 47 47 0"
+			"depressedBgColor_override" "47 47 47 0"
 			
 			"SubImage"
 			{
@@ -1816,8 +1823,8 @@
 			"armedFgColor_override"   "nüWhite"
 			"depressedFgColor_override" "nüWhite"
 			"defaultBgColor_override" "Blank"
-			"armedBgColor_override"   "47 47 47 215"
-			"depressedBgColor_override" "47 47 47 215"
+			"armedBgColor_override"   "47 47 47 0"
+			"depressedBgColor_override" "47 47 47 0"
 			
 			"SubImage"
 			{
@@ -1908,8 +1915,8 @@
 			"armedFgColor_override"   "nüWhite"
 			"depressedFgColor_override" "nüWhite"
 			"defaultBgColor_override" "Blank"
-			"armedBgColor_override"   "47 47 47 215"
-			"depressedBgColor_override" "47 47 47 215"
+			"armedBgColor_override"   "47 47 47 0"
+			"depressedBgColor_override" "47 47 47 0"
 			
 			"SubImage"
 			{
@@ -2001,8 +2008,8 @@
 			"armedFgColor_override"   "nüWhite"
 			"depressedFgColor_override" "nüWhite"
 			"defaultBgColor_override" "Blank"
-			"armedBgColor_override"   "47 47 47 215"
-			"depressedBgColor_override" "47 47 47 215"
+			"armedBgColor_override"   "47 47 47 0"
+			"depressedBgColor_override" "47 47 47 0"
 			
 			"SubImage"
 			{
@@ -2094,8 +2101,8 @@
 			"armedFgColor_override"   "nüWhite"
 			"depressedFgColor_override" "nüWhite"
 			"defaultBgColor_override" "Blank"
-			"armedBgColor_override"   "47 47 47 215"
-			"depressedBgColor_override" "47 47 47 215"
+			"armedBgColor_override"   "47 47 47 0"
+			"depressedBgColor_override" "47 47 47 0"
 		}
 		
 		"SubButtonShadow"
@@ -2172,8 +2179,8 @@
 			"armedFgColor_override"   "nüWhite"
 			"depressedFgColor_override" "nüWhite"
 			"defaultBgColor_override" "Blank"
-			"armedBgColor_override"   "47 47 47 215"
-			"depressedBgColor_override" "47 47 47 215"
+			"armedBgColor_override"   "47 47 47 0"
+			"depressedBgColor_override" "47 47 47 0"
 		}
 		
 		"SubButtonShadow"
@@ -2250,8 +2257,8 @@
 			"armedFgColor_override"   "nüWhite"
 			"depressedFgColor_override" "nüWhite"
 			"defaultBgColor_override" "Blank"
-			"armedBgColor_override"   "47 47 47 215"
-			"depressedBgColor_override" "47 47 47 215"
+			"armedBgColor_override"   "47 47 47 0"
+			"depressedBgColor_override" "47 47 47 0"
 		}
 		
 		"SubButtonShadow"
