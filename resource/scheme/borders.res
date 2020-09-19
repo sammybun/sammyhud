@@ -413,7 +413,9 @@ Scheme
 			"bordertype"			"scalable_image"
 			"backgroundtype"		"0"
 			
-			"image"					"replay/thumbnails/bg_red_transparent"
+			"image"					"replay/thumbnails/bg_blu_transparent"
+			"color"					"Gray30"
+			
 			"src_corner_height"		"23"				// pixels inside the image
 			"src_corner_width"		"23"
 			"draw_corner_width"		"0"				// screen size of the corners ( and sides ), proportional
@@ -436,6 +438,8 @@ Scheme
 			"backgroundtype"		"2"
 			
 			"image"					"replay/thumbnails/bg_blu_transparent"
+			"color"					"Gray30"
+			
 			"src_corner_height"		"23"				// pixels inside the image
 			"src_corner_width"		"23"
 			"draw_corner_width"		"0"				// screen size of the corners ( and sides ), proportional

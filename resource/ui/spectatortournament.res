@@ -11,13 +11,13 @@
 		"enabled"		"1"
 				
 		"team1_player_base_offset_x"		"0"
-		"team1_player_base_y"				"245"
+		"team1_player_base_y"				"215"
 		"team1_player_delta_x"				"0"
-		"team1_player_delta_y"				"17"
+		"team1_player_delta_y"				"-19"
 		"team2_player_base_offset_x"		"0"
-		"team2_player_base_y"				"217"
+		"team2_player_base_y"				"255"
 		"team2_player_delta_x"				"0"
-		"team2_player_delta_y"				"-17"
+		"team2_player_delta_y"				"19"
 		
 		"playerpanels_kv"
 		{
@@ -42,7 +42,7 @@
 				"pinCorner"		"0"
 				"visible"		"1"
 				"enabled"		"1"
-				"fillcolor"		"15 15 15 255"
+				"fillcolor"		"15 15 15 135"
 				"proportionaltoparent"	"1"
 			}	
 
@@ -59,7 +59,7 @@
 				"pinCorner"		"0"
 				"visible"		"1"
 				"enabled"		"1"
-				"fillcolor"		"15 15 15 255"
+				"fillcolor"		"15 15 15 135"
 				"proportionaltoparent"	"1"
 			}
 
@@ -76,7 +76,7 @@
 				"pinCorner"		"0"
 				"visible"		"1"
 				"enabled"		"1"
-				"fillcolor"		"15 15 15 255"
+				"fillcolor"		"15 15 15 135"
 				"proportionaltoparent"	"1"
 			}
 			
@@ -93,7 +93,7 @@
 				"pinCorner"		"0"
 				"visible"		"1"
 				"enabled"		"1"
-				"fillcolor"		"15 15 15 255"
+				"fillcolor"		"15 15 15 135"
 				"proportionaltoparent"	"1"
 			}
 
@@ -101,7 +101,7 @@
 			{
 				"ControlName"	"CExLabel"
 				"fieldName"		"playername"
-				"font"			"nüMedium12"
+				"font"			"nüBold10"
 				"xpos"			"22"
 				"ypos"			"2"
 				"zpos"			"5"
@@ -119,7 +119,7 @@
 			{
 				"ControlName"	"CExLabel"
 				"fieldName"		"playernameshadow"
-				"font"			"nüMediumShadow12"
+				"font"			"nüBoldShadow10"
 				"xpos"			"0"
 				"ypos"			"-1"
 				"zpos"			"4"
@@ -178,7 +178,7 @@
 				"tall"				"18"
 				"visible"			"1"
 				"enabled"			"1"	
-				"HealthBonusPosAdj"	"213"	// 320 - 1920x1080, 213 - 1280x720, 229 - 1024x768
+				"HealthBonusPosAdj"	"320"	// 320 - 1920x1080, 213 - 1280x720, 229 - 1024x768
 				"HealthDeathWarning"		"1.0"
 				"TFFont"					"HudFontSmallest"
 				"HealthDeathWarningColor"	"HUDDeathWarning"
@@ -268,7 +268,7 @@
 			{
 				"ControlName"	"CExLabel"
 				"fieldName"		"chargeamount"
-				"font"			"nüBold10"
+				"font"			"nüBold14"
 				"xpos"			"110"
 				"ypos"			"0"
 				"zpos"			"6"
@@ -286,7 +286,7 @@
 			{
 				"ControlName"	"CExLabel"
 				"fieldName"		"chargeamountshadow"
-				"font"			"nüBoldShadow10"
+				"font"			"nüBoldShadow14"
 				"xpos"			"0"
 				"ypos"			"-1"
 				"zpos"			"6"

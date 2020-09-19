@@ -23,7 +23,7 @@
 		"wide"			"16"
 		"tall"			"16"
 		"visible"		"0"
-		"enabled"		"0"
+		"enabled"		"1"
 		"image"			"../hud/health_bg"
 		"scaleImage"	"1"
 	}
@@ -45,13 +45,13 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"PlayerStatusHealthBonusImage"
-		"xpos"			"142"
-		"ypos"			"cs-0.5"
+		"xpos"			"9999"
+		"ypos"			"9999"
 		"zpos"			"2"
 		"wide"			"0"
 		"tall"			"23"
 		"visible"		"0"
-		"enabled"		"1"
+		"enabled"		"0"
 		"image"			"replay/thumbnails/blank" //../hud/health_over_bg
 		"scaleImage"	"1"
 		"proportionaltoparent"	"1"
@@ -68,7 +68,7 @@
 		"tall"			"f0"
 		"visible"		"1"
 		"enabled"		"1"
-		"bgcolor_override"	"15 15 15 215"
+		"bgcolor_override"	"15 15 15 0"
 		"scaleImage"		"1"
 		"proportionaltoparent"	"1"
 

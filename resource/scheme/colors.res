@@ -78,7 +78,22 @@ Scheme
 		"GoalOrange"		"255 133 0"
 		"TFOrange"			"145 73 59 255"
 		"Purple"			"137 69 99 255"
-
+		
+		/////////////
+		"Gray15Light"										"28 31 34 60"
+		"Gray15"											"28 31 34 120"
+		"Gray15mid"											"28 31 34 210"
+		"Gray15solid"										"28 31 34 255"
+		
+		//#2a2e30
+		"Gray30Light"										"42 46 48 60"
+		"Gray30"											"42 46 48 120"
+		"Gray30mid"											"42 46 48 210"
+		"Gray30solid"										"42 46 48 255"
+		
+		"Shading"											"0 0 0 120"	
+		////////////
+		
 		"QuestGold"			"208 147 75 255"
 		"HalloweenThemeColor2015_Light"	"238 126 17 255"
 		"HalloweenThemeColor2015"		"135 54 16 255"

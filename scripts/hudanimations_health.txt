@@ -21,7 +21,10 @@ event HudHealthBonusPulse
 	
 	Animate HealthBarBuffSpec		Alpha	"0"			Accel 0.0 0.4
 	Animate HealthBarBuffSpec2		Alpha	"255"		Accel 0.2 0.2
-		
+	
+	Animate PlayerStatusHealthValueSpecT		FgColor		"Health buff"	Linear 0.0	0.2
+	Animate PlayerStatusHealthValueSpecT		FgColor		"Health buff 2"		Linear 0.2	0.4	
+	
 	RunEvent HudHealthBonusPulseLoop	0.4
 }
 
@@ -40,6 +43,8 @@ event HudHealthBonusPulseStop
 	Animate	PlayerStatusHealthValueSpec		FgColor		"Health"	Linear 0.125 0.075
 	
 	Animate	PlayerStatusHealthValueSpec		FgColor		"Health"		Linear 0.125 	0.075
+	
+	Animate	PlayerStatusHealthValueSpecT	FgColor		"Health"		Linear 0.125 	0.075
 	
 	Animate HealthBarBuff		Alpha	"0"		Accel 0.0 0.0
 	Animate HealthBarBuff2	Alpha	"0"		Accel 0.0 0.0
@@ -70,6 +75,9 @@ event HudHealthDyingPulse
 	Animate HealthBarHurtSpec		Alpha	"255"		Accel 0.0 0.0
 	Animate HealthBarHurt2	Alpha	"255"		Accel 0.0 0.0
 	
+	Animate PlayerStatusHealthValueSpecT		FgColor		"Health Low"		Linear 0.0	0.075
+	Animate PlayerStatusHealthValueSpecT		FgColor		"Health Low 2"	    Linear 0.125	0.075
+	
 	RunEvent HudHealthDyingPulseLoop	0.25
 }
 
@@ -86,6 +94,7 @@ event HudHealthDyingPulseStop
 
 	Animate PlayerStatusHealthValue		FgColor		"Health"	Linear 0.0	0.0
 	Animate	PlayerStatusHealthValueSpec		FgColor		"Health"		Linear 0.0 0.0
+	Animate	PlayerStatusHealthValueSpecT		FgColor		"Health"		Linear 0.0 0.0
 	
 	Animate HealthBarHurt		Alpha	"0"		Accel 0.0 0.0
 	Animate HealthBarHurt2		Alpha	"0"		Accel 0.0 0.0
