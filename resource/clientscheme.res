@@ -2,7 +2,7 @@
 // Select a font to use
 //------------------------------------------
 
-	#base "../customizations/fonts_gotham.res"
+	#base "../resource/scheme/fonts_noah.res"
 
 // Do not change these
 //------------------------------------------
