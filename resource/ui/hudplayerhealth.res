@@ -72,7 +72,7 @@
 		"labelText"		"%Health%"
 		"textAlignment"	"east"	
 		"font"			"nüBold56"
-		"fgcolor"		"nüWhite"
+		"fgcolor"		"Health"
 		
 	}
 	"PlayerStatusHealthValueShadow"
