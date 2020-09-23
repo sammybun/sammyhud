@@ -179,7 +179,7 @@
 				"visible"			"1"
 				"enabled"			"1"	
 				"HealthBonusPosAdj"	"320"	// 320 - 1920x1080, 213 - 1280x720, 229 - 1024x768
-				"HealthDeathWarning"		"1.0"
+				"HealthDeathWarning"		"0.49"
 				"TFFont"					"HudFontSmallest"
 				"HealthDeathWarningColor"	"HUDDeathWarning"
 				"TextColor"					"HudOffWhite"

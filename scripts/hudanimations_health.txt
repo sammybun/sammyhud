@@ -78,7 +78,7 @@ event HudHealthDyingPulse
 	Animate PlayerStatusHealthValueSpecT		FgColor		"Health Low"		Linear 0.0	0.075
 	Animate PlayerStatusHealthValueSpecT		FgColor		"Health Low 2"	    Linear 0.125	0.075
 	
-	RunEvent HudHealthDyingPulseLoop	0.25
+	RunEvent HudHealthDyingPulseLoop	0.4
 }
 
 // call to loop HudHealthDyingPulse
@@ -94,7 +94,7 @@ event HudHealthDyingPulseStop
 
 	Animate PlayerStatusHealthValue		FgColor		"Health"	Linear 0.0	0.0
 	Animate	PlayerStatusHealthValueSpec		FgColor		"Health"		Linear 0.0 0.0
-	Animate	PlayerStatusHealthValueSpecT		FgColor		"Health"		Linear 0.0 0.0
+	Animate PlayerStatusHealthValueSpecT		FgColor		"Health"	    Linear 0.0 0.0
 	
 	Animate HealthBarHurt		Alpha	"0"		Accel 0.0 0.0
 	Animate HealthBarHurt2		Alpha	"0"		Accel 0.0 0.0

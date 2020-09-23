@@ -28,7 +28,7 @@
 		"tall"							"f0"
 		"visible"						"1"
 		"PaintBackgroundType"			"2"
-		"border"						"GrayBlueBorder"
+		"border"						"TransparentBG"
 		"proportionaltoparent"			"1"
 	}
 
@@ -44,9 +44,9 @@
 		"proportionaltoparent"			"1"
 		"labeltext"						"#TF_MM_OpenSettings"
 		"textAlignment"					"west"
-		"font"							"Size 20"
+		"font"							"nüBold20"
 		"AllCaps"						"1"
-		"fgcolor_override"				"White"
+		"fgcolor_override"				"nüWhite"
 		
 		"mouseinputenabled"				"0"
 	}
@@ -63,10 +63,10 @@
 		"proportionaltoparent"			"1"
 		"labeltext"						"#TF_MM_InviteMode"
 		"textAlignment"					"west"
-		"font"							"Size 11"
+		"font"							"nüBold10"
 		"AllCaps"						"1"
 		"smallcheckimage"				"1"
-		"fgcolor_override"				"White"
+		"fgcolor_override"				"nüWhite"
 
 		"sound_depressed"				"UI/buttonclickrelease.wav"	
 		"button_activation_type"		"1"
@@ -82,16 +82,16 @@
 		"wide"							"200"
 		"tall"							"15"
 		"textAlignment"					"west"
-		"font"							"Size 11"
+		"font"							"nüBold10"
 		"keyboardinputenabled"			"0"
 
 		"editable"						"0"
-		"bgcolor_override"				"BlackTransparent"
-		"fgcolor_override"				"White"
-		"disabledFgColor_override" 		"White"
+		"bgcolor_override"				"nüBaseTransparent"
+		"fgcolor_override"				"nüWhite"
+		"disabledFgColor_override" 		"nüWhite"
 		"disabledBgColor_override"		"Blank"
 		"selectionColor_override" 		"Blank"
-		"selectionTextColor_override" 	"White"
+		"selectionTextColor_override" 	"nüWhite"
 		"defaultSelectionBG2Color_override" "Blank"
 	}
 
@@ -107,7 +107,7 @@
 		"proportionaltoparent"			"1"
 		"labeltext"						"#TF_MM_IgnoreInvites"
 		"textAlignment"					"west"
-		"font"							"Size 11"
+		"font"							"nüBold10"
 		"AllCaps"						"1"
 		"smallcheckimage"				"1"
 
@@ -129,7 +129,7 @@
 		"proportionaltoparent"			"1"
 		"labeltext"						""
 		"textAlignment"					"west"
-		"font"							"Size 11"
+		"font"							"nüBold10"
 		"smallcheckimage"				"1"
 		"enabled"						"0"
 
@@ -149,13 +149,13 @@
 		"proportionaltoparent"			"1"
 		"labeltext"						"#TF_MM_PartySameTeam"
 		"textAlignment"					"west"
-		"font"							"Size 11"
+		"font"							"nüBold10"
 		"AllCaps"						"1"
 		"smallcheckimage"				"1"
 
 		"sound_depressed"				"UI/buttonclickrelease.wav"	
 		"button_activation_type"		"1"
-		"fgcolor_override"				"White"
+		"fgcolor_override"				"nüWhite"
 		
 		"pin_to_sibling"				"KeepPartyOnSameTeam"
 		"pin_corner_to_sibling"			"PIN_TOPLEFT"
@@ -174,7 +174,7 @@
 		"proportionaltoparent"			"1"
 		"labeltext"						""
 		"textAlignment"					"west"
-		"font"							"Size 11"
+		"font"							"nüBold10"
 		"smallcheckimage"				"1"
 		"actionsignallevel"				"1"
 
@@ -196,9 +196,9 @@
 		"proportionaltoparent"			"1"
 		"labeltext"						"#TF_LobbyContainer_CustomPingButton"
 		"textAlignment"					"west"
-		"font"							"Size 11"
+		"font"							"nüBold10"
 		"AllCaps"						"1"
-		"fgcolor_override"				"White"
+		"fgcolor_override"				"nüWhite"
 		"smallcheckimage"				"1"
 
 		"sound_depressed"				"UI/buttonclickrelease.wav"	
@@ -223,7 +223,7 @@
 		"textAlignment"					"north-west"
 		"font"							"HudFontSmallest"
 		"wrap"							"1"
-		"fgcolor"						"White"
+		"fgcolor"						"nüWhite"
 
 		"sound_depressed"				"UI/buttonclickrelease.wav"	
 		"button_activation_type"		"1"
@@ -241,8 +241,8 @@
 		"proportionaltoparent"			"1"
 		"labeltext"						""
 		"textAlignment"					"west"
-		"font"							"Size 12"
-		"fgcolor_override"				"OrangeLight"
+		"font"							"nüBold10"
+		"fgcolor_override"				"nüMint"
 		"AllCaps"						"1"
 		
 		"mouseinputenabled"				"0"
@@ -313,7 +313,7 @@
 
 				"Slider"
 				{
-					"fgcolor_override"	"White"
+					"fgcolor_override"	"nüWhite"
 				}
 		
 				"UpButton"
@@ -346,7 +346,7 @@
 			"proportionaltoparent"		"1"
 
 			"paintborder"				"1"
-			"border"					"BlueTransparent70"
+			"border"					"TransparentBG"
 		}
 
 		"Frame"

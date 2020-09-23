@@ -63,10 +63,17 @@
 	}
 
 	"TextLabel"
-	{	
+	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"TextLabel"
-		"fgcolor"		"TanLight"
+		"fgcolor"		"56 47 29 255"
+		"fgcolor_override" "56 47 29 255"
+		"if_high_priority"
+		{
+			"fgcolor"			"nüWhite"
+			"fgcolor_override"	"nüWhite"
+			"font"				"StorePromotionsTitle"
+		}
 		"xpos"			"7"
 		"ypos"			"7"
 		"zpos"			"2"
@@ -79,6 +86,6 @@
 		"wrap"			"1"
 		"labelText"		"%text%"
 		"textAlignment"	"West"
-		"font"			"TFFontSmall"
+		"font"			"HudFontSmallest"
 	}
 }

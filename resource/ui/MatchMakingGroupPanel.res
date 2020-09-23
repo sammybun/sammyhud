@@ -36,8 +36,8 @@
 		"labeltext"					""
 		"smallcheckimage"			"1"
 		"AllCaps"					"1"
-		"fgcolor"					"White"	
-		"font"						"Size 15"
+		"fgcolor"					"nüWhite"	
+		"font"						"nüBold14"
 
 		"sound_depressed"			"UI/buttonclickrelease.wav"	
 		"button_activation_type"	"1"

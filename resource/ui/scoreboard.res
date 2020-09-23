@@ -79,7 +79,7 @@
 		
 		if_mvm
 		{
-			"xpos"			"100"
+			"xpos"			"999999"
 			"wide"			"560"
 		}
 	}
@@ -99,6 +99,11 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"fillcolor"		"Panelbg"
+		
+		if_mvm
+		{
+			"visible"		"0"
+		}
 	}
 	
 	"MainBG"
@@ -116,6 +121,12 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"fillcolor"		"Panelbg"
+		
+		if_mvm
+		{
+			"visible"		"0"
+			"xpos"			"9999"
+		}
 	}
 	"BlueTeamLabel1"
 	{

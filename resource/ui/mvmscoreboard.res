@@ -77,7 +77,7 @@
 		"zpos"			"-1"
 		"wide"			"520"
 		"tall"			"107"
-		"visible"		"1"
+		"visible"		"0"
 		"enabled"		"1"
 		//"image"			"../hud/tournament_panel_brown"
 		"fillcolor"		"0 0 0 50"
@@ -87,7 +87,7 @@
 	{
 		"ControlName"	"SectionedListPanel"
 		"fieldName"		"MvMPlayerList"
-		"xpos"			"c-260"
+		"xpos"			"c-330"
 		"ypos"			"150"
 		"wide"			"520"
 		"tall"			"107"
@@ -104,9 +104,9 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"CreditStatsContainer"
-		"xpos"			"c-260"
+		"xpos"			"c-330"
 		"ypos"			"257"
-		"wide"			"520"
+		"wide"			"568"
 		"tall"			"80"
 		"visible"		"1"
 		"bgcolor_override"	"PanelBG"
@@ -124,7 +124,7 @@
 			"pinCorner"		"0"
 			"visible"		"0"
 			"enabled"		"0"
-			"image"			"../HUD/tournament_panel_brown"
+			"image"			""
 
 			"src_corner_height"	"22"				// pixels inside the image
 			"src_corner_width"	"22"
