@@ -55,7 +55,7 @@
 		"ControlName"			"CExLabel"
 		"fieldName"				"ItemEffectMeterLabel1"
 		"xpos"					"18"
-		"ypos"					"10"
+		"ypos"					"0"
 		"zpos"					"2"
 		"wide"					"75"
 		"tall"					"20"
@@ -64,11 +64,11 @@
 		"visible"				"0"
 		"enabled"				"0"
 		"tabPosition"			"0"
-		"labelText"				"STREAK"
+		"labelText"				">"
 		"textAlignment"			"west"
 		"dulltext"				"0"
 		"brighttext"			"0"
-		"font"					"nü10"
+		"font"					"nü24"
 		"fgcolor_override"		"white"
 	}
 	"ItemEffectMeterLabelshdw"
@@ -76,7 +76,7 @@
 		"ControlName"			"CExLabel"
 		"fieldName"				"ItemEffectMeterLabelshdw"
 		"xpos"					"18"
-		"ypos"					"10"
+		"ypos"					"0"
 		"zpos"					"2"
 		"wide"					"75"
 		"tall"					"20"
@@ -85,11 +85,11 @@
 		"visible"				"0"
 		"enabled"				"0"
 		"tabPosition"			"0"
-		"labelText"				"STREAK"
+		"labelText"				">"
 		"textAlignment"			"west"
 		"dulltext"				"0"
 		"brighttext"			"0"
-		"font"					"nü10"
+		"font"					"nü24"
 		"fgcolor_override"		"0 0 0 255"
 	}
 
@@ -129,7 +129,31 @@
 		"textAlignment"			"center"
 		"dulltext"				"0"
 		"brighttext"			"0"
-		"font"					"nü18"
+		"font"					"nü24"
 		"fgcolor"				"nüwhite"
 	}
+	
+	"ItemEffectMeterCountShadow"
+	{
+		"ControlName"								"CExLabel"
+		"fieldName"									"ItemEffectMeterCountShadow"
+		"xpos"										"-1"
+		"ypos"										"-1"
+		"zpos"										"2"
+		"wide"										"30"
+		"tall"										"20"	
+		"pinCorner"									"2"
+		"visible"									"1"
+		"enabled"									"1"
+		"tabPosition"								"0"
+		"labelText"									"%progresscount%"
+		"textAlignment"								"center"
+		"dulltext"									"0"
+		"brighttext"								"0"
+		"font"										"nü24"
+		"fgcolor"									"ShadowBlack"
+		
+		"pin_to_sibling" 							"ItemEffectMeterCount"
+	}
+	
 }
