@@ -24,18 +24,7 @@
 		{
 			"ControlName"	"EditablePanel"
 			"fieldName"		"OuterShadow"
-			"xpos"			"0"
-			"ypos"			"rs1"
-			"zpos"			"-2"
-			"wide"			"f0"
-			"tall"			"f0"
-			"visible"		"1"
-			"PaintBackgroundType"	"0"
-			"border"		"OuterShadowBorder"
-			"proportionaltoparent"	"1"
-
-			"pinCorner"		"0"
-			"autoResize"	"2"
+			"xpos"			"99999"
 		}
 
 		"BGPanel"
@@ -64,7 +53,7 @@
 				"tall"			"20"
 				"visible"		"1"
 				"enabled"		"1"
-				"font"			"HudFontSmallBold"
+				"font"			"nüBold14"
 				"fgcolor_override"	"nüWhite"
 				"textAlignment"	"center"
 				"labelText"		"%match_type%"
@@ -73,9 +62,9 @@
 
 				"fonts"
 				{
-					"0"		"HudFontSmallestBold"
-					"1"		"StorePromotionsTitle"
-					"2"		"FontStorePrice"
+					"0"		"nüBold12"
+					"1"		"nüBold10"
+					"2"		"nüBold18"
 				}
 			}
 
@@ -90,7 +79,7 @@
 				"tall"			"20"
 				"visible"		"1"
 				"enabled"		"1"
-				"font"			"HudFontSmallest"
+				"font"			"nüBold10"
 				"fgcolor_override"	"nüWhite"
 				"textAlignment"	"center"
 				"labelText"		"%auto_join%"
@@ -113,7 +102,7 @@
 
 				"enabled"		"1"
 				"tabPosition"	"0"
-				"font"			"HudFontSmallestBold"
+				"font"			"nüBold10"
 				"textAlignment"	"center"
 				"dulltext"		"0"
 				"brighttext"	"0"
@@ -150,7 +139,7 @@
 				"visible"		"1"
 				"enabled"		"1"
 				"tabPosition"	"0"
-				"font"			"HudFontSmallestBold"
+				"font"			"nüBold10"
 				"textAlignment"	"center"
 				"dulltext"		"0"
 				"brighttext"	"0"
@@ -183,7 +172,7 @@
 				"visible"		"1"
 				"enabled"		"1"
 				"tabPosition"	"0"
-				"font"			"HudFontSmallestBold"
+				"font"			"nüBold10"
 				"textAlignment"	"center"
 				"dulltext"		"0"
 				"brighttext"	"0"
@@ -212,8 +201,8 @@
 				"tall"			"20"
 				"visible"		"1"
 				"enabled"		"1"
-				"font"			"HudFontSmallest"
-				"fgcolor_override"	"TanLight"
+				"font"			"nüBold10"
+				"fgcolor_override"	"nüWhite"
 				"textAlignment"	"east"
 				"labelText"		"#TF_Matchmaking_RollingQueue_MatchReadyJoining"
 				"proportionaltoparent"	"1"

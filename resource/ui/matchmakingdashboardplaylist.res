@@ -29,7 +29,7 @@
 		"wrap"							"1"
 		"centerwrap"					"1"
 		"font"							"nüBold18"
-		"fgcolor_override"				"nüOffWhite"
+		"fgcolor_override"				"nüWhite"
 		"AllCaps"						"1"
 		
 		"mouseinputenabled"				"0"
