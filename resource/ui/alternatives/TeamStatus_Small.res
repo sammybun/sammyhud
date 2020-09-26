@@ -41,7 +41,7 @@
 			"color_bar_health_med"	"255 180 80 255"
 			"percentage_health_med"	"0.7"
 			"color_bar_health_low"	"204 56 56 255"
-			"percentage_health_low"	"0.4"
+			"percentage_health_low"	"0.49"
 			"color_portrait_blend_dead_red"	"255 255 255 255"
 			"color_portrait_blend_dead_blue" "255 255 255 255"
 			

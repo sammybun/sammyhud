@@ -69,8 +69,8 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"TextLabel"
-		"fgcolor"		"56 47 29 255"
-		"fgcolor_override" "56 47 29 255"
+		"fgcolor"		"nüWhite"
+		"fgcolor_override" "nüWhite"
 		"if_high_priority"
 		{
 			"fgcolor"			"nüWhite"

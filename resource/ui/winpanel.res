@@ -10,10 +10,10 @@
 		"tall"			"100"
 		"visible"		"1"
 
-		"BlueScoreBG"
+		"BlueScoreBG2"
 		{
 			"ControlName"		"EditablePanel"
-			"fieldName"		"BlueScoreBG"
+			"fieldName"		"BlueScoreBG2"
 			"xpos"			"0"
 			"ypos"			"15"
 			"wide"			"100"
@@ -22,13 +22,13 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fillcolor"		"70 130 180 200"
-			"scaleImage"		"1"
+			"paintbackground"		"0"
+			"border"		"TransparentBGBlu"
 		}
-		"RedScoreBG"
+		"RedScoreBG2"
 		{
 			"ControlName"		"EditablePanel"
-			"fieldName"		"RedScoreBG"
+			"fieldName"		"RedScoreBG2"
 			"xpos"			"100"
 			"ypos"			"15"
 			"wide"			"100"
@@ -37,9 +37,24 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fillcolor"		"205 50 50 200"
-			"scaleImage"		"1"
+			"paintbackground"		"0"
+			"border"		"TransparentBGRed"
 		}
+		
+		"BlueScoreBG"
+		{
+			"ControlName"			"EditablePanel"
+			"fieldName"				"BlueScoreBG"
+			"xpos"					"9999"
+		}
+		
+		"RedScoreBG"
+		{
+			"ControlName"			"EditablePanel"
+			"fieldName"				"RedScoreBG"
+			"xpos"					"9999"
+		}
+		
 		"BlueTeamLabel"
 		{
 			"ControlName"	"CExLabel"
