@@ -149,7 +149,7 @@
 		"enabled"				"1"
 		"tabPosition"			"0"
 		"labelText"				""
-		"image"					".replay/thumbnails/bg_red"
+		"image"					"../hud/cart_point_neutral"
 		"scaleImage"			"1"	
 		
 		"proportionaltoparent"	"1"
@@ -262,52 +262,83 @@
 			}
 		}
 		
-		"RecedeTime"
+		"CapNumPlayers"
 		{	
-			"ControlName"	"CExLabel"
-			"fieldName"		"RecedeTime"
-			"font"			"nü10"		
-			"font_minmode"		"ItemFontAttribSmall"		
-			"xpos"			"283"
-			"ypos"			"2"
-			"zpos"			"30"
-			"wide"			"20"
-			"tall"			"11"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
-			"labelText"		"%recede%"
-			"textAlignment"	"center"
-			"dulltext"		"0"
-			"brighttext"	"0"
-			"fgcolor"		"nüWhite"
+			"ControlName"		"CExLabel"
+			"fieldName"			"CapNumPlayers"
+			"font"				"nüBold10"
+			"xpos"				"283"
+			"ypos"				"2"
+			"zpos"				"30"
+			"wide"				"25"
+			"tall"				"11"
+			"autoResize"		"0"
+			"pinCorner"			"0"
+			"visible"			"0"
+			"enabled"			"1"
+			"labelText"			"#ControlPointIconCappers"
+			"textAlignment"		"center"
+			"dulltext"			"0"
+			"brighttext"		"0"
+			"fgcolor"			"nüWhite"
+			"paintbackground"	"0"
+			"proportionaltoparent"		"1"
+			"use_proportional_insets"	"1"
+			"textinsetx"				"0"
 			
 			"if_multiple_trains_bottom"
 			{
-				"ypos"			"0"
+				"ypos"		"0"
+			}	
+		}
+		
+		"RecedeTime"
+		{	
+			"ControlName"		"CExLabel"
+			"fieldName"			"RecedeTime"	
+			"font"				"nüBold10"		
+			"xpos"				"283"
+			"ypos"				"2"
+			"zpos"				"30"
+			"wide"				"25"
+			"tall"				"11"
+			"autoResize"		"0"
+			"pinCorner"			"0"
+			"visible"			"1"
+			"enabled"			"1"
+			"labelText"			"%recede%"
+			"textAlignment"		"center"
+			"dulltext"			"0"
+			"brighttext"		"0"
+			"fgcolor"			"nüWhite"
+			"paintbackground"	"0"
+			"proportionaltoparent"		"1"
+			"use_proportional_insets"	"1"
+			"textinsetx"				"0"
+			
+			"if_multiple_trains_bottom"
+			{
+				"ypos"		"0"
 			}
 		}
 		
-		
-		
 		"Speed_Backwards"
 		{
-			"ControlName"	"ImagePanel"
-			"fieldName"		"Speed_Backwards"	
-			"xpos"			"290"
-			"ypos"			"4"
-			"zpos"			"30"
-			"wide"			"6"
-			"tall"			"6"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"0"
-			"enabled"		"1"
-			"tabPosition"	"0"
-			"labelText"		""
-			"image"			"../hud/cart_arrow_left"
-			"scaleImage"	"1"	
+			"ControlName"		"ImagePanel"
+			"fieldName"			"Speed_Backwards"	
+			"xpos"				"290"
+			"ypos"				"4"
+			"zpos"				"30"
+			"wide"				"6"
+			"tall"				"6"
+			"autoResize"		"0"
+			"pinCorner"			"0"
+			"visible"			"0"
+			"enabled"			"1"
+			"tabPosition"		"0"
+			"labelText"			""
+			"image"				"../hud/cart_arrow_left"
+			"scaleImage"		"1"	
 			
 			"if_multiple_trains_top"
 			{
@@ -320,33 +351,6 @@
 			}	
 		}
 		
-		
-
-		"CapNumPlayers"
-		{	
-			"ControlName"	"CExLabel"
-			"fieldName"		"CapNumPlayers"
-			"font"			"nü10"
-			"xpos"			"283"
-			"ypos"			"2"
-			"zpos"			"30"
-			"wide"			"20"
-			"tall"			"11"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"0"
-			"enabled"		"1"
-			"labelText"		"#ControlPointIconCappers"
-			"textAlignment"	"center"
-			"dulltext"		"0"
-			"brighttext"	"0"
-			"fgcolor"		"nüWhite"
-			
-			"if_multiple_trains_bottom"
-			{
-				"ypos"			"0"
-			}	
-		}
 		"EscortItemImage"
 		{
 			"ControlName"	"ImagePanel"
@@ -384,5 +388,4 @@
 			"xpos"			"9999"
 		}
 	}
-	
 }
