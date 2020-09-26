@@ -10,7 +10,7 @@ Scheme
 		"nüBase"				"46 138 55 255"
 		"nüBlue"				"60 255 180 255"
 		"nüLightBase"			"0 126 140 215"
-		"nüMint"				"60 255 180 255"
+		"nüMint"				"98 157 196 255"
 		
 		
 		"nüWhite"				"240 240 240 255"
@@ -73,9 +73,9 @@ Scheme
 
 		Button.TextColor				"nüWhite"
 		Button.BgColor					"nüDarkGrey"
-		Button.ArmedTextColor			"nüGrey"
+		Button.ArmedTextColor			"nüWhite"
 		Button.ArmedBgColor				"nüMint"
-		Button.DepressedTextColor		"nüGrey"
+		Button.DepressedTextColor		"nüWhite"
 		Button.DepressedBgColor			"nüMint"	
 		Button.FocusBorderColor			"Blank"
 		
@@ -110,7 +110,7 @@ Scheme
 		FrameGrip.Color2				"Blank"
 		FrameTitleButton.FgColor		"nüWhite"
 		FrameTitleBar.Font				"Default"
-		FrameTitleBar.TextColor			"nüGrey"
+		FrameTitleBar.TextColor			"nüWhite"
 		FrameTitleBar.DisabledTextColor	"nüOffWhite"
 		FrameTitleBar.BgColor 			"nüMint"
 		
@@ -125,7 +125,7 @@ Scheme
 		ListPanel.TextColor					"nüWhite"
 		ListPanel.TextBgColor				"nüDarkGrey"
 		ListPanel.BgColor					"LightPanelBG"
-		ListPanel.SelectedTextColor			"nüGrey"
+		ListPanel.SelectedTextColor			"nüWhite"
 		ListPanel.SelectedBgColor			"nüMint"
 		ListPanel.SelectedOutOfFocusBgColor	"nüOffWhite"
 		ListPanel.EmptyListInfoTextColor	"nüOffWhite"
@@ -167,13 +167,13 @@ Scheme
 
 		RichText.TextColor				"nüWhite"
 		RichText.BgColor				"LightPanelBG"
-		RichText.SelectedTextColor		"nüGrey"
+		RichText.SelectedTextColor		"nüWhite"
 		RichText.SelectedBgColor		"nüMint"
 		
 		Console.TextColor			"100 255 100 255"
 		Console.DevTextColor		"nüWhite"
 		Console.SelectedBgColor     "nüMint"
-		Console.SelectedTextColor   "nüGrey"
+		Console.SelectedTextColor   "nüWhite"
 
 		TextEntry.TextColor 			"nüWhite"
 		TextEntry.BgColor				"LightPanelBG"

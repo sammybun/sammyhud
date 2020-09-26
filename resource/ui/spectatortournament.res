@@ -279,7 +279,7 @@
 				"visible"		"1"
 				"labelText"		"%chargeamount%"
 				"textAlignment"	"east"
-				"fgcolor_override"		"Health Buff"
+				"fgcolor_override"		"20 178 98 255"
 			}
 
 			"chargeamountshadow"

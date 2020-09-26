@@ -37,7 +37,7 @@
 			"color_portrait_bg_blue"	"nüBaseTransparent"
 			"color_portrait_bg_red_dead"	"0 0 0 255"
 			"color_portrait_bg_blue_dead"	"0 0 0 255"
-			"color_bar_health_high"	"60 255 180 255"
+			"color_bar_health_high"	"20 178 98 255"
 			"color_bar_health_med"	"255 180 80 255"
 			"percentage_health_med"	"0.7"
 			"color_bar_health_low"	"204 56 56 255"
@@ -126,7 +126,7 @@
 				"dulltext"				"0"
 				"brighttext"			"0"
 				"bgcolor_override"	   "0 0 0 0"
-				"fgcolor_override"	   "40 40 40 220"
+				"fgcolor_override"	   "240 240 240 200"
 				"proportionaltoparent"	"1"
 			}
 			"HealthIcon"
