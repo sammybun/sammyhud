@@ -473,9 +473,9 @@
 		
 		"TextFont"		  "nü10"
 		
-		"TeamBlue"		    "8 146 208 255"
-		"TeamRed"		    "255 45 38 255"
-		"IconColor"		    "255 255 255 255"
+		"TeamBlue"		    "nüBLUSolid"
+		"TeamRed"		    "nüREDSolid"
+		"IconColor"			"nüWhite"
 		"LocalPlayerColor"	"0 0 0 255"
 
 		"BaseBackgroundColor"	"15 15 15 0"

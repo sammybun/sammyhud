@@ -46,7 +46,7 @@ Scheme
 		"BlackLightTransparent"					"0 0 0 50"
 		"Blank"									"0 0 0 0"
 		
-		"nüMint"				"98 157 196 255"   //60 255 180
+		"nüMint"				"98 157 196 255"   //Accent Color
 		
 		"nüBase"				"15 15 15 255"
 		"nüBaseTransparent"		"15 15 15 140"
