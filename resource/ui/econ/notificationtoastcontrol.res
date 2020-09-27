@@ -239,6 +239,7 @@
 		"TextLabel"	
 		{
 			"fgcolor_override"	"240 240 240 255"
+			"wrap" "1"
 		}
 	}
 }
