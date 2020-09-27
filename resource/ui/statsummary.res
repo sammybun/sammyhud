@@ -225,7 +225,7 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"fgcolor_override" "98 157 196 255"
+		"fgcolor_override" "75 175 255 255"
 	}
 		"MainBackground"
 	{

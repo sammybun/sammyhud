@@ -6,17 +6,17 @@ Scheme
 		//-----------------------------------------
 		
 		"Health"				"240 240 240 255"
-		"Health Buff"			"98 157 196 255"	//41 152 182 255
+		"Health Buff"			"75 175 255 255"	//41 152 182 255
 		"Health Buff 2"			"0 200 255 255"	//0 200 255 255
-		"Health Low"			"204 56 56 255"	//200 0 0 255
-		"Health Low 2"			"255 70 70 255"	//255 75 75 255
+		"Health Low"			"255 0 0 255"	//200 0 0 255
+		"Health Low 2"			"255 75 75 255"	//255 75 75 255
 		
 		
 		// Ammo
 		//-----------------------------------------
 		
 		"Ammo In Clip"			"240 240 240 255"
-		"Ammo In Reserve"		"98 157 196 255"	//41 152 182 255
+		"Ammo In Reserve"		"75 175 255 255"	//41 152 182 255
 		"Ammo No Clip"			"240 240 240 255"
 		"Low Ammo 1"			"204 56 56 255"	//200 0 0 255
 		"Low Ammo 2"			"255 70 70 255"	//255 75 75 255
@@ -26,7 +26,7 @@ Scheme
 		
 		"ChargePercent"			"240 240 240 255"
 		"Ubercharge Meter"		"240 240 240 255"
-		"Ubercharge 1"			"98 157 196 255"
+		"Ubercharge 1"			"75 175 255 255"
 		"Ubercharge 2"			"0 200 255 255"
 		"Smallmediccharge"      "0 255 0 255"
 		
@@ -34,7 +34,7 @@ Scheme
 		//-----------------------------------------
 		
 		"Damage Numbers"		"240 240 240 255" //Damage numbers above ammo
-		"Healing Numbers"		"98 157 196 255"
+		"Healing Numbers"		"75 175 255 255"
 		"Stickies"				"240 240 240 255"
 		"Metal"					"240 240 240 255"
 		"Killstreak"			"240 240 240 255"
@@ -46,7 +46,7 @@ Scheme
 		"BlackLightTransparent"					"0 0 0 50"
 		"Blank"									"0 0 0 0"
 		
-		"nüMint"				"98 157 196 255"   //Accent Color
+		"nüMint"				"75 175 255 255"   //Accent Color
 		
 		"nüBase"				"15 15 15 255"
 		"nüBaseTransparent"		"15 15 15 140"
