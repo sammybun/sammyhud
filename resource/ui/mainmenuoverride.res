@@ -229,10 +229,10 @@
 //		{	
 //			"image"		"../console/title_scream_fortress_2017_widescreen"
 //		}
-		if_fullmoon
-		{
-			"image"		"../console/title_fullmoon_widescreen"
-		}
+//		if_fullmoon
+//		{
+//			"image"		"../console/title_fullmoon_widescreen"
+//		}
 //		if_christmas
 //		{
 //			"image"		"../console/title_team_smissmas_2017_widescreen"
