@@ -26,10 +26,8 @@
 		"enabled" "1"
 		"xpos"	"c60"
 		"ypos"	"c70"
-		"wide"	"265"
-		"tall"	"50"
-		
-		
+		"wide"	"250"
+		"tall"	"150"
 	}
 	
 	HudObjectiveStatus
@@ -192,7 +190,7 @@
 	CHealthAccountPanel
 	{
 		"fieldName"				"CHealthAccountPanel"
-		"xpos"					"c-130"
+		"xpos"					"c-150"
 		"ypos"					"c35"
 		"wide"					"90"
 		"tall"  				"100"

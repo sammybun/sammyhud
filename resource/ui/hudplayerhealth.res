@@ -8,8 +8,8 @@
 		"xpos"			"c-240"
 		"ypos"			"c47"
 		"zpos"			"2"
-		"wide"			"170"
-		"tall"			"120"
+		"wide"			"250"
+		"tall"			"150"
 		"visible"		"1"
 		"enabled"		"1"	
 		"HealthBonusPosAdj"	"35"
@@ -21,8 +21,8 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"PlayerStatusHealthValue"
-		"xpos"			"65"
-		"ypos"			"25"
+		"xpos"			"50"
+		"ypos"			"30"
 		"zpos"			"5"
 		"wide"			"90"
 		"tall"			"50"
@@ -30,7 +30,7 @@
 		"enabled"		"1"
 		"labelText"		"%Health%"
 		"textAlignment"	"east"	
-		"font"			"nüBold56"
+		"font"			"nüBold50"
 		"fgcolor"		"Health"
 		
 	}
@@ -48,7 +48,7 @@
 		"enabled"		"1"
 		"labelText"		"%Health%"
 		"textAlignment"	"east"	
-		"font"			"nüBoldShadow56"
+		"font"			"nüBoldShadow50"
 		"fgcolor"		"ShadowBlack"
 
 		"pin_to_sibling"	"PlayerStatusHealthValue"
