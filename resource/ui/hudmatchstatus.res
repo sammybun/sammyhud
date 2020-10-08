@@ -207,6 +207,20 @@
 		"tall"			"100"
 		"visible"		"1"
 		"enabled"		"1"
+		
+		RedTeamBackground2
+		{
+		
+		"xpos"			"6969"
+		
+		}
+		
+		BlueTeamBackground
+		{
+		
+		"xpos"			"6969"
+		
+		}
 	}	
 
 	"BGFrame"
