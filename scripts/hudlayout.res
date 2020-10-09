@@ -1527,11 +1527,27 @@
 		"fillcolor"		"255 0 0 255"
 	}
 
+		"VerticalLineCenter"
+	{
+		"ControlName"		"ImagePanel"
+		"fieldName"		"VerticalLine"
+		"xpos"			"c0"
+		"ypos"			"0"
+		"zpos"			"-5"
+		"wide"			"1"
+		"tall"			"480"
+		"autoResize"	"0"
+		"pinCorner"		"0"
+		"visible"		"0"
+		"enabled"		"0"
+		"fillcolor"		"255 0 0 255"
+	}
+
 	"VerticalLine1"
 	{
 		"ControlName"		"ImagePanel"
 		"fieldName"		"VerticalLine"
-		"xpos"			"c100"
+		"xpos"			"c170"
 		"ypos"			"0"
 		"zpos"			"-5"
 		"wide"			"1"
@@ -1547,7 +1563,7 @@
 	{
 		"ControlName"		"ImagePanel"
 		"fieldName"		"VerticalLine"
-		"xpos"			"c-100"
+		"xpos"			"c-170"
 		"ypos"			"0"
 		"zpos"			"-5"
 		"wide"			"1"
