@@ -193,7 +193,7 @@
 		"enabled"		"1"
 		"tabPosition"	"0"
 		"labelText"		""
-		"image"			"../replay/thumbnails/panels/Material_Generic"
+		"image"			"../hud/cart_point_neutral"
 		"scaleImage"	"1"	
 		
 		"proportionaltoparent"	"1"

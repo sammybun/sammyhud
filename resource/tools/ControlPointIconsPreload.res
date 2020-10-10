@@ -18,6 +18,15 @@
 		"enabled"			"1"
 		"image"				"../sprites/obj_icons/icon_obj_blu_locked"
 	}
+	"CPIconBluCap"
+	{
+		"ControlName"		"ImagePanel"
+		"fieldName"			"CPIconBluCap"
+		"xpos"				"9999"
+		"visible"			"1"
+		"enabled"			"1"
+		"image"				"../sprites/obj_icons/icon_obj_cap_blu"
+	}
 	"CPIconRed"
 	{
 		"ControlName"		"ImagePanel"
@@ -36,6 +45,15 @@
 		"enabled"			"1"
 		"image"				"../sprites/obj_icons/icon_obj_red_locked"
 	}
+	"CPIconRedCap"
+	{
+		"ControlName"		"ImagePanel"
+		"fieldName"			"CPIconRedCap"
+		"xpos"				"9999"
+		"visible"			"1"
+		"enabled"			"1"
+		"image"				"../sprites/obj_icons/icon_obj_cap_red"
+	}
 	"CPIconNeutral"
 	{
 		"ControlName"		"ImagePanel"
@@ -53,5 +71,23 @@
 		"visible"			"1"
 		"enabled"			"1"
 		"image"				"../sprites/obj_icons/icon_obj_neutral_locked"
+	}
+	"Material_Generic"
+	{
+	"ControlName"		"ImagePanel"
+	fieldName"			"Material_Generic"
+	"xpos"				"9999"
+	"visible"			"1"
+	"enabled"			"1"
+	"image"			"../replay/thumbnails/panels/Material_Generic"
+	}
+	"CartPointNeutral"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"CartPointNeutral"
+		"xpos"			"9999"
+		"visible"		"1"
+		"enabled"		"1"
+		"image"			"../hud/cart_point_neutral"
 	}
 }

@@ -62,8 +62,8 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"PlayerStatusHealthBG"
-		"xpos"			"-9"
-		"ypos"			"-9"
+		"xpos"			"8"
+		"ypos"			"-10"
 		"zpos"			"3"
 		"wide"			"72"
 		"tall"			"32"
