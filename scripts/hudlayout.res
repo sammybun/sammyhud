@@ -190,13 +190,12 @@
 	CHealthAccountPanel
 	{
 		"fieldName"				"CHealthAccountPanel"
-		"xpos"					"c-150"
-		"ypos"					"c35"
-		"wide"					"90"
-		"tall"  				"100"
+		"xpos"					"c-145"
+		"ypos"					"c60"
+		"wide"					"f0"
+		"tall"  				"30"
 		"visible" 				"1"
 		"enabled" 				"1"
-		"PaintBackgroundType"	"2"
 	}
 	
 	CDamageAccountPanel

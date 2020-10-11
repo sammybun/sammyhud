@@ -2,7 +2,6 @@
 
 "Resource/UI/Scoreboard.res"
 {
-
 	"MvMScoreboard"
 	{
 		"ControlName"		"CTFHudMannVsMachineScoreboard"
