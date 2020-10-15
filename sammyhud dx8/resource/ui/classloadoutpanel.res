@@ -119,7 +119,7 @@
 		"fieldName"		"Shader"
 		"xpos"			"0"
 		"ypos"			"0"
-		"zpos"			"-9"
+		"zpos"			"-1"
 		"wide"			"f0"
 		"tall"			"480"
 		"visible"		"1"
