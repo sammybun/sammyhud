@@ -9,42 +9,42 @@ Scheme
 			{
 				"1"
 				{
-					"color" "nüMint"
+					"color" "nüAccent"
 					"offset" "0 0"
 				}
 				"2"
 				{
-					"color" "nüMint"
+					"color" "nüAccent"
 					"offset" "0 0"
 				}
 				"3"
 				{
-					"color" "nüMint"
+					"color" "nüAccent"
 					"offset" "0 0"
 				}
 				"4"
 				{
-					"color" "nüMint"
+					"color" "nüAccent"
 					"offset" "0 0"
 				}
 				"5"
 				{
-					"color" "nüMint"
+					"color" "nüAccent"
 					"offset" "0 0"
 				}
 				"6"
 				{
-					"color" "nüMint"
+					"color" "nüAccent"
 					"offset" "0 0"
 				}
 				"7"
 				{
-					"color" "nüMint"
+					"color" "nüAccent"
 					"offset" "0 0"
 				}
 				"8"
 				{
-					"color" "nüMint"
+					"color" "nüAccent"
 					"offset" "0 0"
 				}
 			}

@@ -53,7 +53,7 @@
 
 		"defaultBgColor_override"	"0 0 0 50"
 		"defaultFgColor_override" "240 240 240 255"
-		"armedFgColor_override" "60 255 180 255"
+		"armedFgColor_override" "nüAccent"
 		"depressedFgColor_override" "235 36 30 255"
 
 		"image_drawcolor"	"240 240 240 255"
@@ -108,11 +108,11 @@
 
 		"defaultBgColor_override"	"0 0 0 50"
 		"defaultFgColor_override"	"240 240 240 255"
-		"armedFgColor_override"		"60 255 180 255"
-		"depressedFgColor_override" "60 255 180 255"
+		"armedFgColor_override"		"nüAccent"
+		"depressedFgColor_override" "nüAccent"
 
 		"image_drawcolor"	"255 255 255 255"
-		"image_armedcolor"	"60 255 180 255"
+		"image_armedcolor"	"nüAccent"
 		"SubImage"
 		{
 			"ControlName"	"ImagePanel"

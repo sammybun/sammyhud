@@ -44,7 +44,7 @@
 		"zpos"							"99"
 		"wide"							"1"
 		"tall"							"40"
-		"bgcolor_override"				"nüMint"
+		"bgcolor_override"				"nüAccent"
 		
 		"pin_to_sibling"				"Title"
 		"pin_corner_to_sibling"			"PIN_CENTER_LEFT"

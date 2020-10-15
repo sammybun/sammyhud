@@ -33,7 +33,7 @@
 		"armedFgColor_override"					"nüWhite"
 		"depressedFgColor_override"				"nüWhite"
 		
-		"armedbgcolor_override"						"nüMint"
+		"armedbgcolor_override"						"nüAccent"
 		
 		"border_armed"							"NoBorder"
 	}

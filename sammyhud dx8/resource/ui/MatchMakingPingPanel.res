@@ -242,7 +242,7 @@
 		"labeltext"						""
 		"textAlignment"					"west"
 		"font"							"nüBold10"
-		"fgcolor_override"				"nüMint"
+		"fgcolor_override"				"nüAccent"
 		"AllCaps"						"1"
 		
 		"mouseinputenabled"				"0"

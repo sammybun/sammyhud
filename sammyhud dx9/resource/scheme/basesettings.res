@@ -16,9 +16,9 @@ Scheme
 		Replay.RenderDialog.BgColor							"LighterDarkBrown"
 		
 		Econ.Dialog.BgColor									"Blank"
-		Econ.Button.BgColor									"30 30 30 255"
+		Econ.Button.BgColor									"nüAccent"
 		Econ.Button.FgColor									"nüWhite"
-		Econ.Button.ArmedBgColor							"0 126 140 255"
+		Econ.Button.ArmedBgColor							"nüAccent"
 		Econ.Button.ArmedFgColor							"nüWhite"
 		Econ.Button.DepressedBgColor						"nüBase"
 		Econ.Button.DepressedFgColor						"Black"
@@ -28,7 +28,7 @@ Scheme
 		Econ.Button.PresetDepressedColorFg					"nüWhite"
 		
 		Econ.Button.PresetDefaultColorBg					"nüBase"
-		Econ.Button.PresetArmedColorBg						"0 126 140 255"
+		Econ.Button.PresetArmedColorBg						"nüAccent"
 		Econ.Button.PresetDepressedColorBg					"nüBase"
 		
 		Border.Bright					"Blank"		// the lit side of a control
@@ -38,7 +38,7 @@ Scheme
 		Button.TextColor				"nüWhite"
 		Button.BgColor					"30 30 30 255"
 		Button.ArmedTextColor			"nüWhite"
-		Button.ArmedBgColor				"0 126 140 255"
+		Button.ArmedBgColor				"nüAccent"
 		Button.SelectedTextColor		"nüWhite"
 		Button.SelectedBgColor			"nüBase"
 		Button.DepressedTextColor		"Black"

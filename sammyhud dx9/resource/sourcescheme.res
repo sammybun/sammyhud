@@ -10,7 +10,7 @@ Scheme
 		"nüBase"				"46 138 55 255"
 		"nüBlue"				"60 255 180 255"
 		"nüLightBase"			"0 126 140 215"
-		"nüMint"				"98 157 196 255"
+		"nüAccent"				"98 157 196 255"
 		
 		
 		"nüWhite"				"240 240 240 255"
@@ -74,9 +74,9 @@ Scheme
 		Button.TextColor				"nüWhite"
 		Button.BgColor					"nüDarkGrey"
 		Button.ArmedTextColor			"nüWhite"
-		Button.ArmedBgColor				"nüMint"
+		Button.ArmedBgColor				"nüAccent"
 		Button.DepressedTextColor		"nüWhite"
-		Button.DepressedBgColor			"nüMint"	
+		Button.DepressedBgColor			"nüAccent"	
 		Button.FocusBorderColor			"Blank"
 		
 		CheckButton.TextColor			"nüOffWhite"
@@ -112,7 +112,7 @@ Scheme
 		FrameTitleBar.Font				"Default"
 		FrameTitleBar.TextColor			"nüWhite"
 		FrameTitleBar.DisabledTextColor	"nüOffWhite"
-		FrameTitleBar.BgColor 			"nüMint"
+		FrameTitleBar.BgColor 			"nüAccent"
 		
 		Label.TextDullColor				"nüOffWhite"
 		Label.TextColor					"nüWhite"
@@ -126,7 +126,7 @@ Scheme
 		ListPanel.TextBgColor				"nüDarkGrey"
 		ListPanel.BgColor					"LightPanelBG"
 		ListPanel.SelectedTextColor			"nüWhite"
-		ListPanel.SelectedBgColor			"nüMint"
+		ListPanel.SelectedBgColor			"nüAccent"
 		ListPanel.SelectedOutOfFocusBgColor	"nüOffWhite"
 		ListPanel.EmptyListInfoTextColor	"nüOffWhite"
 
@@ -134,9 +134,9 @@ Scheme
 		SectionedListPanel.BrightTextColor		"nüWhite"
 		SectionedListPanel.BgColor				"nüDarkGrey"
 		SectionedListPanel.SelectedTextColor			"nüGrey"
-		SectionedListPanel.SelectedBgColor				"nüMint"
+		SectionedListPanel.SelectedBgColor				"nüAccent"
 		SectionedListPanel.OutOfFocusSelectedTextColor	"nüOffWhite"
-		SectionedListPanel.OutOfFocusSelectedBgColor	"nüMint"
+		SectionedListPanel.OutOfFocusSelectedBgColor	"nüAccent"
 
 		MainMenu.TextColor			"nüOffWhite"
 		MainMenu.ArmedTextColor		"nüWhite"
@@ -154,12 +154,12 @@ Scheme
 		ScrollBarButton.ArmedFgColor		"nüWhite"
 		ScrollBarButton.ArmedBgColor		"nüLightBase"
 		ScrollBarButton.DepressedFgColor	"nüWhite"
-		ScrollBarButton.DepressedBgColor	"nüMint"
+		ScrollBarButton.DepressedBgColor	"nüAccent"
 
 		ScrollBarSlider.BgColor				"nüGrey"		// this isn't really used
 		ScrollBarSlider.FgColor				"nüDarkGrey"	// handle with which the slider is grabbed
 		
-		Slider.NobColor				"nüMint"		
+		Slider.NobColor				"nüAccent"		
 		Slider.TextColor			"nüWhite"
 		Slider.TrackColor			"nüGrey"
 		Slider.DisabledTextColor1	"TFTextMediumDark"
@@ -168,11 +168,11 @@ Scheme
 		RichText.TextColor				"nüWhite"
 		RichText.BgColor				"LightPanelBG"
 		RichText.SelectedTextColor		"nüWhite"
-		RichText.SelectedBgColor		"nüMint"
+		RichText.SelectedBgColor		"nüAccent"
 		
 		Console.TextColor			"100 255 100 255"
 		Console.DevTextColor		"nüWhite"
-		Console.SelectedBgColor     "nüMint"
+		Console.SelectedBgColor     "nüAccent"
 		Console.SelectedTextColor   "nüWhite"
 
 		TextEntry.TextColor 			"nüWhite"

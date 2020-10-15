@@ -113,6 +113,20 @@
 		"scaleimage"						"1"
 	}
 
+	"Shader"
+	{
+		"ControlName"	"EditablePanel"
+		"fieldName"		"Shader"
+		"xpos"			"0"
+		"ypos"			"0"
+		"zpos"			"-9"
+		"wide"			"f0"
+		"tall"			"480"
+		"visible"		"1"
+		"enabled"		"1"
+		"bgcolor_override"	"15 15 15 170"
+	}
+
 	"CaratLabel"
 	{
 		"ControlName"		"CExLabel"
@@ -455,6 +469,7 @@
 		"Command"		"characterloadout"
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
+		"armedBgColor_override"	"nüAccent"
 
 		"SubImage"
 		{
@@ -495,6 +510,7 @@
 		"Command"		"tauntloadout"
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
+		"armedBgColor_override"	"nüAccent"
 
 		"SubImage"
 		{

@@ -178,8 +178,8 @@
 		"armedFgColor_override"		"nüGrey"
 		"depressedFgColor_override" "nüGrey"
 		
-		"armedBgColor_override"		"nüMint"
-		"depressedBgColor_override" "nüMint"
+		"armedBgColor_override"		"nüAccent"
+		"depressedBgColor_override" "nüAccent"
 	}
 	"PrevButton"
 	{
@@ -208,8 +208,8 @@
 		"armedFgColor_override"		"nüGrey"
 		"depressedFgColor_override" "nüGrey"
 		
-		"armedBgColor_override"		"nüMint"
-		"depressedBgColor_override" "nüMint"
+		"armedBgColor_override"		"nüAccent"
+		"depressedBgColor_override" "nüAccent"
 	}
 	
 	"CloseButton"
@@ -240,8 +240,8 @@
 		"armedFgColor_override"		"nüGrey"
 		"depressedFgColor_override" "nüGrey"
 		
-		"armedBgColor_override"		"nüMint"
-		"depressedBgColor_override" "nüMint"
+		"armedBgColor_override"		"nüAccent"
+		"depressedBgColor_override" "nüAccent"
 	}
 	"OpenLoadoutButton"
 	{
@@ -271,8 +271,8 @@
 		"armedFgColor_override"		"nüGrey"
 		"depressedFgColor_override" "nüGrey"
 		
-		"armedBgColor_override"		"nüMint"
-		"depressedBgColor_override" "nüMint"
+		"armedBgColor_override"		"nüAccent"
+		"depressedBgColor_override" "nüAccent"
 	}
 	
 	"DiscardButton"
