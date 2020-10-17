@@ -2,7 +2,8 @@
 // Select a font to use
 //------------------------------------------
 
-	#base "../resource/scheme/fonts_noah.res"
+//	#base "../resource/scheme/fonts_noah.res"
+	#base "../resource/scheme/fonts_reno.res"
 
 // Do not change these
 //------------------------------------------
@@ -49,53 +50,23 @@ Scheme
 		}
 		"8"
 		{
-			"font" "resource/fonts/Cabin-Regular.otf"
-			"name" "Cabin-Regular"
-		}
-		"9"
-		{
-			"font" "resource/fonts/Cabin-Medium.otf"
-			"name" "Cabin-Medium"
-		}
-		"10"
-		{
-			"font" "resource/fonts/Cabin-Bold.otf"
-			"name" "Cabin-Bold"
-		}
-		"11"
-		{
 			"font"	"resource/fonts/KnucklesCrosses.ttf"
 			"name"	"KnucklesCrosses"
 		}
-		"12"
-		{
-			"font" "resource/fonts/Roboto-Regular.ttf"
-			"name" "Roboto"
-		}
-		"13"
-		{
-			"font" "resource/fonts/Roboto-Medium.ttf"
-			"name" "Roboto Medium"
-		}
-		"14"
-		{
-			"font" "resource/fonts/Roboto-Bold.ttf"
-			"name" "Roboto Bold"
-		}
-		"14"
-		{
-			"font" "resource/fonts/Noto Sans Bold.ttf"
-			"name" "Noto Sans Bold"
-		}
-		"15" 
+		"9" 
 		{
 			"font" "resource/fonts/HudasIscariote.otf"
 			"name" "Hudas Iscariote"
 		}
-		"16"
+		"10"
 		{
 			"font" "resource/fonts/Noah-Bold.ttf"
 			"name" "Noah Bold"
+		}
+		"11"
+		{
+			"font" "resource/fonts/Renogare.ttf" [$WINDOWS]
+			"name" "Renogare Soft"
 		}
 	}
 }

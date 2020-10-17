@@ -30,7 +30,7 @@
 		"enabled"		"1"
 		"labelText"		"%Health%"
 		"textAlignment"	"east"	
-		"font"			"nüBold50"
+		"font"			"nüBold44"
 		"fgcolor"		"Health"
 		
 	}
@@ -48,7 +48,7 @@
 		"enabled"		"1"
 		"labelText"		"%Health%"
 		"textAlignment"	"east"	
-		"font"			"nüBoldShadow50"
+		"font"			"nüBoldShadow44"
 		"fgcolor"		"ShadowBlack"
 
 		"pin_to_sibling"	"PlayerStatusHealthValue"
@@ -62,8 +62,8 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"PlayerStatusHealthBG"
-		"xpos"			"16"
-		"ypos"			"-7"
+		"xpos"			"13"
+		"ypos"			"-10"
 		"zpos"			"3"
 		"wide"			"72"
 		"tall"			"32"

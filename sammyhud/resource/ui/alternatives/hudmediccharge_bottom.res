@@ -18,14 +18,9 @@
 		"textAlignment"	"west"
 		"dulltext"		"0"
 		"brighttext"	"0"
-		"font"			"nüBold56"
+		"font"			"nüBold44"
 		"fgcolor"		"ChargePercent"
 		
-		"font_minmode"		"nüBold40"
-		"xpos_minmode"		"c70"
-		"ypos_minmode"		"c23"
-		"wide_minmode"		"90"
-		"tall_minmode"		"50"
 	}
 	
 	"ChargeLabelShadow"
@@ -46,18 +41,13 @@
 		"textAlignment"	"west"
 		"dulltext"		"0"
 		"brighttext"	"0"
-		"font"			"nüBoldShadow56"
+		"font"			"nüBoldShadow44"
 		"fgcolor"		"ShadowBlack"
 
 		"pin_to_sibling"	"ChargeLabel"
         "pin_corner_to_sibling"		"1"
         "pin_to_sibling_corner"		"1"
 		
-		"font_minmode"		"nüshadow40"
-		"xpos_minmode"		"1"
-		"ypos_minmode"		"-1"
-		"wide_minmode"		"90"
-		"tall_minmode"		"50"
 		
 	}
 

@@ -36,7 +36,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"AmmoInClip"
-		"font"			"nüBold50"
+		"font"			"nüBold44"
 		"fgcolor"		"Ammo In Clip"
 		"xpos"			"43"
 		"ypos"			"7"
@@ -54,7 +54,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"AmmoInClipShadow"
-		"font"			"nüBoldShadow50"
+		"font"			"nüBoldShadow44"
 		"fgcolor"		"ShadowBlack"
 		"xpos"			"0"
 		"ypos"			"-1"
@@ -75,7 +75,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"AmmoInReserve"
-		"font"			"nüMedium26"
+		"font"			"nüMedium24"
 		"fgcolor"		"Ammo In Reserve"
 		"xpos"			"25"
 		"ypos"			"0"
@@ -97,7 +97,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"AmmoInReserveShadow"
-		"font"			"nüMediumShadow26"
+		"font"			"nüMediumShadow24"
 		"fgcolor"		"ShadowBlack"
 		"xpos"			"0"
 		"ypos"			"-1"
@@ -118,7 +118,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"AmmoNoClip"
-		"font"			"nüBold50"
+		"font"			"nüBold44"
 		"fgcolor"		"Ammo No Clip"
 		"xpos"			"43"
 		"ypos"			"7"
@@ -135,7 +135,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"AmmoNoClipShadow"
-		"font"			"nüBoldShadow50"
+		"font"			"nüBoldShadow4"
 		"fgcolor"		"ShadowBlack"
 		"xpos"			"1"
 		"ypos"			"-1"
