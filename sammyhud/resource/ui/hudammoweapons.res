@@ -135,7 +135,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"AmmoNoClipShadow"
-		"font"			"nüBoldShadow4"
+		"font"			"nüBoldShadow44"
 		"fgcolor"		"ShadowBlack"
 		"xpos"			"1"
 		"ypos"			"-1"
