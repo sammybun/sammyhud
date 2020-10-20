@@ -13,18 +13,18 @@
 		"enabled"		"1"
 
 
-		"max_size"	"18"
+		"max_size"	"25"
 
-		"6v6_gap"	"1"
+		"6v6_gap"	"2"
 		"12v12_gap"	"1"
 
 		"team1_grow_dir" "west"
 		"team1_base_x"	"c0-45"
-		"team1_max_expand"	"108"
+		"team1_max_expand"	"150"
 
 		"team2_grow_dir" "east"
 		"team2_base_x"	"c0+45"
-		"team2_max_expand"	"108"
+		"team2_max_expand"	"150"
 
 		"playerpanels_kv"
 		{
@@ -197,7 +197,7 @@
 				"labelText"		"%respawntime%"
 				"textAlignment"	"center"
 				"proportionaltoparent"	"1"
-				"fgcolor"						"255 255 255 255"
+				"fgcolor"						"235 235 235 255"
 			}
 			"chargeamount"
 			{

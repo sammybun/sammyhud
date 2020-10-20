@@ -68,5 +68,10 @@ Scheme
 			"font" "resource/fonts/Renogare.ttf" [$WINDOWS]
 			"name" "Renogare Soft"
 		}
+		"12"
+		{
+			"font" "resource/fonts/Renogare Numbers.otf"
+			"name" "Renogare Numbers"
+		}
 	}
 }

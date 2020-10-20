@@ -5,6 +5,16 @@ Scheme
 		// Damage Numbers
 		//-----------------------------------
 		
+		"nüMediumOutline10"
+		{
+			"1"
+			{
+				"name"		"Renogare Soft"
+				"tall"		"10"
+				"antialias" "1"
+				"outline"	"1"
+			}
+		}
 		"nüMediumOutline12"
 		{
 			"1"
@@ -1872,6 +1882,48 @@ Scheme
 				"tall"		"60"
 				"antialias" "1"
 				"blur"		"1"
+			}
+		}
+
+		"nüNumbers10"
+		{
+			"1"
+			{
+				"name"			"Renogare Numbers"
+				"tall"			"10"
+				"antialias"		"1"
+			}
+		}
+
+		"nüNumbers12"
+		{
+			"1"
+			{
+				"name"			"Renogare Numbers"
+				"tall"			"12"
+				"antialias"		"1"
+			}
+		}
+
+		"nüNumbersShadow10"
+		{
+			"1"
+			{
+				"name"			"Renogare Numbers"
+				"tall"			"10"
+				"antialias"		"1"
+				"blur"			"1"
+			}
+		}
+
+		"nüNumbersShadow12"
+		{
+			"1"
+			{
+				"name"			"Renogare Numbers"
+				"tall"			"12"
+				"antialias"		"1"
+				"blur"			"1"
 			}
 		}
 		
