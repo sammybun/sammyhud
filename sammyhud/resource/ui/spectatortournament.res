@@ -268,7 +268,7 @@
 			{
 				"ControlName"	"CExLabel"
 				"fieldName"		"chargeamount"
-				"font"			"nüBold14"
+				"font"			"nüBold12"
 				"xpos"			"110"
 				"ypos"			"0"
 				"zpos"			"6"
@@ -286,7 +286,7 @@
 			{
 				"ControlName"	"CExLabel"
 				"fieldName"		"chargeamountshadow"
-				"font"			"nüBoldShadow14"
+				"font"			"nüBoldShadow12"
 				"xpos"			"0"
 				"ypos"			"-1"
 				"zpos"			"6"
