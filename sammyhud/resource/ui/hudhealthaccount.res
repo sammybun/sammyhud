@@ -8,7 +8,7 @@
 		"delta_item_end_y"		"0"
 		"PositiveColor"			"Health Buff"
 		"NegativeColor"			"Health Low"
-		"delta_lifetime"		"1.5"
-		"delta_item_font"		"nüMedium20"
+		"delta_lifetime"		".6"
+		"delta_item_font"		"nüBold24"
 	}
 }

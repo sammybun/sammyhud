@@ -3,7 +3,8 @@
 //------------------------------------------
 
 //	#base "../resource/scheme/fonts_noah.res"
-	#base "../resource/scheme/fonts_reno.res"
+//	#base "../resource/scheme/fonts_reno.res"
+	#base "../resource/scheme/fonts_new.res"
 
 // Do not change these
 //------------------------------------------
@@ -72,6 +73,46 @@ Scheme
 		{
 			"font" "resource/fonts/Renogare Numbers.otf"
 			"name" "Renogare Numbers"
+		}
+		"13" 
+		{
+			"font" "resource/fonts/MediumNumbers.otf"
+			"name" "MediumNumbers"
+		}
+		"14" 
+		{
+			"font" "resource/fonts/LightNumbers.otf"
+			"name" "LightNumbers"
+		}
+		"15" 
+		{
+			"font" "resource/fonts/BoldNumbers.otf"
+			"name" "BoldNumbers"
+		}
+		"16" 
+		{
+			"font" "resource/fonts/AvenirLTStd-Medium.otf"
+			"name" "AvenirLTStd-Medium"
+		}	
+		"17" 
+		{
+			"font" "resource/fonts/AvenirLTStd-Heavy.otf"
+			"name" "AvenirLTStd-Heavy"
+		}
+		"18" 
+		{
+			"font" "resource/fonts/AvenirLTStd-Black.otf"
+			"name" "AvenirLTStd-Black"
+		}
+		"19" 
+		{
+			"font" "resource/fonts/AvenirLTStd-Book.otf"
+			"name" "AvenirLTStd-Book"
+		}		
+		"20" 
+		{
+			"font" "resource/fonts/AvenirLTStd-Roman.otf"
+			"name" "AvenirLTStd-Roman"
 		}
 	}
 }

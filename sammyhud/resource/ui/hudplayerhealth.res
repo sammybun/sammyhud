@@ -30,7 +30,7 @@
 		"enabled"		"1"
 		"labelText"		"%Health%"
 		"textAlignment"	"east"	
-		"font"			"nüBold44"
+		"font"			"nüBold38"
 		"fgcolor"		"Health"
 		
 	}
@@ -48,7 +48,7 @@
 		"enabled"		"1"
 		"labelText"		"%Health%"
 		"textAlignment"	"east"	
-		"font"			"nüBoldShadow44"
+		"font"			"nüBoldShadow38"
 		"fgcolor"		"ShadowBlack"
 
 		"pin_to_sibling"	"PlayerStatusHealthValue"
