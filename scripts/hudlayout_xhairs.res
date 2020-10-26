@@ -10,9 +10,9 @@
 		"visible" 		"0"
 		"enabled" 		"0"
 		
-		"labelText"		"a"
-		"font"			"size:12,outline:on"	// size: range 10-50; outline: on or off
-		"fgcolor" 		"0 255 0 255"
+		"labelText"		"d"
+		"font"			"size:13,outline:on"	// size: range 10-50; outline: on or off
+		"fgcolor" 		"41 152 182 255"
 		
 		"controlName"	"CExLabel"
 		"fieldName"	 	"KnucklesCrosses1"
@@ -23,7 +23,6 @@
 		"tall" 		 	"50"
 		
 		"textAlignment"	"center"
-		"fgcolor" 		"0 0 0 255"
 	}
 	
 	KnucklesCrosses2
