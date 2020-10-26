@@ -3,8 +3,8 @@
 //------------------------------------------
 
 //	#base "../resource/scheme/fonts_noah.res"
-//	#base "../resource/scheme/fonts_reno.res"
-	#base "../resource/scheme/fonts_new.res"
+	#base "../resource/scheme/fonts_reno.res"
+//	#base "../resource/scheme/fonts_new.res"
 
 // Do not change these
 //------------------------------------------
