@@ -79,7 +79,7 @@
 		"zpos"			"1"
 		"wide"			"2"
 		"tall"			"215"
-		"tall_minmode"			"128"
+		"tall_minmode"	"127"
 		"visible"		"1"
 		"enabled"		"1"
 		"bgcolor_override"	"nüBLUSolid"
@@ -102,7 +102,7 @@
 		"zpos"			"-1"
 		"wide"			"250"
 		"tall"			"185"
-		"tall_minmode"	"98"
+		"tall_minmode"	"97"
 		"visible"		"1"
 		"enabled"		"1"
 		"bgcolor_override"	"15 15 15 140"
@@ -151,7 +151,7 @@
 		"zpos"			"1"
 		"wide"			"2"
 		"tall"			"215"
-		"tall_minmode"			"128"
+		"tall_minmode"	"127"
 		"visible"		"1"
 		"enabled"		"1"
 		"bgcolor_override"	"nüREDSolid"
@@ -174,7 +174,7 @@
 		"zpos"			"-1"
 		"wide"			"250"
 		"tall"			"185"
-		"tall_minmode"	"98"
+		"tall_minmode"	"97"
 		"visible"		"1"
 		"enabled"		"1"
 		"bgcolor_override"	"15 15 15 140"
@@ -223,7 +223,7 @@
 		"labelText"		"%blueteamscore%"
 		"textAlignment"		"center"
 		"xpos"			"0"
-		"ypos"			"-2"
+		"ypos"			"-4"
 		"zpos"			"22"
 		"wide"			"30"
 		"tall"			"20"
@@ -308,7 +308,7 @@
 		"labelText"		"%redteamscore%"
 		"textAlignment"		"center"
 		"xpos"			"0"
-		"ypos"			"-2"
+		"ypos"			"-4"
 		"zpos"			"22"
 		"wide"			"30"
 		"tall"			"20"
@@ -381,9 +381,9 @@
 		if_mvm
 		{
 			"visible"	"1"
+			"xpos"		"-293"
 			"ypos"		"-23"
-			"ypos_minmode"	"21"
-			"wide"		"520"
+			"wide"		"252"
 		}
 	}
 	"MapIcon"
@@ -491,7 +491,7 @@
 		"zpos"			"0"
 		"wide"			"254"
 		"tall"			"188"
-		"tall_minmode"		"101"
+		"tall_minmode"	"99"
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
@@ -520,7 +520,7 @@
 		"zpos"			"0"
 		"wide"			"254"
 		"tall"			"188"
-		"tall_minmode"		"101"
+		"tall_minmode"	"99"
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
@@ -665,8 +665,8 @@
 
 		if_mvm
 		{
-			"ypos"		"-11"
-			"ypos_minmode"	"33"
+			"ypos"		"0"
+			"xpos"		"-293"
 		}
 
 		"KillsLabel"

@@ -106,7 +106,7 @@
 		"fieldName"		"CreditStatsContainer"
 		"xpos"			"c-330"
 		"ypos"			"257"
-		"wide"			"568"
+		"wide"			"520"
 		"tall"			"80"
 		"visible"		"1"
 		"bgcolor_override"	"PanelBG"

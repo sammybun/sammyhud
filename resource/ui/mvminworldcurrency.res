@@ -51,7 +51,7 @@
 		"fieldName"		"RemainingLabel"
 		"xpos"			"0"
 		"ypos"			"0"
-		"wide"			"50"
+		"wide"			"60"
 		"tall"			"12"
 		"visible"		"1"
 		"enable"		"1"

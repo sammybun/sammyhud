@@ -1546,7 +1546,7 @@
 	{
 		"ControlName"		"ImagePanel"
 		"fieldName"		"VerticalLine"
-		"xpos"			"c170"
+		"xpos"			"c126"
 		"ypos"			"0"
 		"zpos"			"-5"
 		"wide"			"1"
@@ -1562,7 +1562,7 @@
 	{
 		"ControlName"		"ImagePanel"
 		"fieldName"		"VerticalLine"
-		"xpos"			"c-170"
+		"xpos"			"c-126"
 		"ypos"			"0"
 		"zpos"			"-5"
 		"wide"			"1"
