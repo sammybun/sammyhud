@@ -18,41 +18,64 @@
 		"teambg_2"		"../hud/medic_charge_red_bg"
 		"teambg_3"		"../hud/medic_charge_blue_bg"
 	}
-	
-	"IndividualChargesLabel"
+	"ChargeLabel"
 	{
-		"ControlName"	"CExImageButton"
-		"fieldName"		"IndividualChargesLabel"
-		"xpos"			"c70"
-		"ypos"			"c70"
-		"zpos"			"3"
-		"wide"			"89"
-		"tall"			"34"
-		"autoResize"	"0"
-		"pinCorner"		"0"
+		"ControlName"	"CExLabel"
+		"fieldName"		"ChargeLabel"
+		"xpos"			"c103"
+		"ypos"			"c67"
+		"zpos"			"2"
+		"wide"			"120"
+		"tall"			"50"
+		"autoResize"	"1"
+		"pinCorner"		"2"
 		"visible"		"1"
 		"enabled"		"1"
-		"defaultbgcolor_override"	"0 0 0 255"
-		"PaintBackgroundType"	"0"
-		"border_default"	"NoBorder"
-		"border_armed"		"NoBorder"
-        "textinsety" 	"99"
-		
-		"ypos_minmode"			"c38"
-		"wide_minmode"			"68"
-		"tall_minmode"			"24"
- 	}
+		"tabPosition"	"0"
+		"labelText"		"#TF_UberchargeMinHUD"
+		"textAlignment"	"west"
+		"dulltext"		"0"
+		"brighttext"	"0"
+		"font"			"nüBold38"
+		"fgcolor"		"ChargePercent"
+	}
 	
-	"ChargeMeter1"
-	{	
+	"ChargeLabelShadow"
+	{
+		"ControlName"	"CExLabel"
+		"fieldName"		"ChargeLabelShadow"
+		"xpos"			"1"
+		"ypos"			"-1"
+		"zpos"			"2"
+		"wide"			"120"
+		"tall"			"50"
+		"autoResize"	"1"
+		"pinCorner"		"2"
+		"visible"		"0"
+		"enabled"		"1"
+		"tabPosition"	"0"
+		"labelText"		"#TF_UberchargeMinHUD"
+		"textAlignment"	"west"
+		"dulltext"		"0"
+		"brighttext"	"0"
+		"font"			"nüBoldShadow38"
+		"fgcolor"		"ShadowBlack"
+
+		"pin_to_sibling"	"ChargeLabel"
+        "pin_corner_to_sibling"		"1"
+        "pin_to_sibling_corner"		"1"
+	}
+
+	"ChargeMeter"
+	{
 		"ControlName"	"ContinuousProgressBar"
-		"fieldName"		"ChargeMeter1"
+		"fieldName"		"ChargeMeter"
 		"font"			"Default"
-		"xpos"			"-2"		//c89
-		"ypos"			"-2"		//c115
-		"zpos"			"4"
-		"wide"			"20"
-		"tall"			"30"			
+		"xpos"			"c-60"
+		"ypos"			"c130"
+		"zpos"			"1"
+		"wide"			"120"
+		"tall"			"3"				
 		"autoResize"	"0"
 		"pinCorner"		"0"
 		"visible"		"1"
@@ -60,13 +83,105 @@
 		"textAlignment"	"Left"
 		"dulltext"		"0"
 		"brighttext"	"0"
+		"fgcolor_override"		"Ubercharge Meter"
+		"bgcolor_override"		"0 0 0 140"
+	}
 
-		"pin_to_sibling"	"IndividualChargesLabel"
-        "pin_corner_to_sibling"		"PIN_TOPLEFT"
-        "pin_to_sibling_corner"		"PIN_TOPLEFT"
-		
-		"wide_minmode"			"15"
-		"tall_minmode"			"20"
+	"Charge25Percent"
+	{
+		"ControlName"		"ImagePanel"
+		"fieldName"		"Charge25Percent"
+		"xpos"			"-30"
+		"ypos"			"0"
+		"zpos"			"2"
+		"wide"			"1"
+		"tall"			"3"
+		"visible"		"1"
+		"enabled"		"1"
+		"fillcolor"		"nüBlack"
+
+		"pin_to_sibling"	"ChargeMeter"
+        "pin_corner_to_sibling"	"PIN_TOPLEFT"
+        "pin_to_sibling_corner"	"PIN_TOPLEFT"
+	}
+
+	"Charge50Percent"
+	{
+		"ControlName"		"ImagePanel"
+		"fieldName"		"Charge50Percent"
+		"xpos"			"0"
+		"ypos"			"0"
+		"zpos"			"2"
+		"wide"			"1"
+		"tall"			"3"
+		"visible"		"1"
+		"enabled"		"1"
+		"fillcolor"		"nüBlack"
+
+		"pin_to_sibling"	"ChargeMeter"
+        "pin_corner_to_sibling"	"PIN_CENTER_TOP"
+        "pin_to_sibling_corner"	"PIN_CENTER_TOP"
+	}
+
+	"Charge75Percent"
+	{
+		"ControlName"		"ImagePanel"
+		"fieldName"		"Charge75Percent"
+		"xpos"			"-30"
+		"ypos"			"0"
+		"zpos"			"2"
+		"wide"			"1"
+		"tall"			"3"
+		"visible"		"1"
+		"enabled"		"1"
+		"fillcolor"		"nüBlack"
+
+		"pin_to_sibling"	"ChargeMeter"
+        "pin_corner_to_sibling"	"PIN_TOPRIGHT"
+        "pin_to_sibling_corner"	"PIN_TOPRIGHT"
+	}
+	
+
+
+	"IndividualChargesLabel"
+	{
+		"ControlName"	"CExLabel"
+		"fieldName"		"IndividualChargesLabel"
+		"xpos"			"c103"
+		"ypos"			"c67"
+		"zpos"			"2"
+		"wide"			"120"
+		"tall"			"50"
+		"autoResize"	"1"
+		"pinCorner"		"2"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"	"0"
+		"labelText"		"#TF_IndividualUberchargesMinHUD"
+		"textAlignment"	"west"
+		"dulltext"		"0"
+		"brighttext"	"0"
+		"font"			"nüBold38"
+		"fgcolor"		"ChargePercent"
+	}
+	
+	"ChargeMeter1"
+	{	
+		"ControlName"	"ContinuousProgressBar"
+		"fieldName"		"ChargeMeter1"
+		"font"			"Default"
+		"xpos"			"c-60"		//c89
+		"ypos"			"c130"		//c115
+		"zpos"			"1"
+		"wide"			"30"
+		"tall"			"3"			
+		"autoResize"	"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"textAlignment"	"Left"
+		"dulltext"		"0"
+		"brighttext"	"0"
 	}
 
 	"ChargeMeter2"
@@ -74,11 +189,11 @@
 		"ControlName"	"ContinuousProgressBar"
 		"fieldName"		"ChargeMeter2"
 		"font"			"Default"
-		"xpos"			"2"		//c112
+		"xpos"			"0"		//c112
 		"ypos"			"0"		//c115
-		"zpos"			"4"
-		"wide"			"20"
-		"tall"			"30"				
+		"zpos"			"1"
+		"wide"			"30"
+		"tall"			"3"				
 		"autoResize"	"0"
 		"pinCorner"		"0"
 		"visible"		"1"
@@ -91,8 +206,6 @@
         "pin_corner_to_sibling"		"PIN_TOPLEFT"
         "pin_to_sibling_corner"		"PIN_TOPRIGHT"
 		
-		"wide_minmode"			"15"
-		"tall_minmode"			"20"
 	}
 
 	"ChargeMeter3"
@@ -100,11 +213,11 @@
 		"ControlName"	"ContinuousProgressBar"
 		"fieldName"		"ChargeMeter3"
 		"font"			"Default"
-		"xpos"			"2"		//c134
+		"xpos"			"0"		//c134
 		"ypos"			"0"		//c115
-		"zpos"			"4"
-		"wide"			"20"
-		"tall"			"30"				
+		"zpos"			"1"
+		"wide"			"30"
+		"tall"			"3"				
 		"autoResize"	"0"
 		"pinCorner"		"0"
 		"visible"		"1"
@@ -117,8 +230,6 @@
         "pin_corner_to_sibling"		"PIN_TOPLEFT"
         "pin_to_sibling_corner"		"PIN_TOPRIGHT"
 		
-		"wide_minmode"			"15"
-		"tall_minmode"			"20"
 	}
 
 	"ChargeMeter4"
@@ -126,11 +237,11 @@
 		"ControlName"	"ContinuousProgressBar"
 		"fieldName"		"ChargeMeter4"
 		"font"			"Default"
-		"xpos"			"2"		//c156
+		"xpos"			"0"		//c156
 		"ypos"			"0"		//c115
-		"zpos"			"4"
-		"wide"			"20"
-		"tall"			"30"				
+		"zpos"			"1"
+		"wide"			"30"
+		"tall"			"3"				
 		"autoResize"	"0"
 		"pinCorner"		"0"
 		"visible"		"1"
@@ -143,8 +254,6 @@
         "pin_corner_to_sibling"		"PIN_TOPLEFT"
         "pin_to_sibling_corner"		"PIN_TOPRIGHT"
 		
-		"wide_minmode"			"15"
-		"tall_minmode"			"20"
 		
 		
 	}
@@ -167,15 +276,14 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"ResistIconAnchor"
-		"xpos"			"c160"
-		"ypos"			"c70"
-		"wide"			"34"
-		"tall"			"34"
+		"xpos"			"c154"
+		"ypos"			"c74"
+		"wide"			"10"
+		"tall"			"10"
 		"visible"		"1"
 		"enabled"		"1"
+		"zpos"			"100"
 		
-		"xpos_minmode"			"c140"
-		"ypos_minmode"			"c33"
 	}
 
 	"ResistIcon"
@@ -184,6 +292,7 @@
 		"fieldName"		"ResistIcon"
 		"xpos"			"0"
 		"ypos"			"0"
+		"zpos"			"3"
 		"wide"			"34"
 		"tall"			"34"
 		"visible"		"1"

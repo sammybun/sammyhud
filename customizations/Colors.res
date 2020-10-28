@@ -5,9 +5,9 @@ Scheme
 // Health
 		//-----------------------------------------
 		
-		"Health"				"240 240 240 255"
-		"Health Buff"			"75 175 255 255"	//41 152 182 255
-		"Health Buff 2"			"0 200 255 255"	//0 200 255 255
+		"Health"				"240 240 240 215"
+		"Health Buff"			"43 152 172 200"	//41 152 182 255
+		"Health Buff 2"			"43 152 172 255"	//0 200 255 255
 		"Health Low"			"255 0 0 255"	//200 0 0 255
 		"Health Low 2"			"255 75 75 255"	//255 75 75 255
 		
@@ -15,9 +15,9 @@ Scheme
 		// Ammo
 		//-----------------------------------------
 		
-		"Ammo In Clip"			"240 240 240 255"
+		"Ammo In Clip"			"240 240 240 215"
 		"Ammo In Reserve"		"75 175 255 255"	//41 152 182 255
-		"Ammo No Clip"			"240 240 240 255"
+		"Ammo No Clip"			"240 240 240 215"
 		"Low Ammo 1"			"204 56 56 255"	//200 0 0 255
 		"Low Ammo 2"			"255 70 70 255"	//255 75 75 255
 		
@@ -26,8 +26,8 @@ Scheme
 		
 		"ChargePercent"			"240 240 240 255"
 		"Ubercharge Meter"		"240 240 240 255"
-		"Ubercharge 1"			"75 175 255 255"
-		"Ubercharge 2"			"0 200 255 255"
+		"Ubercharge 1"			"43 152 172 255"
+		"Ubercharge 2"			"43 152 172 200"
 		"Smallmediccharge"      "0 255 0 255"
 		
 		// Misc
