@@ -6,7 +6,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"xpos"			"c-60"
-		"ypos"			"r155"
+		"ypos"			"r150"
 		"wide"			"120"
 		"tall"			"10"
 	}

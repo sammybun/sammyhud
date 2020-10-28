@@ -34,7 +34,7 @@ Scheme
 		//-----------------------------------------
 		
 		"Damage Numbers"		"240 240 240 255" //Damage numbers above ammo
-		"Healing Numbers"		"75 175 255 255"
+		"Healing Numbers"		"20 178 98 255"
 		"Stickies"				"240 240 240 255"
 		"Metal"					"240 240 240 255"
 		"Killstreak"			"240 240 240 255"

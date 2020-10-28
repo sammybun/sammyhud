@@ -1926,6 +1926,17 @@ Scheme
 				"blur"			"1"
 			}
 		}
+
+		"nüBoldDropShadow38"
+		{
+			"1"
+			{
+				"name"			"Renogare Soft"
+				"tall"			"38"
+				"antialias"		"1"
+				"dropshadow"	"1"
+			}
+		}
 		
 		"Default"
 		{

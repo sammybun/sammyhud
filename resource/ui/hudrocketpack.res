@@ -5,12 +5,11 @@
 		"fieldName"		"HudItemEffectMeter"
 		"visible"		"1"
 		"enabled"		"1"
-		"xpos"			"c-59"
-		"ypos"			"c80"
+		"xpos"			"c-60"
+		"ypos"			"c100"
 		"wide"			"120"
 		"tall"			"20"
 		
-		"ypos_minmode"			"c48"
 	}
 
 	"ItemEffectMeterBG"
@@ -49,7 +48,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"ItemEffectMeterLabel"
-		"xpos"			"-11"
+		"xpos"			"-9"
 		"ypos"			"4"
 		"zpos"			"2"
 		"wide"			"48"
@@ -66,7 +65,6 @@
 		"font"			"nü8"
 		"fgcolor"		"255 255 255 255"
 		
-		"ypos_minmode"			"2"
 		
 	}
 
@@ -78,7 +76,7 @@
 		"xpos"			"0"
 		"ypos"			"4"
 		"zpos"			"2"
-		"wide"			"58"
+		"wide"			"60"
 		"tall"			"2"				
 		"autoResize"	"0"
 		"pinCorner"		"0"
@@ -89,7 +87,6 @@
 		"brighttext"	"0"
 		"fgcolor"		"White"
 		
-		"ypos_minmode"			"2"
 	}
 
 	"ItemEffectMeter2"
@@ -97,10 +94,10 @@
 		"ControlName"	"ContinuousProgressBar"
 		"fieldName"		"ItemEffectMeter2"
 		"font"			"Default"
-		"xpos"			"60"
+		"xpos"			"61"
 		"ypos"			"4"
 		"zpos"			"2"
-		"wide"			"58"
+		"wide"			"60"
 		"tall"			"2"				
 		"autoResize"	"0"
 		"pinCorner"		"0"
@@ -111,6 +108,5 @@
 		"brighttext"	"0"
 		"fgcolor"		"White"
 		
-		"ypos_minmode"			"2"
 	}
 }

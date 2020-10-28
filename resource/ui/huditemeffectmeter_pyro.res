@@ -5,9 +5,9 @@
 		"fieldName"		"HudItemEffectMeter"
 		"visible"		"1"
 		"enabled"		"1"
-		"xpos"			"c-59"
-		"ypos"			"r157"
-		"wide"			"118"
+		"xpos"			"c-60"
+		"ypos"			"r150"
+		"wide"			"120"
 		"tall"			"10"
 		
 	}
@@ -56,7 +56,7 @@
 		"xpos"			"0"
 		"ypos"			"0"
 		"zpos"			"2"
-		"wide"			"118"
+		"wide"			"120"
 		"tall"			"2"				
 		"autoResize"	"0"
 		"pinCorner"		"0"

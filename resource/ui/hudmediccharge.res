@@ -36,34 +36,8 @@
 		"textAlignment"	"west"
 		"dulltext"		"0"
 		"brighttext"	"0"
-		"font"			"nüBold38"
+		"font"			"nüBoldDropShadow38"
 		"fgcolor"		"ChargePercent"
-	}
-	
-	"ChargeLabelShadow"
-	{
-		"ControlName"	"CExLabel"
-		"fieldName"		"ChargeLabelShadow"
-		"xpos"			"1"
-		"ypos"			"-1"
-		"zpos"			"2"
-		"wide"			"120"
-		"tall"			"50"
-		"autoResize"	"1"
-		"pinCorner"		"2"
-		"visible"		"0"
-		"enabled"		"1"
-		"tabPosition"	"0"
-		"labelText"		"#TF_UberchargeMinHUD"
-		"textAlignment"	"west"
-		"dulltext"		"0"
-		"brighttext"	"0"
-		"font"			"nüBoldShadow38"
-		"fgcolor"		"ShadowBlack"
-
-		"pin_to_sibling"	"ChargeLabel"
-        "pin_corner_to_sibling"		"1"
-        "pin_to_sibling_corner"		"1"
 	}
 
 	"ChargeMeter"
@@ -149,7 +123,7 @@
 		"fieldName"		"IndividualChargesLabel"
 		"xpos"			"c103"
 		"ypos"			"c67"
-		"zpos"			"2"
+		"zpos"			"3"
 		"wide"			"120"
 		"tall"			"50"
 		"autoResize"	"1"
@@ -161,10 +135,10 @@
 		"textAlignment"	"west"
 		"dulltext"		"0"
 		"brighttext"	"0"
-		"font"			"nüBold38"
+		"font"			"nüBoldDropShadow38"
 		"fgcolor"		"ChargePercent"
 	}
-	
+
 	"ChargeMeter1"
 	{	
 		"ControlName"	"ContinuousProgressBar"
@@ -276,10 +250,10 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"ResistIconAnchor"
-		"xpos"			"c154"
+		"xpos"			"c132"
 		"ypos"			"c74"
-		"wide"			"10"
-		"tall"			"10"
+		"wide"			"24"
+		"tall"			"24"
 		"visible"		"1"
 		"enabled"		"1"
 		"zpos"			"100"

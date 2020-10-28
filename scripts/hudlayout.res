@@ -85,7 +85,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"xpos"			"c-60"
-		"ypos"			"c94"
+		"ypos"			"c90"
 		"zpos"			"1"			// draw in front of ammo
 		"wide"			"200"
 		"tall"			"100"
@@ -1490,7 +1490,7 @@
 		"autoResize"	"0"
 		"pinCorner"		"0"
 		"visible"		"0"
-		"enabled"		"0"
+		"enabled"		"1"
 		"fillcolor"		"255 255 0 255"
 	}
 
@@ -1499,14 +1499,14 @@
 		"ControlName"		"ImagePanel"
 		"fieldName"		"VerticalLine"
 		"xpos"			"0"
-		"ypos"			"c105"
+		"ypos"			"c90"
 		"zpos"			"-5"
 		"wide"			"f0"
 		"tall"			"1"
 		"autoResize"	"0"
 		"pinCorner"		"0"
 		"visible"		"0"
-		"enabled"		"0"
+		"enabled"		"1"
 		"fillcolor"		"225 0 0 255"
 	}
 
@@ -1515,14 +1515,30 @@
 		"ControlName"		"ImagePanel"
 		"fieldName"		"VerticalLine"
 		"xpos"			"0"
-		"ypos"			"c144"
+		"ypos"			"c112"
 		"zpos"			"-5"
 		"wide"			"f0"
 		"tall"			"1"
 		"autoResize"	"0"
 		"pinCorner"		"0"
 		"visible"		"0"
-		"enabled"		"0"
+		"enabled"		"1"
+		"fillcolor"		"255 0 0 255"
+	}
+
+	"HorizontalLine3"
+	{
+		"ControlName"		"ImagePanel"
+		"fieldName"		"VerticalLine"
+		"xpos"			"0"
+		"ypos"			"c101"
+		"zpos"			"-5"
+		"wide"			"f0"
+		"tall"			"1"
+		"autoResize"	"0"
+		"pinCorner"		"0"
+		"visible"		"0"
+		"enabled"		"1"
 		"fillcolor"		"255 0 0 255"
 	}
 
@@ -1538,7 +1554,7 @@
 		"autoResize"	"0"
 		"pinCorner"		"0"
 		"visible"		"0"
-		"enabled"		"0"
+		"enabled"		"1"
 		"fillcolor"		"255 0 0 255"
 	}
 
@@ -1546,7 +1562,7 @@
 	{
 		"ControlName"		"ImagePanel"
 		"fieldName"		"VerticalLine"
-		"xpos"			"c126"
+		"xpos"			"c100"
 		"ypos"			"0"
 		"zpos"			"-5"
 		"wide"			"1"
@@ -1554,7 +1570,7 @@
 		"autoResize"	"0"
 		"pinCorner"		"0"
 		"visible"		"0"
-		"enabled"		"0"
+		"enabled"		"1"
 		"fillcolor"		"255 0 0 255"
 	}
 
@@ -1562,7 +1578,7 @@
 	{
 		"ControlName"		"ImagePanel"
 		"fieldName"		"VerticalLine"
-		"xpos"			"c-126"
+		"xpos"			"c-100"
 		"ypos"			"0"
 		"zpos"			"-5"
 		"wide"			"1"
@@ -1570,7 +1586,7 @@
 		"autoResize"	"0"
 		"pinCorner"		"0"
 		"visible"		"0"
-		"enabled"		"0"
+		"enabled"		"1"
 		"fillcolor"		"255 0 0 255"
 	}
 
