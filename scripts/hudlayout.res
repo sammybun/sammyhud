@@ -2,7 +2,7 @@
 // Load custom crosshairs	
 //------------------------------------------
 
-	#base "hudlayout_xhairs.res"
+	#base "../resource/Crosshairs/crosshair.res"
 
 //------------------------------------------
 

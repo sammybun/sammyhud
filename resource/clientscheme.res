@@ -2,9 +2,8 @@
 // Select a font to use
 //------------------------------------------
 
-//	#base "../resource/scheme/fonts_noah.res"
 	#base "../resource/scheme/fonts_reno.res"
-
+	
 // Do not change these
 //------------------------------------------
 
@@ -13,6 +12,7 @@
 	#base "scheme/colors.res"
 	#base "scheme/crosshairs.res"
 	#base "scheme/symbols.res"
+	#base "../resource/crosshairs/crosshair_scheme.res"
 	
 
 //------------------------------------------
@@ -51,22 +51,17 @@ Scheme
 			"font" "resource/fonts/Blocks.ttf"
 			"name" "Blocks"
 		}
-		"8"
-		{
-			"font"	"resource/fonts/KnucklesCrosses.ttf"
-			"name"	"KnucklesCrosses"
-		}
-		"9" 
+		"8" 
 		{
 			"font" "resource/fonts/HudasIscariote.otf"
 			"name" "Hudas Iscariote"
 		}
-		"10"
+		"9"
 		{
 			"font" "resource/fonts/Renogare.ttf" [$WINDOWS]
 			"name" "Renogare Soft"
 		}
-		"11"
+		"10"
 		{
 			"font" "resource/fonts/Renogare Numbers.otf"
 			"name" "Renogare Numbers"
