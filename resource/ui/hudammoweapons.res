@@ -71,13 +71,14 @@
 		"pin_corner_to_sibling"		"1"
         "pin_to_sibling_corner"		"1"
 	}
+
 	"AmmoInReserve"
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"AmmoInReserve"
-		"font"			"nüMedium24"
+		"font"			"nüMedium20"
 		"fgcolor"		"Ammo In Reserve"
-		"xpos"			"30"
+		"xpos"			"45"
 		"ypos"			"0"
 		"zpos"			"7"
 		"wide"			"40"
@@ -86,18 +87,18 @@
 		"enabled"		"1"
 		"textAlignment"	"west"		
 		"labelText"		"%AmmoInReserve%"
-			"auto_wide_tocontents"	"1"
+	
 		
 		"pin_to_sibling"	"AmmoInClip"
 		"pin_corner_to_sibling"		"1"
         "pin_to_sibling_corner"		"1"
-		
 	}
+
 	"AmmoInReserveShadow"
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"AmmoInReserveShadow"
-		"font"			"nüMediumShadow24"
+		"font"			"nüMediumShadow20"
 		"fgcolor"		"ShadowBlack"
 		"xpos"			"0"
 		"ypos"			"-1"
@@ -108,7 +109,7 @@
 		"enabled"		"0"
 		"textAlignment"	"west"		
 		"labelText"		"%AmmoInReserve%"
-			"auto_wide_tocontents"	"1"
+	
 
 		"pin_to_sibling"	"AmmoInReserve"
 		"pin_corner_to_sibling"		"1"
