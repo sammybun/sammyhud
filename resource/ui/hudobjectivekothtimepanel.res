@@ -8,6 +8,60 @@
 		}
 	}
 
+	"BlueIndicator"
+	{
+		"ControlName"		"EditablePanel"
+		"fieldName"			"BlueIndicator"
+		"visible"			"0"
+
+		if_match
+		{
+			"xpos"			"10"
+			"ypos"			"-7"
+			"zpos"			"1"
+			"wide"			"1"
+			"tall"			"17"
+			"visible"		"1"
+			"enabled"		"1"
+			"bgcolor_override"	"nüBLUSolid"
+
+
+			"pin_to_sibling"	"BlueTimerBG"
+			"pin_corner_to_sibling"	"PIN_CENTER_TOP"
+			"pin_to_sibling_corner"	"PIN_CENTER_BOTTOM"
+		}
+	}
+
+
+
+		"RedIndicator"
+	{
+		"ControlName"		"EditablePanel"
+		"fieldName"			"RedIndicator"
+		"visible"			"0"
+
+		if_match
+		{
+			"xpos"			"-10"
+			"ypos"			"-7"
+			"zpos"			"1"
+			"wide"			"1"
+			"tall"			"17"
+			"visible"		"1"
+			"enabled"		"1"
+			"bgcolor_override"	"nüREDSolid"
+
+
+			"pin_to_sibling"	"RedTimerBG"
+			"pin_corner_to_sibling"	"PIN_CENTER_TOP"
+			"pin_to_sibling_corner"	"PIN_CENTER_BOTTOM"
+		}
+	}
+
+
+
+
+
 	"BlueTimer"
 	{
 		"ControlName"		"CTFHudTimeStatus"
@@ -24,7 +78,7 @@
 		{
 			"proportionaltoparent"	"1"
 			"xpos"					"cs-0.5"
-			"ypos"					"0"
+			"ypos"					"-10"
 			"delta_item_x"			"10"
 			"delta_item_start_y"	"12"
 			"delta_item_end_y"		"50"
@@ -77,7 +131,7 @@
 		{
 			"proportionaltoparent"	"1"
 			"xpos"					"cs-0.5"
-			"ypos"					"0"
+			"ypos"					"-10"
 			"delta_item_x"			"50"
 			"delta_item_start_y"	"12"
 			"delta_item_end_y"		"50"

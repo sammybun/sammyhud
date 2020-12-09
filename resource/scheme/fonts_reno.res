@@ -5,11 +5,22 @@ Scheme
 		// Damage Numbers
 		//-----------------------------------
 		
+
+		"nüMediumOutline8"
+		{
+			"1"
+			{
+				"name"		"Rubik SemiBold"
+				"tall"		"8"
+				"antialias" "1"
+				"outline"	"1"
+			}
+		}
 		"nüMediumOutline10"
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"10"
 				"antialias" "1"
 				"outline"	"1"
@@ -19,7 +30,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"12"
 				"antialias" "1"
 				"outline"	"1"
@@ -29,7 +40,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"14"
 				"antialias" "1"
 				"outline"	"1"
@@ -39,7 +50,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"20"
 				"antialias" "1"
 				"outline"	"1"
@@ -50,7 +61,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"22"
 				"antialias" "1"
 				"outline"	"1"
@@ -61,7 +72,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"24"
 				"antialias" "1"
 				"outline"	"1"
@@ -72,7 +83,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"24"
 				"antialias" "1"
 				"outline"	"1"
@@ -83,7 +94,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"40"
 				"antialias" "1"
 				"outline"	"1"
@@ -96,7 +107,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"8"
 				"antialias" "1"
 			}
@@ -105,7 +116,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"8"
 				"antialias" "1"
 				"blur"		"1"
@@ -115,7 +126,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"10"
 				"antialias" "1"
 			}
@@ -124,7 +135,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"10"
 				"antialias" "1"
 				"blur"		"1"
@@ -134,7 +145,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"11"
 				"antialias" "1"
 			}
@@ -143,7 +154,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"11"
 				"antialias" "1"
 				"blur"		"1"
@@ -153,7 +164,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"12"
 				"antialias" "1"
 			}
@@ -162,7 +173,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"12"
 				"antialias" "1"
 				"blur"		"1"
@@ -172,7 +183,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"14"
 				"antialias" "1"
 			}
@@ -181,7 +192,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"14"
 				"antialias" "1"
 				"blur"		"1"
@@ -191,7 +202,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"16"
 				"antialias" "1"
 			}
@@ -200,7 +211,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"16"
 				"antialias" "1"
 				"blur"		"1"
@@ -210,7 +221,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"18"
 				"antialias" "1"
 			}
@@ -219,7 +230,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"18"
 				"antialias" "1"
 				"blur"		"1"
@@ -229,7 +240,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"20"
 				"antialias" "1"
 			}
@@ -238,7 +249,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"20"
 				"antialias" "1"
 				"blur"		"1"
@@ -248,7 +259,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"22"
 				"antialias" "1"
 			}
@@ -257,7 +268,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"22"
 				"antialias" "1"
 				"blur"		"1"
@@ -267,7 +278,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"24"
 				"antialias" "1"
 			}
@@ -276,7 +287,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"24"
 				"antialias" "1"
 				"blur"		"1"
@@ -286,7 +297,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"26"
 				"antialias" "1"
 			}
@@ -295,7 +306,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"26"
 				"antialias" "1"
 				"blur"		"1"
@@ -305,7 +316,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"28"
 				"antialias" "1"
 			}
@@ -314,7 +325,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"28"
 				"antialias" "1"
 				"blur"		"1"
@@ -324,7 +335,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"30"
 				"antialias" "1"
 			}
@@ -333,7 +344,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"30"
 				"antialias" "1"
 				"blur"		"1"
@@ -343,7 +354,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"32"
 				"antialias" "1"
 			}
@@ -352,7 +363,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"32"
 				"antialias" "1"
 				"blur"		"1"
@@ -362,7 +373,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"34"
 				"antialias" "1"
 			}
@@ -371,7 +382,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"34"
 				"antialias" "1"
 				"blur"		"1"
@@ -381,7 +392,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"36"
 				"antialias" "1"
 			}
@@ -390,7 +401,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"36"
 				"antialias" "1"
 				"blur"		"1"
@@ -400,7 +411,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"38"
 				"antialias" "1"
 			}
@@ -409,7 +420,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"38"
 				"antialias" "1"
 				"blur"		"1"
@@ -419,7 +430,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"40"
 				"antialias" "1"
 			}
@@ -428,7 +439,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"40"
 				"antialias" "1"
 				"blur"		"1"
@@ -438,7 +449,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"42"
 				"antialias" "1"
 			}
@@ -447,7 +458,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"42"
 				"antialias" "1"
 				"blur"		"1"
@@ -457,7 +468,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"44"
 				"antialias" "1"
 			}
@@ -466,7 +477,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"44"
 				"antialias" "1"
 				"blur"		"1"
@@ -476,7 +487,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"46"
 				"antialias" "1"
 			}
@@ -485,7 +496,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"46"
 				"antialias" "1"
 				"blur"		"1"
@@ -495,7 +506,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"48"
 				"antialias" "1"
 			}
@@ -504,7 +515,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"48"
 				"antialias" "1"
 				"blur"		"1"
@@ -514,7 +525,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"50"
 				"antialias" "1"
 			}
@@ -523,7 +534,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"50"
 				"antialias" "1"
 				"blur"		"1"
@@ -533,7 +544,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"52"
 				"antialias" "1"
 			}
@@ -542,7 +553,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"52"
 				"antialias" "1"
 				"blur"		"1"
@@ -552,7 +563,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"54"
 				"antialias" "1"
 			}
@@ -561,7 +572,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"54"
 				"antialias" "1"
 				"blur"		"1"
@@ -571,7 +582,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"56"
 				"antialias" "1"
 			}
@@ -580,7 +591,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"56"
 				"antialias" "1"
 				"blur"		"1"
@@ -590,7 +601,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"58"
 				"antialias" "1"
 			}
@@ -599,7 +610,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"58"
 				"antialias" "1"
 				"blur"		"1"
@@ -609,7 +620,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"60"
 				"antialias" "1"
 			}
@@ -618,7 +629,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"60"
 				"antialias" "1"
 				"blur"		"1"
@@ -842,7 +853,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"8"
 				"antialias" "1"
 			}
@@ -851,7 +862,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"8"
 				"antialias" "1"
 				"blur"		"1"
@@ -861,7 +872,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"10"
 				"antialias" "1"
 			}
@@ -870,7 +881,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"10"
 				"antialias" "1"
 				"blur"		"1"
@@ -880,7 +891,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"11"
 				"antialias" "1"
 			}
@@ -889,7 +900,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"11"
 				"antialias" "1"
 				"blur"		"1"
@@ -899,7 +910,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"12"
 				"antialias" "1"
 			}
@@ -908,7 +919,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"12"
 				"antialias" "1"
 				"blur"		"1"
@@ -918,7 +929,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"14"
 				"antialias" "1"
 			}
@@ -927,7 +938,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"14"
 				"antialias" "1"
 				"blur"		"1"
@@ -937,7 +948,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"16"
 				"antialias" "1"
 			}
@@ -946,7 +957,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"16"
 				"antialias" "1"
 				"blur"		"1"
@@ -956,7 +967,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"18"
 				"antialias" "1"
 			}
@@ -965,7 +976,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"18"
 				"antialias" "1"
 				"blur"		"1"
@@ -975,7 +986,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"20"
 				"antialias" "1"
 			}
@@ -984,7 +995,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"20"
 				"antialias" "1"
 				"blur"		"1"
@@ -994,7 +1005,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"22"
 				"antialias" "1"
 			}
@@ -1003,7 +1014,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"22"
 				"antialias" "1"
 				"blur"		"1"
@@ -1013,7 +1024,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"24"
 				"antialias" "1"
 			}
@@ -1022,7 +1033,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"24"
 				"antialias" "1"
 				"blur"		"1"
@@ -1032,7 +1043,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"26"
 				"antialias" "1"
 			}
@@ -1041,7 +1052,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"26"
 				"antialias" "1"
 				"blur"		"1"
@@ -1051,7 +1062,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"28"
 				"antialias" "1"
 			}
@@ -1060,7 +1071,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"28"
 				"antialias" "1"
 				"blur"		"1"
@@ -1070,7 +1081,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"30"
 				"antialias" "1"
 			}
@@ -1079,7 +1090,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"30"
 				"antialias" "1"
 				"blur"		"1"
@@ -1089,7 +1100,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"32"
 				"antialias" "1"
 			}
@@ -1098,7 +1109,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"32"
 				"antialias" "1"
 				"blur"		"1"
@@ -1108,7 +1119,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"34"
 				"antialias" "1"
 			}
@@ -1117,7 +1128,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"34"
 				"antialias" "1"
 				"blur"		"1"
@@ -1127,7 +1138,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"36"
 				"antialias" "1"
 			}
@@ -1136,7 +1147,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"36"
 				"antialias" "1"
 				"blur"		"1"
@@ -1146,7 +1157,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"38"
 				"antialias" "1"
 			}
@@ -1155,7 +1166,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"38"
 				"antialias" "1"
 				"blur"		"1"
@@ -1165,7 +1176,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"40"
 				"antialias" "1"
 			}
@@ -1174,7 +1185,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"40"
 				"antialias" "1"
 				"blur"		"1"
@@ -1184,7 +1195,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"42"
 				"antialias" "1"
 			}
@@ -1193,7 +1204,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"42"
 				"antialias" "1"
 				"blur"		"1"
@@ -1203,7 +1214,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"44"
 				"antialias" "1"
 			}
@@ -1212,7 +1223,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"44"
 				"antialias" "1"
 				"blur"		"1"
@@ -1222,7 +1233,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"46"
 				"antialias" "1"
 			}
@@ -1231,7 +1242,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"46"
 				"antialias" "1"
 				"blur"		"1"
@@ -1241,7 +1252,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"48"
 				"antialias" "1"
 			}
@@ -1250,7 +1261,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"48"
 				"antialias" "1"
 				"blur"		"1"
@@ -1260,7 +1271,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"50"
 				"antialias" "1"
 			}
@@ -1269,7 +1280,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"50"
 				"antialias" "1"
 				"blur"		"1"
@@ -1279,7 +1290,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"52"
 				"antialias" "1"
 			}
@@ -1288,7 +1299,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"52"
 				"antialias" "1"
 				"blur"		"1"
@@ -1298,7 +1309,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"54"
 				"antialias" "1"
 			}
@@ -1307,7 +1318,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"54"
 				"antialias" "1"
 				"blur"		"1"
@@ -1317,7 +1328,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"56"
 				"antialias" "1"
 			}
@@ -1326,7 +1337,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"56"
 				"antialias" "1"
 				"blur"		"1"
@@ -1336,7 +1347,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"58"
 				"antialias" "1"
 			}
@@ -1345,7 +1356,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"58"
 				"antialias" "1"
 				"blur"		"1"
@@ -1355,7 +1366,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"60"
 				"antialias" "1"
 			}
@@ -1364,7 +1375,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"60"
 				"antialias" "1"
 				"blur"		"1"
@@ -1375,7 +1386,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"8"
 				"antialias" "1"
 			}
@@ -1384,7 +1395,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"8"
 				"antialias" "1"
 				"blur"		"1"
@@ -1394,7 +1405,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"10"
 				"antialias" "1"
 			}
@@ -1403,7 +1414,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"10"
 				"antialias" "1"
 				"blur"		"1"
@@ -1413,7 +1424,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"12"
 				"antialias" "1"
 			}
@@ -1422,7 +1433,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"12"
 				"antialias" "1"
 				"blur"		"1"
@@ -1432,7 +1443,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"14"
 				"antialias" "1"
 			}
@@ -1441,7 +1452,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"14"
 				"antialias" "1"
 				"blur"		"1"
@@ -1451,7 +1462,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"16"
 				"antialias" "1"
 			}
@@ -1460,7 +1471,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"16"
 				"antialias" "1"
 				"blur"		"1"
@@ -1470,7 +1481,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"18"
 				"antialias" "1"
 			}
@@ -1479,7 +1490,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"18"
 				"antialias" "1"
 				"blur"		"1"
@@ -1489,7 +1500,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"20"
 				"antialias" "1"
 			}
@@ -1498,7 +1509,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"20"
 				"antialias" "1"
 				"blur"		"1"
@@ -1508,7 +1519,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"22"
 				"antialias" "1"
 			}
@@ -1517,7 +1528,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"22"
 				"antialias" "1"
 				"blur"		"1"
@@ -1527,7 +1538,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"24"
 				"antialias" "1"
 			}
@@ -1536,7 +1547,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"24"
 				"antialias" "1"
 				"blur"		"1"
@@ -1546,7 +1557,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"26"
 				"antialias" "1"
 			}
@@ -1555,7 +1566,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"26"
 				"antialias" "1"
 				"blur"		"1"
@@ -1565,7 +1576,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"28"
 				"antialias" "1"
 			}
@@ -1574,7 +1585,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"28"
 				"antialias" "1"
 				"blur"		"1"
@@ -1584,7 +1595,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"30"
 				"antialias" "1"
 			}
@@ -1593,7 +1604,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"30"
 				"antialias" "1"
 				"blur"		"1"
@@ -1603,7 +1614,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"32"
 				"antialias" "1"
 			}
@@ -1612,7 +1623,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"32"
 				"antialias" "1"
 				"blur"		"1"
@@ -1622,7 +1633,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"34"
 				"antialias" "1"
 			}
@@ -1631,7 +1642,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"34"
 				"antialias" "1"
 				"blur"		"1"
@@ -1641,7 +1652,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"36"
 				"antialias" "1"
 			}
@@ -1650,7 +1661,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"36"
 				"antialias" "1"
 				"blur"		"1"
@@ -1660,7 +1671,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"38"
 				"antialias" "1"
 			}
@@ -1669,7 +1680,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"38"
 				"antialias" "1"
 				"blur"		"1"
@@ -1679,7 +1690,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"40"
 				"antialias" "1"
 			}
@@ -1688,7 +1699,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"40"
 				"antialias" "1"
 				"blur"		"1"
@@ -1698,7 +1709,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"42"
 				"antialias" "1"
 			}
@@ -1707,7 +1718,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"42"
 				"antialias" "1"
 				"blur"		"1"
@@ -1717,7 +1728,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"44"
 				"antialias" "1"
 			}
@@ -1726,7 +1737,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"44"
 				"antialias" "1"
 				"blur"		"1"
@@ -1736,7 +1747,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"46"
 				"antialias" "1"
 			}
@@ -1745,7 +1756,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"46"
 				"antialias" "1"
 				"blur"		"1"
@@ -1755,7 +1766,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"48"
 				"antialias" "1"
 			}
@@ -1764,7 +1775,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"48"
 				"antialias" "1"
 				"blur"		"1"
@@ -1774,7 +1785,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"50"
 				"antialias" "1"
 			}
@@ -1783,7 +1794,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"50"
 				"antialias" "1"
 				"blur"		"1"
@@ -1793,7 +1804,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"52"
 				"antialias" "1"
 			}
@@ -1802,7 +1813,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"52"
 				"antialias" "1"
 				"blur"		"1"
@@ -1812,7 +1823,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"54"
 				"antialias" "1"
 			}
@@ -1821,7 +1832,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"54"
 				"antialias" "1"
 				"blur"		"1"
@@ -1831,7 +1842,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"56"
 				"antialias" "1"
 			}
@@ -1840,7 +1851,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"56"
 				"antialias" "1"
 				"blur"		"1"
@@ -1850,7 +1861,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"58"
 				"antialias" "1"
 			}
@@ -1859,7 +1870,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"58"
 				"antialias" "1"
 				"blur"		"1"
@@ -1869,7 +1880,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"60"
 				"antialias" "1"
 			}
@@ -1878,7 +1889,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"60"
 				"antialias" "1"
 				"blur"		"1"
@@ -1889,7 +1900,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Renogare Numbers"
+				"name"			"Rubik Numbers"
 				"tall"			"10"
 				"antialias"		"1"
 			}
@@ -1899,7 +1910,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Renogare Numbers"
+				"name"			"Rubik Numbers"
 				"tall"			"12"
 				"antialias"		"1"
 			}
@@ -1909,7 +1920,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Renogare Numbers"
+				"name"			"Rubik Numbers"
 				"tall"			"10"
 				"antialias"		"1"
 				"blur"			"1"
@@ -1920,10 +1931,21 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Renogare Numbers"
+				"name"			"Rubik Numbers"
 				"tall"			"12"
 				"antialias"		"1"
 				"blur"			"1"
+			}
+		}
+
+		"nüBoldDropShadow34"
+		{
+			"1"
+			{
+				"name"			"Rubik SemiBold"
+				"tall"			"34"
+				"antialias"		"1"
+				"dropshadow"	"1"
 			}
 		}
 
@@ -1931,7 +1953,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Renogare Soft"
+				"name"			"Rubik SemiBold"
 				"tall"			"38"
 				"antialias"		"1"
 				"dropshadow"	"1"
@@ -1942,7 +1964,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"10"
 				"antialias" "1"
 			}
@@ -1958,7 +1980,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"12"
 				"underline" "1"
 				"antialias" "1"
@@ -1976,7 +1998,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"12"
 				"range"		"0x0000 0x017F"
 				"yres"	"480 599"
@@ -1984,7 +2006,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"13"
 				"range"		"0x0000 0x017F"
 				"yres"	"600 767"
@@ -1992,7 +2014,7 @@ Scheme
 			}
 			"3"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"14"
 				"range"		"0x0000 0x017F"
 				"yres"	"768 1023"
@@ -2000,7 +2022,7 @@ Scheme
 			}
 			"4"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"20"
 				"range"		"0x0000 0x017F"
 				"yres"	"1024 1199"
@@ -2008,7 +2030,7 @@ Scheme
 			}
 			"5"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"22"
 				"range"		"0x0000 0x017F"
 				"yres"	"1200 6000"
@@ -2064,7 +2086,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"18"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"yres"		"480 599"
@@ -2072,7 +2094,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"21"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"yres"		"600 767"
@@ -2080,7 +2102,7 @@ Scheme
 			}
 			"3"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"22"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"yres"		"768 1023"
@@ -2088,7 +2110,7 @@ Scheme
 			}
 			"4"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"28"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"yres"		"1024 1199"
@@ -2096,7 +2118,7 @@ Scheme
 			}
 			"5"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"30"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"yres"	"1200 6000"
@@ -2171,7 +2193,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"24"
 				"tall_lodef"	"80"
 				"weight"	"500"
@@ -2181,7 +2203,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"32"
 				"tall_hidef"	"120"
 				"weight"	"500"
@@ -2191,7 +2213,7 @@ Scheme
 			}
 			"3"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"44"
 				"weight"	"500"
 				"additive"	"0"
@@ -2200,7 +2222,7 @@ Scheme
 			}
 			"4"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"48"
 				"weight"	"500"
 				"additive"	"0"
@@ -2209,7 +2231,7 @@ Scheme
 			}
 			"5"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"52"
 				"weight"	"500"
 				"additive"	"0"
@@ -2221,7 +2243,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"44"
 				"tall_lodef"	"52"
 				"weight"	"500"
@@ -2234,7 +2256,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"35"
 				"tall_lodef"	"40"
 				"weight"	"500"
@@ -2247,7 +2269,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"36"
 				"tall_hidef"	"48"
 				"weight"	"500"
@@ -2259,7 +2281,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"30"
 				"weight"	"500"
 				"additive"	"0"
@@ -2270,7 +2292,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"30"
 				"weight"	"500"
 				"additive"	"0"
@@ -2281,7 +2303,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"24"
 				"tall_lodef"		"28"
 				"weight"	"500"
@@ -2293,7 +2315,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"24"
 				"weight"	"500"
 				"additive"	"0"
@@ -2304,7 +2326,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"24"
 				"weight"	"500"
 				"additive"	"0"
@@ -2315,7 +2337,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"18"
 				"weight"	"500"
 				"additive"	"0"
@@ -2326,7 +2348,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"18"
 				"tall_hidef"	"24"
 				"tall_lodef"	"18"
@@ -2339,7 +2361,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"18"
 				"tall_hidef"	"24"
 				"tall_lodef"	"20"
@@ -2352,7 +2374,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"14"
 				"tall_lodef"	"16"
 				"weight"	"500"
@@ -2364,7 +2386,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"16"
 				"weight"	"500"
 				"additive"	"0"
@@ -2375,7 +2397,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"14"
 				"weight"	"500"
 				"additive"	"0"
@@ -2386,7 +2408,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"14"
 				"weight"	"500"
 				"additive"	"0"
@@ -2398,7 +2420,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"11"
 				"weight"	"500"
 				"additive"	"0"
@@ -2409,7 +2431,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"11"
 				"weight"	"500"
 				"additive"	"0"
@@ -2421,7 +2443,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"11"
 				"weight"	"500"
 				"additive"	"0"
@@ -2432,7 +2454,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"4"
 				"weight"	"500"
 				"additive"	"0"
@@ -2443,7 +2465,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"10"
 				"weight"	"500"
 				"additive"	"0"
@@ -2454,7 +2476,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"16"
 				"weight"	"500"
 				"additive"	"0"
@@ -2465,7 +2487,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"9"
 				"weight"	"0"
 				"additive"	"0"
@@ -2476,7 +2498,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"9"
 				"weight"	"0"
 				"additive"	"0"
@@ -2487,7 +2509,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"6"
 				"weight"	"0"
 				"additive"	"0"
@@ -2498,7 +2520,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"12"
 				"tall_hidef"	"14"
 				"tall_lodef"	"16"
@@ -2511,7 +2533,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"11"
 				"weight"	"500"
 				"additive"	"0"
@@ -2554,7 +2576,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"18"
 				"tall_hidef"	"24"
 				"tall_lodef"	"18"
@@ -2567,7 +2589,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"16"
 				"tall_hidef"	"22"
 				"tall_lodef"	"22"
@@ -2627,7 +2649,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"15"
 				"weight"	"700"
 				"antialias" 	"1"
@@ -2637,7 +2659,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"15"	[$WIN32]
 				"tall"		"21"	[$X360]
 				"weight"	"700"
@@ -2648,7 +2670,7 @@ Scheme
 			}
 			"3"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"18"
 				"weight"	"900"
 				"antialias" 	"1"
@@ -2657,7 +2679,7 @@ Scheme
 			}
 			"4"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"21"
 				"weight"	"900"
 				"antialias" 	"1"
@@ -2666,7 +2688,7 @@ Scheme
 			}
 			"5"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"24"
 				"weight"	"1000"
 				"antialias" 	"1"
@@ -2740,7 +2762,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"  "Verdana"
+				"name"  "Rubik SemiBold"
 				"tall"  "28"
 				"weight" "0"
 				"additive" "1"
@@ -2751,57 +2773,55 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Tahoma"
+				"name"		"Rubik SemiBold"
 				"tall"		"24"
-				"tall_hidef"	"32"
 				"weight"	"500"
-				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
+				"additive"	"0"
+				"antialias" "1"
 			}
 		}
 		"CloseCaption_Italic"
 		{
 			"1"
 			{
-				"name"		"Tahoma"
+				"name"		"Rubik SemiBold"
 				"tall"		"24"
-				"tall_hidef"	"32"
 				"weight"	"500"
-				"italic"	"1"
-				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
+				"additive"	"0"
+				"antialias" "1"
 			}
 		}
 		"CloseCaption_Bold"
 		{
 			"1"
 			{
-				"name"		"Tahoma"
+				"name"		"Rubik SemiBold"
 				"tall"		"24"
-				"tall_hidef"	"32"
-				"weight"	"900"
-				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
+				"weight"	"500"
+				"additive"	"0"
+				"antialias" "1"
 			}
 		}
 		"CloseCaption_BoldItalic"
 		{
 			"1"
 			{
-				"name"		"Tahoma"
+				"name"		"Rubik SemiBold"
 				"tall"		"24"
-				"tall_hidef"	"32"
-				"weight"	"900"
-				"italic"	"1"
-				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
+				"weight"	"500"
+				"additive"	"0"
+				"antialias" "1"
 			}
 		}
 		"CloseCaption_Small"
 		{
 			"1"
 			{
-				"name"		"Tahoma"
+				"name"		"Rubik SemiBold"
 				"tall"		"16"
-				"tall_hidef"	"24"
-				"weight"	"900"
-				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
+				"weight"	"500"
+				"additive"	"0"
+				"antialias" "1"
 			}
 		}
 		
@@ -2845,7 +2865,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"24"
 				"antialias" "1"
 				"weight"	"500"
@@ -2855,7 +2875,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"11"
 				"tall_lodef"	"14"
 				"antialias" "1"
@@ -2866,7 +2886,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"12"
 				"antialias" "1"
 				"weight"	"500"
@@ -2891,7 +2911,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Renogare Soft"
+				"name"			"Rubik SemiBold"
 				"tall"			"28"
 				"tall_lodef"	"48"
 				"tall_hidef"	"48"
@@ -2906,7 +2926,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Renogare Soft"
+				"name"			"Rubik SemiBold"
 				"tall"			"40"
 				"tall_lodef"	"48"
 				"tall_hidef"	"48"
@@ -2921,7 +2941,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"24"
 				"tall_lodef"	"36"
 				"tall_hidef"	"36"
@@ -2934,7 +2954,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Renogare Soft"
+				"name"			"Rubik SemiBold"
 				"tall"			"14" [!$OSX]
 				"tall"			"15" [$OSX]
 				"tall_lodef"	"32"
@@ -2959,7 +2979,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"10"
 				"weight"	"400"
 				"additive"	"0"
@@ -2970,7 +2990,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"10"
 				"weight"	"400"
 				"additive"	"0"
@@ -2981,7 +3001,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"10"
 				"weight"	"500"
 				"range"		"0x0000 0x007F"	//	Basic Latin
@@ -2993,7 +3013,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"20"
 				"weight"	"500"
 				"range"		"0x0000 0x007F"	//	Basic Latin
@@ -3005,7 +3025,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"20"
 				"tall_hidef"	"24"
 				"tall_lodef"	"24"
@@ -3019,7 +3039,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"14"
 				"weight"	"500"
 				"range"		"0x0000 0x007F"	//	Basic Latin
@@ -3031,7 +3051,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"14"
 				"tall_hidef"	"24"
 				"tall_lodef"	"24"
@@ -3045,7 +3065,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"34"
 				"tall_hidef"	"38"
 				"tall_lodef"	"38"
@@ -3060,7 +3080,7 @@ Scheme
  		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"36"
 				"tall_hidef"	"48"
 				"weight"	"500"
@@ -3072,7 +3092,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"52"
 				"tall_lodef"		"80"
 				"range" 	"0x0000 0x00FF"
@@ -3082,7 +3102,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"72"
 				"tall_hidef"	"120"
 				"range" 	"0x0000 0x00FF"
@@ -3092,7 +3112,7 @@ Scheme
 			}
 			"3"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"100"
 				"range" 	"0x0000 0x00FF"
 				"weight"	"400"
@@ -3101,7 +3121,7 @@ Scheme
 			}
 			"4"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"140"
 				"range" 	"0x0000 0x00FF"
 				"weight"	"400"
@@ -3110,7 +3130,7 @@ Scheme
 			}
 			"5"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"180"
 				"range" 	"0x0000 0x00FF"
 				"weight"	"400"
@@ -3122,7 +3142,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"36"
 				"weight"	"500"
 				"range"		"0x0000 0x007F"	//	Basic Latin
@@ -3134,7 +3154,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"14"
 				"weight"	"400"
 				"additive"	"0"
@@ -3145,7 +3165,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"20"
 				"weight"	"400"
 				"additive"	"0"
@@ -3156,7 +3176,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"14"
 				"weight"	"400"
 				"additive"	"0"
@@ -3167,7 +3187,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"10"
 				"weight"	"400"
 				"additive"	"0"
@@ -3178,7 +3198,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"7"
 				"weight"	"400"
 				"additive"	"0"
@@ -3190,7 +3210,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"10"
 				"tall_hidef"	"12"
 				"tall_lodef"	"14"
@@ -3247,7 +3267,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"12"
 				"weight"	"700"
 				"yres"		"480 599"
@@ -3347,7 +3367,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"14"
 				"tall_lodef"	"18"
 				"range" 		"0x0000 0x00FF"
@@ -3360,7 +3380,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"12"
 				"weight"	"500"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -3372,7 +3392,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"8"
 				"weight"	"500"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -3425,7 +3445,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"36"
 				"tall_lodef"		"28"
 				"weight"	"500"
@@ -3435,7 +3455,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"30"
 				"tall_lodef"		"22"
 				"weight"	"500"
@@ -3445,7 +3465,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"28"
 				"tall_lodef"	"24"
 				"weight"	"500"
@@ -3473,7 +3493,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"22"
 				"weight"	"500"
 			}
@@ -3482,7 +3502,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"18"
 				"weight"	"500"
 			}
@@ -3521,7 +3541,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"36"
 				"weight"	"500"
 				"additive"	"0"
@@ -3532,7 +3552,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"11"
 				"weight"	"600"
 				"additive"	"0"
@@ -3543,7 +3563,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"18"
 				"weight"	"400"
 				"additive"	"0"
@@ -3586,7 +3606,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"8"
 				"weight"	"400"
 				"additive"	"0"
@@ -3629,7 +3649,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"12"
 				"weight"	"500"
 				"additive"	"0"
@@ -3640,7 +3660,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"12"
 				"weight"	"500"
 				"additive"	"0"
@@ -3651,7 +3671,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"12"
 				"weight"	"500"
 				"additive"	"0"
@@ -3662,7 +3682,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"18"
 				"weight"	"500"
 				"additive"	"0"
@@ -3673,7 +3693,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"7"
 				"weight"	"500"
 				"additive"	"0"
@@ -3684,7 +3704,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"8"
 				"weight"	"500"
 				"additive"	"0"
@@ -3695,7 +3715,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"8"
 				"antialias" "1"
 				"weight"	"500"
@@ -3705,7 +3725,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"11"
 				"weight"	"500"
 				"additive"	"0"
@@ -3716,7 +3736,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"14"
 				"weight"	"500"
 				"additive"	"0"
@@ -3728,7 +3748,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"9"
 				"weight"	"500"
 				"additive"	"0"
@@ -3739,7 +3759,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"9"
 				"weight"	"500"
 				"blur"		"1"
@@ -3880,7 +3900,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"20"
 				"antialias" "1"
 				"custom"		"1" [$OSX]
@@ -3892,7 +3912,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"10"
 				"weight"	"400"
 				"yres"		"480 599"
@@ -3901,7 +3921,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"14"
 				"weight"	"400"
 				"additive"	"0"
@@ -3910,7 +3930,7 @@ Scheme
 			}
 			"3"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"22"
 				"weight"	"400"
 				"additive"	"0"
@@ -3923,7 +3943,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"10"
 				"weight"	"400"
 				"yres"		"480 599"
@@ -3933,7 +3953,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"14"
 				"weight"	"400"
 				"additive"	"0"
@@ -3943,7 +3963,7 @@ Scheme
 			}
 			"3"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"22"
 				"weight"	"400"
 				"additive"	"0"
@@ -3957,7 +3977,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"10"
 				"weight"	"800"
 				"yres"		"480 599"
@@ -3966,7 +3986,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"14"
 				"weight"	"800"
 				"additive"	"0"
@@ -3975,7 +3995,7 @@ Scheme
 			}
 			"3"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"18"
 				"weight"	"800"
 				"additive"	"0"
@@ -3988,7 +4008,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"13"
 				"weight"	"400"
 				"additive"	"0"
@@ -4000,7 +4020,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"16"
 				"weight"	"400"
 				"additive"	"0"
@@ -4011,7 +4031,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"10"
 				"weight"	"400"
 				"additive"	"0"
@@ -4119,7 +4139,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"11"
 				"weight"	"500"
 				"additive"	"0"
@@ -4183,7 +4203,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"11"
 				"weight"	"500"
 				"additive"	"0"
@@ -4194,7 +4214,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"14"
 				"weight"	"500"
 				"additive"	"0"
@@ -4205,7 +4225,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"18"
 				"tall_hidef"	"24"
 				"tall_lodef"	"18"
@@ -4218,7 +4238,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"24"
 				"weight"	"500"
 				"additive"	"0"
@@ -4229,7 +4249,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"18"
 				"tall_hidef"	"24"
 				"tall_lodef"	"20"
@@ -4246,7 +4266,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"14"
 				"weight"	"500"
 				"additive"	"0"
@@ -4257,7 +4277,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"24"
 				"weight"	"500"
 				"additive"	"0"
@@ -4269,7 +4289,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"15"
 				"weight"	"500"
 				"range"		"0x0000 0x007F"	//	Basic Latin
@@ -4282,7 +4302,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"9"
 				"weight"	"400"
 				"additive"	"0"
@@ -4294,7 +4314,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"11"
 				"weight"	"500"
 				"antialias" 	"1"
@@ -4305,7 +4325,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"11"
 				"weight"	"500"
 				"blur"		"3"
@@ -4318,7 +4338,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Rubik SemiBold"
 				"tall"		"12"
 				"weight"	"500"
 				"additive"	"0"

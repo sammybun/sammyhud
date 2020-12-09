@@ -197,6 +197,48 @@
 		}
 	}	
 
+
+
+	"BlueIndicator"
+	{
+		"ControlName"		"EditablePanel"
+		"fieldName"			"BlueIndicator"
+		"visible"			"0"
+
+		if_match
+		{
+			"xpos"			"c-41"
+			"ypos"			"-3"
+			"zpos"			"1"
+			"wide"			"1"
+			"tall"			"17"
+			"visible"		"1"
+			"enabled"		"1"
+			"bgcolor_override"	"nüBLUSolid"
+		}
+	}
+
+
+
+	"RedIndicator"
+	{
+		"ControlName"		"EditablePanel"
+		"fieldName"			"RedIndicator"
+		"visible"			"0"
+
+		if_match
+		{
+			"xpos"			"c40"
+			"ypos"			"-3"
+			"zpos"			"1"
+			"wide"			"1"
+			"tall"			"17"
+			"visible"		"1"
+			"enabled"		"1"
+			"bgcolor_override"	"nüREDSolid"
+		}
+	}
+
 	"RoundCounter"
 	{
 		"fieldName"		"RoundCounter"
@@ -207,19 +249,55 @@
 		"tall"			"100"
 		"visible"		"1"
 		"enabled"		"1"
+
+		"starting_width"						"0"
+		"width_per_round"						"0"
+		"indicator_start_offset"				"2"
+		"indicator_max_wide"					"39"
 		
 		RedTeamBackground2
 		{
-		
-		"xpos"			"6969"
-		
+			"xpos"			"6969"
 		}
 		
 		BlueTeamBackground
 		{
-		
-		"xpos"			"6969"
-		
+			"xpos"			"6969"
+		}
+
+		"RoundIndicatorPanel_kv"
+		{
+			"ypos"								"16"
+			"wide"								"5"
+			"tall"								"2"
+			"zpos"								"7"
+			"image"								"../vgui/replay/thumbnails/panels/Material_Transparent_Black_70"
+			"scaleimage"						"1"
+		}
+
+		"RoundWinPanelRed_kv"
+		{
+			"ypos"								"16"
+			"wide"								"5"
+			"tall"								"2"
+			"zpos"								"8"
+			"image"								"../vgui/replay/thumbnails/panels/Panel_Red"
+			"scaleimage"						"1"
+		}
+
+		"RoundWinPanelBlue_kv"
+		{
+			"ypos"								"16"
+			"wide"								"5"
+			"tall"								"2"
+			"zpos"								"8"
+			"image"								"../vgui/replay/thumbnails/panels/Panel_Blue"
+			"scaleimage"						"1"
+		}
+
+		"Background"
+		{
+			"tall"			"16"
 		}
 	}	
 
@@ -325,7 +403,7 @@
 			"font"			"nüMedium16"
 			"fgcolor"		"240 240 240 255"
 			"xpos"			"0"
-			"ypos"			"4"
+			"ypos"			"2"
 			"zpos"			"3"
 			"wide"			"100"
 			"tall"			"16"
@@ -339,10 +417,15 @@
 				"proportionaltoparent"	"1"
 
 				"xpos"			"cs-0.5"
-				"ypos"			"12"
-				"ypos_minmode"	"12"
+				"ypos"			"2"
 				"tall"			"10"
 			}
+		}
+
+		"ServerTimeLimitLabel"
+		{
+			"ypos"	"16"
+			"fgcolor" "nüOffWhite"
 		}
 	}
 	

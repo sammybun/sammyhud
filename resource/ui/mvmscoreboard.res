@@ -22,7 +22,7 @@
 		"font"			"nüBold12"
 		"labelText"		"%popfile%"
 		"textAlignment"	"east"
-		"xpos"			"c-230"
+		"xpos"			"c-320"
 		"ypos"			"122"
 		"wide"			"480"
 		"tall"			"12"
@@ -33,11 +33,15 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"DifficultyContainer"
-		"xpos"			"c-230"
-		"ypos"			"136"
+		"xpos"			"0"
+		"ypos"			"-10"
 		"wide"			"480"
 		"tall"			"12"
 		"visible"		"1"
+
+			"pin_to_sibling"	"PopFileLabel"
+			"pin_corner_to_sibling"		"1"
+        	"pin_to_sibling_corner"		"1"
 		
 		"DifficultyLabel"
 		{
@@ -65,6 +69,8 @@
 			"wide"			"480"
 			"tall"			"10"
 			"fgcolor"		"nüWhite"
+
+
 		}
 	}
 	

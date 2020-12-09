@@ -66,5 +66,15 @@ Scheme
 			"font" "resource/fonts/Renogare Numbers.otf"
 			"name" "Renogare Numbers"
 		}
+		"11"
+		{
+			"font" 		"resource/fonts/rubik-numbers.otf"
+			"name" 		"Rubik Numbers"
+		}
+		"12"
+		{
+			"font" 		"resource/fonts/rubik-semibold.otf"
+			"name" 		"Rubik SemiBold"
+		}
 	}
 }
