@@ -2,42 +2,53 @@ Scheme
 {
 	Colors
 	{
+
+		///////////       COLOR CUSTOMIZATION SECTION       ///////////
+		///////////                                         ///////////
+		///////////  THESE ARE HUD COLORS THAT SOME USERS   ///////////
+		///////////  MAY WISH TO MODIFY, BUT WOULD REQUIRE  ///////////
+		///////////      EDITING MANY FILES TO ACHIEVE.     ///////////
+		///////////                                         ///////////
+		///////////     NUMBERS: RED GREEN BLUE ALPHA       ///////////
+		///////////         LEAVE THE ALPHA AS IS!          ///////////
+		///////////  ONLINE COLOR PICKERS ARE YOUR FRIENDS! ///////////
+
 // Health
 		//-----------------------------------------
 		
-		"Health"				"240 240 240 215"
-		"Health Buff"			"43 152 172 200"	//41 152 182 255
-		"Health Buff 2"			"43 152 172 255"	//0 200 255 255
-		"Health Low"			"255 0 0 255"	//200 0 0 255
-		"Health Low 2"			"255 75 75 255"	//255 75 75 255
+		"Health"				"227 228 230 255"
+		"Health Buff"			"44 245 211 255"	//75 175 255 255
+		"Health Buff 2"			"68 156 200 255"	//150 200 255 75
+		"Health Low"			"255 40 60 255"	//200 0 0 255
+		"Health Low 2"			"170 0 0 255"	//255 75 75 255
 		
 		
 		// Ammo
 		//-----------------------------------------
 		
-		"Ammo In Clip"			"240 240 240 215"
+		"Ammo In Clip"			"227 228 230 255"
 		"Ammo In Reserve"		"75 175 255 255"	//41 152 182 255
-		"Ammo No Clip"			"240 240 240 215"
-		"Low Ammo 1"			"204 56 56 255"	//200 0 0 255
-		"Low Ammo 2"			"255 70 70 255"	//255 75 75 255
+		"Ammo No Clip"			"227 228 230 255"
+		"Low Ammo 1"			"255 0 0 255"	//200 0 0 255
+		"Low Ammo 2"			"255 50 50 255"	//255 75 75 255
 		
 		// Medic Charge
 		//-----------------------------------------
 		
-		"ChargePercent"			"240 240 240 255"
-		"Ubercharge Meter"		"240 240 240 255"
-		"Ubercharge 1"			"43 152 172 255"
-		"Ubercharge 2"			"43 152 172 200"
+		"ChargePercent"			"227 228 230 255"
+		"Ubercharge Meter"		"227 228 230 255"
+		"Ubercharge 1"			"123 228 255 255"
+		"Ubercharge 2"			"68 156 200 255"
 		"Smallmediccharge"      "0 255 0 255"
 		
 		// Misc
 		//-----------------------------------------
 		
 		"Damage Numbers"		"240 240 240 255" //Damage numbers above ammo
-		"Healing Numbers"		"20 178 98 255"
-		"Stickies"				"240 240 240 255"
-		"Metal"					"240 240 240 255"
-		"Killstreak"			"240 240 240 255"
+		"Healing Numbers"		"64 201 136 255"
+		"Stickies"				"227 228 230 255"
+		"Metal"					"227 228 230 255"
+		"Killstreak"			"227 228 230 255"
 		"MeterBG"               "40 40 40 255"
 		
 		// nühud Colors
@@ -62,10 +73,10 @@ Scheme
 		"LightPanelBG"			"15 15 15 140"
 		"DarkPanelBG"			"15 15 15 255"
 
-		"nüBLUTransparent"		"88 133 162 140"
-		"nüREDTransparent"		"184 56 59 140"
-		"nüBLUSolid"			"88 133 162 255"
-		"nüREDSolid"			"184 56 59 255"
+		"nüBLUTransparent"		"86 133 181 140" //88 133 162 140
+		"nüREDTransparent"		"180 65 55 140"  //184 56 59 140
+		"nüBLUSolid"			"86 133 181 255" //88 133 162 255
+		"nüREDSolid"			"180 65 55 255"	 //184 56 59 255
 		
 		"ShadowBlack"			"0 0 0 255"
 		

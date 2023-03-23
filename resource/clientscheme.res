@@ -1,9 +1,9 @@
-
-// Select a font to use
 //------------------------------------------
 
-	#base "../resource/scheme/fonts_reno.res"
-	
+	#base "../resource/scheme/fonts_product.res"
+//	#base "../resource/scheme/fonts_avenir.res"
+
+
 // Do not change these
 //------------------------------------------
 
@@ -58,23 +58,33 @@ Scheme
 		}
 		"9"
 		{
-			"font" "resource/fonts/Renogare.ttf" [$WINDOWS]
-			"name" "Renogare Soft"
+			"font" "resource/fonts/Product Sans.ttf"
+			"name" "Product Sans"
 		}
 		"10"
 		{
-			"font" "resource/fonts/Renogare Numbers.otf"
-			"name" "Renogare Numbers"
+			"font" "resource/fonts/ProductSansBold.ttf"
+			"name" "Product Sans Bold"
 		}
 		"11"
 		{
-			"font" 		"resource/fonts/rubik-numbers.otf"
-			"name" 		"Rubik Numbers"
+			"font"  "resource/fonts/HUDNumbers-Edit.ttf"
+			"name"	"HUDNumbers Edit"
 		}
 		"12"
 		{
-			"font" 		"resource/fonts/rubik-semibold.otf"
-			"name" 		"Rubik SemiBold"
+			"font" "resource/fonts/HypnotizeHud Icons.otf" 
+			"name" "HypnotizeHud Icons"
+		}
+		"13"
+		{
+			"font"  "resource/fonts/Avenir Black.ttf"
+			"name"	"AvenirLTStd-Black"
+		}
+		"14"
+		{
+			"font"  "resource/fonts/Avenir Heavy.ttf"
+			"name"	"AvenirLTStd-Heavy"
 		}
 	}
 }

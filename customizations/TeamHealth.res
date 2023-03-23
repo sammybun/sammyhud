@@ -7,4 +7,5 @@
 //////////////////////////////////////////////////////////////////////////////////////////////
 
 
-#base "../resource/ui/alternatives/TeamStatus_Big.res"		// BIG TEAM STATUS HEALTH BAR
+#base "../resource/ui/alternatives/TeamStatus_Big.res"		    // BIG TEAM STATUS HEALTH BAR
+//#base "../resource/ui/alternatives/TeamStatus_Normal.res"    // NORMAL TEAM STATUS HEALTH BAR

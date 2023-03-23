@@ -1,840 +1,622 @@
 "Resource/UI/MainMenuOverride.res"
 {
-	///CONTROL POINT ICONS///
-	"CPCapMask"
-	{
-		"ControlName"		"ImagePanel"
-		"fieldName"			"CPCapMask"
-		"xpos"				"9999"
-		"visible"			"1"
-		"enabled"			"1"
-		"image"				"../sprites/obj_icons/icon_obj_cap_mask"
-	}
-	"CPIconWhite"
-	{
-		"ControlName"		"ImagePanel"
-		"fieldName"			"CPIconWhite"
-		"xpos"				"9999"
-		"visible"			"1"
-		"enabled"			"1"
-		"image"				"../sprites/obj_icons/icon_obj_white"
-	}
-	"CPIconBlu"
-	{
-		"ControlName"		"ImagePanel"
-		"fieldName"			"CPIconBlu"
-		"xpos"				"9999"
-		"visible"			"1"
-		"enabled"			"1"
-		"image"				"../sprites/obj_icons/icon_obj_blu"
-	}
-	"CPIconBluLocked"
-	{
-		"ControlName"		"ImagePanel"
-		"fieldName"			"CPIconBluLocked"
-		"xpos"				"9999"
-		"visible"			"1"
-		"enabled"			"1"
-		"image"				"../sprites/obj_icons/icon_obj_blu_locked"
-	}
-	"CPIconBluCap"
-	{
-		"ControlName"		"ImagePanel"
-		"fieldName"			"CPIconBluCap"
-		"xpos"				"9999"
-		"visible"			"1"
-		"enabled"			"1"
-		"image"				"../sprites/obj_icons/icon_obj_cap_blu"
-	}
-	"CPIconBluCapUp"
-	{
-		"ControlName"		"ImagePanel"
-		"fieldName"			"CPIconBluCapUp"
-		"xpos"				"9999"
-		"visible"			"1"
-		"enabled"			"1"
-		"image"				"../sprites/obj_icons/icon_obj_cap_blu_up"
-	}
-	"CPIconRed"
-	{
-		"ControlName"		"ImagePanel"
-		"fieldName"			"CPIconRed"
-		"xpos"				"9999"
-		"visible"			"1"
-		"enabled"			"1"
-		"image"				"../sprites/obj_icons/icon_obj_red"
-	}
-	"CPIconRedLocked"
-	{
-		"ControlName"		"ImagePanel"
-		"fieldName"			"CPIconRedLocked"
-		"xpos"				"9999"
-		"visible"			"1"
-		"enabled"			"1"
-		"image"				"../sprites/obj_icons/icon_obj_red_locked"
-	}
-	"CPIconRedCap"
-	{
-		"ControlName"		"ImagePanel"
-		"fieldName"			"CPIconRedCap"
-		"xpos"				"9999"
-		"visible"			"1"
-		"enabled"			"1"
-		"image"				"../sprites/obj_icons/icon_obj_cap_red"
-	}
-	"CPIconRedCapUp"
-	{
-		"ControlName"		"ImagePanel"
-		"fieldName"			"CPIconRedCapUp"
-		"xpos"				"9999"
-		"visible"			"1"
-		"enabled"			"1"
-		"image"				"../sprites/obj_icons/icon_obj_cap_red_up"
-	}
-	"CPIconNeutral"
-	{
-		"ControlName"		"ImagePanel"
-		"fieldName"			"CPIconNeutral"
-		"xpos"				"9999"
-		"visible"			"1"
-		"enabled"			"1"
-		"image"				"../sprites/obj_icons/icon_obj_neutral"
-	}
-	"CPIconNeutralLocked"
-	{
-		"ControlName"		"ImagePanel"
-		"fieldName"			"CPIconNeutralLocked"
-		"xpos"				"9999"
-		"visible"			"1"
-		"enabled"			"1"
-		"image"				"../sprites/obj_icons/icon_obj_neutral_locked"
-	}
-	
-	"CPIconBlu1"
+	"CartBlue"
 	{
 		"ControlName"	"ImagePanel"
-		"fieldName"		"CPIconBlu1"
+		"fieldName"		"CartBlue"
+		"xpos"			"9999"
+		"visible"		"1"
+		"enabled"		"1"
+		"image"			"../hud/cart_blue"
+	}
+	
+	"CartRed"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"CartRed"
+		"xpos"			"9999"
+		"visible"		"1"
+		"enabled"		"1"
+		"image"			"../hud/cart_red"
+	}
+	
+	"CartPointBlue"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"CartPointBlue"
+		"xpos"			"9999"
+		"visible"		"1"
+		"enabled"		"1"
+		"image"			"../hud/cart_point_blue"
+	}
+	
+	"CartPointRed"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"CartPointRed"
+		"xpos"			"9999"
+		"visible"		"1"
+		"enabled"		"1"
+		"image"			"../hud/cart_point_red"
+	}
+	
+	"CartPointNeutral"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"CartPointNeutral"
+		"xpos"			"9999"
+		"visible"		"1"
+		"enabled"		"1"
+		"image"			"../hud/cart_point_neutral"
+	}
+	
+	"CartPointBlueO"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"CartPointBlueO"
+		"xpos"			"9999"
+		"visible"		"1"
+		"enabled"		"1"
+		"image"			"../hud/cart_point_blue_opaque"
+	}
+	
+	"CartPointRedO"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"CartPointRedO"
+		"xpos"			"9999"
+		"visible"		"1"
+		"enabled"		"1"
+		"image"			"../hud/cart_point_red_opaque"
+	}
+	
+	"CartPointNeutralO"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"CartPointNeutralO"
+		"xpos"			"9999"
+		"visible"		"1"
+		"enabled"		"1"
+		"image"			"../hud/cart_point_neutral_opaque"
+	}
+	
+	"CartTrackBlue"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"CartTrackBlue"
+		"xpos"			"9999"
+		"visible"		"1"
+		"enabled"		"1"
+		"image"			"../hud/cart_track_blue"
+	}
+	
+	"CartTrackRed"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"CartTrackRed"
+		"xpos"			"9999"
+		"visible"		"1"
+		"enabled"		"1"
+		"image"			"../hud/cart_track_red"
+	}
+	
+	"CartTrackBlueO"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"CartTrackBlueO"
+		"xpos"			"9999"
+		"visible"		"1"
+		"enabled"		"1"
+		"image"			"../hud/cart_track_blue_opaque"
+	}
+	
+	"CartTrackRedO"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"CartTrackRedO"
+		"xpos"			"9999"
+		"visible"		"1"
+		"enabled"		"1"
+		"image"			"../hud/cart_track_red_opaque"
+	}
+	
+	"cpiconwhite"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"cpiconwhite"
+		"xpos"			"9999"
+		"visible"		"1"
+		"enabled"		"1"
+		"image"			"../sprites/obj_icons/icon_obj_white"
+	}
+	
+	"cpiconbluunlock"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"cpiconbluunlock"
+		"xpos"			"9999"
+		"visible"		"1"
+		"enabled"		"1"
+		"image"			"../sprites/obj_icons/icon_obj_blu"
+	}
+	
+	"cpiconblulock"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"cpiconblulock"
+		"xpos"			"9999"
+		"visible"		"1"
+		"enabled"		"1"
+		"image"			"../sprites/obj_icons/icon_obj_blu_locked"
+	}	
+	
+	"cpiconblumann"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"cpiconblumann"
+		"xpos"			"9999"
+		"visible"		"1"
+		"enabled"		"1"
+		"image"			"../sprites/obj_icons/icon_obj_blu_mannhattan_locked"
+	}
+	
+	"cpiconredunlock"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"cpiconredunlock"
+		"xpos"			"9999"
+		"visible"		"1"
+		"enabled"		"1"
+		"image"			"../sprites/obj_icons/icon_obj_red"
+	}
+	
+	"cpiconredlock"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"cpiconredlock"
+		"xpos"			"9999"
+		"visible"		"1"
+		"enabled"		"1"
+		"image"			"../sprites/obj_icons/icon_obj_red_locked"
+	}	
+	
+	"cpiconneutralunlock"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"cpiconneutralunlock"
+		"xpos"			"9999"
+		"visible"		"1"
+		"enabled"		"1"
+		"image"			"../sprites/obj_icons/icon_obj_neutral"
+	}	
+	
+	"cpiconneutrallock"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"cpiconneutrallock"
+		"xpos"			"9999"
+		"visible"		"1"
+		"enabled"		"1"
+		"image"			"../sprites/obj_icons/icon_obj_neutral_locked"
+	}
+	
+	"cpicona"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"cpicona"
+		"xpos"			"9999"
+		"visible"		"1"
+		"enabled"		"1"
+		"image"			"../sprites/obj_icons/icon_obj_a"
+	}
+	
+	"cpiconb"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"cpiconb"
+		"xpos"			"9999"
+		"visible"		"1"
+		"enabled"		"1"
+		"image"			"../sprites/obj_icons/icon_obj_b"
+	}
+	
+	"cpiconc"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"cpiconc"
+		"xpos"			"9999"
+		"visible"		"1"
+		"enabled"		"1"
+		"image"			"../sprites/obj_icons/icon_obj_c"
+	}
+	
+	"cpicond"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"cpicond"
+		"xpos"			"9999"
+		"visible"		"1"
+		"enabled"		"1"
+		"image"			"../sprites/obj_icons/icon_obj_d"
+	}
+	
+	"cpicone"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"cpicone"
+		"xpos"			"9999"
+		"visible"		"1"
+		"enabled"		"1"
+		"image"			"../sprites/obj_icons/icon_obj_e"
+	}
+	
+	"cpiconcapblu"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"cpiconcapblu"
+		"xpos"			"9999"
+		"visible"		"1"
+		"enabled"		"1"
+		"image"			"../sprites/obj_icons/icon_obj_cap_blu"
+	}
+	
+	"cpiconcapred"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"cpiconcapred"
+		"xpos"			"9999"
+		"visible"		"1"
+		"enabled"		"1"
+		"image"			"../sprites/obj_icons/icon_obj_cap_red"
+	}
+	
+	"cpiconcapmask"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"cpiconcapmask"
+		"xpos"			"9999"
+		"visible"		"1"
+		"enabled"		"1"
+		"image"			"../sprites/obj_icons/icon_obj_cap_mask"
+	}
+	
+	"cpiconblu1unlock"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"cpiconblu1unlock"
 		"xpos"			"9999"
 		"visible"		"1"
 		"enabled"		"1"
 		"image"			"../sprites/obj_icons/icon_obj_1_blu"
 	}
 	
-	"CPIconBlu1Locked"
+	"cpiconblu1lock"
 	{
 		"ControlName"	"ImagePanel"
-		"fieldName"		"CPIconBlu1Locked"
+		"fieldName"		"cpiconblu1lock"
 		"xpos"			"9999"
 		"visible"		"1"
 		"enabled"		"1"
 		"image"			"../sprites/obj_icons/icon_obj_1_blu_locked"
 	}
 	
-	"CPIconRed1"
+	"cpiconred1unlock"
 	{
 		"ControlName"	"ImagePanel"
-		"fieldName"		"CPIconRed1"
+		"fieldName"		"cpiconred1unlock"
 		"xpos"			"9999"
 		"visible"		"1"
 		"enabled"		"1"
 		"image"			"../sprites/obj_icons/icon_obj_1_red"
 	}
 	
-	"CPIconRed1Locked"
+	"cpiconred1lock"
 	{
 		"ControlName"	"ImagePanel"
-		"fieldName"		"CPIconRed1Locked"
+		"fieldName"		"cpiconred1lock"
 		"xpos"			"9999"
 		"visible"		"1"
 		"enabled"		"1"
 		"image"			"../sprites/obj_icons/icon_obj_1_red_locked"
 	}	
 	
-	"CPIconNeutral1"
+	"cpiconneutral1unlock"
 	{
 		"ControlName"	"ImagePanel"
-		"fieldName"		"CPIconNeutral1"
+		"fieldName"		"cpiconneutral1unlock"
 		"xpos"			"9999"
 		"visible"		"1"
 		"enabled"		"1"
 		"image"			"../sprites/obj_icons/icon_obj_1_neutral"
 	}	
 	
-	"CPIconNeutral1Locked"
+	"cpiconneutral1lock"
 	{
 		"ControlName"	"ImagePanel"
-		"fieldName"		"CPIconNeutral1Locked"
+		"fieldName"		"cpiconneutral1lock"
 		"xpos"			"9999"
 		"visible"		"1"
 		"enabled"		"1"
 		"image"			"../sprites/obj_icons/icon_obj_1_neutral_locked"
 	}
 	
-	"CPIconBlu2"
+	"cpiconblu2unlock"
 	{
 		"ControlName"	"ImagePanel"
-		"fieldName"		"CPIconBlu2"
+		"fieldName"		"cpiconblu2unlock"
 		"xpos"			"9999"
 		"visible"		"1"
 		"enabled"		"1"
 		"image"			"../sprites/obj_icons/icon_obj_2_blu"
 	}
 	
-	"CPIconBlu2Locked"
+	"cpiconblu2lock"
 	{
 		"ControlName"	"ImagePanel"
-		"fieldName"		"CPIconBlu2Locked"
+		"fieldName"		"cpiconblu2lock"
 		"xpos"			"9999"
 		"visible"		"1"
 		"enabled"		"1"
 		"image"			"../sprites/obj_icons/icon_obj_2_blu_locked"
 	}
 	
-	"CPIconRed2"
+	"cpiconred2unlock"
 	{
 		"ControlName"	"ImagePanel"
-		"fieldName"		"CPIconRed2"
+		"fieldName"		"cpiconred2unlock"
 		"xpos"			"9999"
 		"visible"		"1"
 		"enabled"		"1"
 		"image"			"../sprites/obj_icons/icon_obj_2_red"
 	}
 	
-	"CPIconRed2Locked"
+	"cpiconred2lock"
 	{
 		"ControlName"	"ImagePanel"
-		"fieldName"		"CPIconRed2Locked"
+		"fieldName"		"cpiconred2lock"
 		"xpos"			"9999"
 		"visible"		"1"
 		"enabled"		"1"
 		"image"			"../sprites/obj_icons/icon_obj_2_red_locked"
 	}	
 	
-	"CPIconNeutral2"
+	"cpiconneutral2unlock"
 	{
 		"ControlName"	"ImagePanel"
-		"fieldName"		"CPIconNeutral2"
+		"fieldName"		"cpiconneutral2unlock"
 		"xpos"			"9999"
 		"visible"		"1"
 		"enabled"		"1"
 		"image"			"../sprites/obj_icons/icon_obj_2_neutral"
 	}	
 	
-	"CPIconNeutral2Locked"
+	"cpiconneutral2lock"
 	{
 		"ControlName"	"ImagePanel"
-		"fieldName"		"CPIconNeutral2Locked"
+		"fieldName"		"cpiconneutral2lock"
 		"xpos"			"9999"
 		"visible"		"1"
 		"enabled"		"1"
 		"image"			"../sprites/obj_icons/icon_obj_2_neutral_locked"
 	}
 	
-	"CPIconBlu3"
+	"cpiconblu3unlock"
 	{
 		"ControlName"	"ImagePanel"
-		"fieldName"		"CPIconBlu3"
+		"fieldName"		"cpiconblu3unlock"
 		"xpos"			"9999"
 		"visible"		"1"
 		"enabled"		"1"
 		"image"			"../sprites/obj_icons/icon_obj_3_blu"
 	}
 	
-	"CPIconBlu2Locked"
+	"cpiconblu3lock"
 	{
 		"ControlName"	"ImagePanel"
-		"fieldName"		"CPIconBlu2Locked"
+		"fieldName"		"cpiconblu3lock"
 		"xpos"			"9999"
 		"visible"		"1"
 		"enabled"		"1"
 		"image"			"../sprites/obj_icons/icon_obj_3_blu_locked"
 	}
 	
-	"CPIconRed3"
+	"cpiconred3unlock"
 	{
 		"ControlName"	"ImagePanel"
-		"fieldName"		"CPIconRed3"
+		"fieldName"		"cpiconred3unlock"
 		"xpos"			"9999"
 		"visible"		"1"
 		"enabled"		"1"
 		"image"			"../sprites/obj_icons/icon_obj_3_red"
 	}
 	
-	"CPIconRed3Locked"
+	"cpiconred3lock"
 	{
 		"ControlName"	"ImagePanel"
-		"fieldName"		"CPIconRed3Locked"
+		"fieldName"		"cpiconred3lock"
 		"xpos"			"9999"
 		"visible"		"1"
 		"enabled"		"1"
 		"image"			"../sprites/obj_icons/icon_obj_3_red_locked"
 	}	
 	
-	"CPIconNeutral3"
+	"cpiconneutral3unlock"
 	{
 		"ControlName"	"ImagePanel"
-		"fieldName"		"CPIconNeutral3"
+		"fieldName"		"cpiconneutral3unlock"
 		"xpos"			"9999"
 		"visible"		"1"
 		"enabled"		"1"
 		"image"			"../sprites/obj_icons/icon_obj_3_neutral"
 	}	
 	
-	"CPIconNeutral3Locked"
+	"cpiconneutral3lock"
 	{
 		"ControlName"	"ImagePanel"
-		"fieldName"		"CPIconNeutral3Locked"
+		"fieldName"		"cpiconneutral3lock"
 		"xpos"			"9999"
 		"visible"		"1"
 		"enabled"		"1"
 		"image"			"../sprites/obj_icons/icon_obj_3_neutral_locked"
 	}
 	
-	"CPIconBlu4"
+	"cpiconblu4unlock"
 	{
 		"ControlName"	"ImagePanel"
-		"fieldName"		"CPIconBlu4"
+		"fieldName"		"cpiconblu4unlock"
 		"xpos"			"9999"
 		"visible"		"1"
 		"enabled"		"1"
 		"image"			"../sprites/obj_icons/icon_obj_4_blu"
 	}
 	
-	"CPIconBlu4Locked"
+	"cpiconblu4lock"
 	{
 		"ControlName"	"ImagePanel"
-		"fieldName"		"CPIconBlu4Locked"
+		"fieldName"		"cpiconblu4lock"
 		"xpos"			"9999"
 		"visible"		"1"
 		"enabled"		"1"
 		"image"			"../sprites/obj_icons/icon_obj_4_blu_locked"
 	}
 	
-	"CPIconRed4"
+	"cpiconred4unlock"
 	{
 		"ControlName"	"ImagePanel"
-		"fieldName"		"CPIconRed4"
+		"fieldName"		"cpiconred4unlock"
 		"xpos"			"9999"
 		"visible"		"1"
 		"enabled"		"1"
 		"image"			"../sprites/obj_icons/icon_obj_4_red"
 	}
 	
-	"CPIconRed4Locked"
+	"cpiconred4lock"
 	{
 		"ControlName"	"ImagePanel"
-		"fieldName"		"CPIconRed4Locked"
+		"fieldName"		"cpiconred4lock"
 		"xpos"			"9999"
 		"visible"		"1"
 		"enabled"		"1"
 		"image"			"../sprites/obj_icons/icon_obj_4_red_locked"
 	}	
 	
-	"CPIconNeutral4"
+	"cpiconneutral4unlock"
 	{
 		"ControlName"	"ImagePanel"
-		"fieldName"		"CPIconNeutral4"
+		"fieldName"		"cpiconneutral4unlock"
 		"xpos"			"9999"
 		"visible"		"1"
 		"enabled"		"1"
 		"image"			"../sprites/obj_icons/icon_obj_4_neutral"
 	}	
 	
-	"CPIconNeutral4Locked"
+	"cpiconneutral4lock"
 	{
 		"ControlName"	"ImagePanel"
-		"fieldName"		"CPIconNeutral4Locked"
+		"fieldName"		"cpiconneutral4lock"
 		"xpos"			"9999"
 		"visible"		"1"
 		"enabled"		"1"
 		"image"			"../sprites/obj_icons/icon_obj_4_neutral_locked"
 	}
 	
-	"CPIconBlu5"
+		"cpiconblu5unlock"
 	{
 		"ControlName"	"ImagePanel"
-		"fieldName"		"CPIconBlu5"
+		"fieldName"		"cpiconblu5unlock"
 		"xpos"			"9999"
 		"visible"		"1"
 		"enabled"		"1"
 		"image"			"../sprites/obj_icons/icon_obj_5_blu"
 	}
 	
-	"CPIconBlu5Locked"
+	"cpiconblu5lock"
 	{
 		"ControlName"	"ImagePanel"
-		"fieldName"		"CPIconBlu5Locked"
+		"fieldName"		"cpiconblu5lock"
 		"xpos"			"9999"
 		"visible"		"1"
 		"enabled"		"1"
 		"image"			"../sprites/obj_icons/icon_obj_5_blu_locked"
 	}
 	
-	"CPIconRed5"
+	"cpiconred5unlock"
 	{
 		"ControlName"	"ImagePanel"
-		"fieldName"		"CPIconRed5"
+		"fieldName"		"cpiconred5unlock"
 		"xpos"			"9999"
 		"visible"		"1"
 		"enabled"		"1"
 		"image"			"../sprites/obj_icons/icon_obj_5_red"
 	}
 	
-	"CPIconRed5Locked"
+	"cpiconred5lock"
 	{
 		"ControlName"	"ImagePanel"
-		"fieldName"		"CPIconRed5Locked"
+		"fieldName"		"cpiconred5lock"
 		"xpos"			"9999"
 		"visible"		"1"
 		"enabled"		"1"
 		"image"			"../sprites/obj_icons/icon_obj_5_red_locked"
 	}	
 	
-	"CPIconNeutral5"
+	"cpiconneutral5unlock"
 	{
 		"ControlName"	"ImagePanel"
-		"fieldName"		"CPIconNeutral5"
+		"fieldName"		"cpiconneutral5unlock"
 		"xpos"			"9999"
 		"visible"		"1"
 		"enabled"		"1"
 		"image"			"../sprites/obj_icons/icon_obj_5_neutral"
 	}	
 	
-	"CPIconNeutral5Locked"
+	"cpiconneutral5lock"
 	{
 		"ControlName"	"ImagePanel"
-		"fieldName"		"CPIconNeutral5Locked"
+		"fieldName"		"cpiconneutral5lock"
 		"xpos"			"9999"
 		"visible"		"1"
 		"enabled"		"1"
 		"image"			"../sprites/obj_icons/icon_obj_5_neutral_locked"
 	}
 	
-	"CPIconA"
+	"cpcapblu"
 	{
 		"ControlName"	"ImagePanel"
-		"fieldName"		"CPIconA"
+		"fieldName"		"cpcapblu"
 		"xpos"			"9999"
 		"visible"		"1"
 		"enabled"		"1"
-		"image"			"../sprites/obj_icons/icon_obj_a"
-	}
-	"CPIconB"
-	{
-		"ControlName"	"ImagePanel"
-		"fieldName"		"CPIconB"
-		"xpos"			"9999"
-		"visible"		"1"
-		"enabled"		"1"
-		"image"			"../sprites/obj_icons/icon_obj_b"
-	}
-	"CPIconC"
-	{
-		"ControlName"	"ImagePanel"
-		"fieldName"		"CPIconC"
-		"xpos"			"9999"
-		"visible"		"1"
-		"enabled"		"1"
-		"image"			"../sprites/obj_icons/icon_obj_c"
-	}
-	"CPIconD"
-	{
-		"ControlName"	"ImagePanel"
-		"fieldName"		"CPIconD"
-		"xpos"			"9999"
-		"visible"		"1"
-		"enabled"		"1"
-		"image"			"../sprites/obj_icons/icon_obj_d"
-	}
-	"CPIconE"
-	{
-		"ControlName"	"ImagePanel"
-		"fieldName"		"CPIconE"
-		"xpos"			"9999"
-		"visible"		"1"
-		"enabled"		"1"
-		"image"			"../sprites/obj_icons/icon_obj_e"
-	}
-	"CPIconSkull"
-	{
-		"ControlName"	"ImagePanel"
-		"fieldName"		"CPIconSkull"
-		"xpos"			"9999"
-		"visible"		"1"
-		"enabled"		"1"
-		"image"			"../sprites/obj_icons/icon_obj_skull_neutral"
-	}
-	"CPIconMannhattan"
-	{
-		"ControlName"	"ImagePanel"
-		"fieldName"		"CPIconMannhattan"
-		"xpos"			"9999"
-		"visible"		"1"
-		"enabled"		"1"
-		"image"			"../sprites/obj_icons/icon_obj_blu_mannhattan_locked"
-	}
-	"CPIconMP"
-	{
-		"ControlName"	"ImagePanel"
-		"fieldName"		"CPIconMP"
-		"xpos"			"9999"
-		"visible"		"1"
-		"enabled"		"1"
-		"image"			"../sprites/obj_icons/icon_obj_mp"
-	}
-	"CPIconTimer"
-	{
-		"ControlName"	"ImagePanel"
-		"fieldName"		"CPIconTimer"
-		"xpos"			"9999"
-		"visible"		"1"
-		"enabled"		"1"
-		"image"			"../sprites/obj_icons/icon_obj_timer"
+		"image"			"../sprites/obj_icons/icon_obj_cap_blu"
 	}
 	
-	///CART POINT ICONS///
-	"CartAlert"
+	"cpcapbluup"
 	{
-		"ControlName"		"ImagePanel"
-		"fieldName"			"CartAlert"
-		"xpos"				"9999"
-		"visible"			"1"
-		"enabled"			"1"
-		"image"				"../hud/cart_alert"
-	}
-	"CartArrowLeft"
-	{
-		"ControlName"		"ImagePanel"
-		"fieldName"			"CartArrowLeft"
-		"xpos"				"9999"
-		"visible"			"1"
-		"enabled"			"1"
-		"image"				"../hud/cart_arrow_left"
-	}
-	"CartArrowRight"
-	{
-		"ControlName"		"ImagePanel"
-		"fieldName"			"CartArrowRight"
-		"xpos"				"9999"
-		"visible"			"1"
-		"enabled"			"1"
-		"image"				"../hud/cart_arrow_right"
-	}
-	"CartBlocked"
-	{
-		"ControlName"		"ImagePanel"
-		"fieldName"			"CartBlocked"
-		"xpos"				"9999"
-		"visible"			"1"
-		"enabled"			"1"
-		"image"				"../hud/cart_blocked"
-	}
-	"CartBlue"
-	{
-		"ControlName"		"ImagePanel"
-		"fieldName"			"CartBlue"
-		"xpos"				"9999"
-		"visible"			"1"
-		"enabled"			"1"
-		"image"				"../hud/cart_blue"
-	}
-	"CartBlueBottom"
-	{
-		"ControlName"		"ImagePanel"
-		"fieldName"			"CartBlueBottom"
-		"xpos"				"9999"
-		"visible"			"1"
-		"enabled"			"1"
-		"image"				"../hud/cart_blue_bottom"
-	}
-	"CartHomeBlu"
-	{
-		"ControlName"		"ImagePanel"
-		"fieldName"			"CartHomeBlu"
-		"xpos"				"9999"
-		"visible"			"1"
-		"enabled"			"1"
-		"image"				"../hud/cart_home_blue"
-	}
-	"CartHomeRed"
-	{
-		"ControlName"		"ImagePanel"
-		"fieldName"			"CartHomeRed"
-		"xpos"				"9999"
-		"visible"			"1"
-		"enabled"			"1"
-		"image"				"../hud/cart_home_red"
-	}
-	"CartHomeBluOpaque"
-	{
-		"ControlName"		"ImagePanel"
-		"fieldName"			"CartHomeBluOpaque"
-		"xpos"				"9999"
-		"visible"			"1"
-		"enabled"			"1"
-		"image"				"../hud/cart_home_blue_opaque"
-	}
-	"CartHomeRedOpaque"
-	{
-		"ControlName"		"ImagePanel"
-		"fieldName"			"CartHomeRedOpaque"
-		"xpos"				"9999"
-		"visible"			"1"
-		"enabled"			"1"
-		"image"				"../hud/cart_home_red_opaque"
-	}
-	"CartHomeBlueSquare"
-	{
-		"ControlName"		"ImagePanel"
-		"fieldName"			"CartHomeBlueSquare"
-		"xpos"				"9999"
-		"visible"			"1"
-		"enabled"			"1"
-		"image"				"../hud/cart_home_blue_square"
-	}
-	"CartHomeRedSquare"
-	{
-		"ControlName"		"ImagePanel"
-		"fieldName"			"CartHomeRedSquare"
-		"xpos"				"9999"
-		"visible"			"1"
-		"enabled"			"1"
-		"image"				"../hud/cart_home_red_square"
-	}
-	"CartIcon"
-	{
-		"ControlName"		"ImagePanel"
-		"fieldName"			"CartIcon"
-		"xpos"				"9999"
-		"visible"			"1"
-		"enabled"			"1"
-		"image"				"../hud/cart_icon"
-	}
-	"CartIconNeutral"
-	{
-		"ControlName"		"ImagePanel"
-		"fieldName"			"CartIconNeutral"
-		"xpos"				"9999"
-		"visible"			"1"
-		"enabled"			"1"
-		"image"				"../hud/cart_neutral"
-	}
-	"CartIconNeutralBottom"
-	{
-		"ControlName"		"ImagePanel"
-		"fieldName"			"CartIconNeutralBottom"
-		"xpos"				"9999"
-		"visible"			"1"
-		"enabled"			"1"
-		"image"				"../hud/cart_neutral_bottom"
-	}
-	"CartPointBlu"
-	{
-		"ControlName"		"ImagePanel"
-		"fieldName"			"CartPointBlu"
-		"xpos"				"9999"
-		"visible"			"1"
-		"enabled"			"1"
-		"image"				"../hud/cart_point_blue"
-	}
-	"CartPointBluOpaque"
-	{
-		"ControlName"		"ImagePanel"
-		"fieldName"			"CartPointBluOpaque"
-		"xpos"				"9999"
-		"visible"			"1"
-		"enabled"			"1"
-		"image"				"../hud/cart_point_blue_opaque"
-	}
-	"CartPointNeutral"
-	{
-		"ControlName"		"ImagePanel"
-		"fieldName"			"CartPointNeutral"
-		"xpos"				"9999"
-		"visible"			"1"
-		"enabled"			"1"
-		"image"				"../hud/cart_point_neutral"
-	}
-	"CartPointNeutralOpaque"
-	{
-		"ControlName"		"ImagePanel"
-		"fieldName"			"CartPointNeutralOpaque"
-		"xpos"				"9999"
-		"visible"			"1"
-		"enabled"			"1"
-		"image"				"../hud/cart_point_neutral_opaque"
-	}
-	"CartPointRed"
-	{
-		"ControlName"		"ImagePanel"
-		"fieldName"			"CartPointRed"
-		"xpos"				"9999"
-		"visible"			"1"
-		"enabled"			"1"
-		"image"				"../hud/cart_point_red"
-	}
-	"CartPointRedOpaque"
-	{
-		"ControlName"		"ImagePanel"
-		"fieldName"			"CartPointRedOpaque"
-		"xpos"				"9999"
-		"visible"			"1"
-		"enabled"			"1"
-		"image"				"../hud/cart_point_red_opaque"
-	}
-	"CartRed"
-	{
-		"ControlName"		"ImagePanel"
-		"fieldName"			"CartRed"
-		"xpos"				"9999"
-		"visible"			"1"
-		"enabled"			"1"
-		"image"				"../hud/cart_red"
-	}
-	"CartRedBottom"
-	{
-		"ControlName"		"ImagePanel"
-		"fieldName"			"CartRedBottom"
-		"xpos"				"9999"
-		"visible"			"1"
-		"enabled"			"1"
-		"image"				"../hud/cart_red_bottom"
+		"ControlName"	"ImagePanel"
+		"fieldName"		"cpcapbluup"
+		"xpos"			"9999"
+		"visible"		"1"
+		"enabled"		"1"
+		"image"			"../sprites/obj_icons/icon_obj_cap_blu_up"
 	}
 	
-	///CAPTURE THE FLAG ICONS///
-	"CTFCompassBlue"
+	"cpcapred"
 	{
-		"ControlName"		"ImagePanel"
-		"fieldName"			"CTFCompassBlue"
-		"xpos"				"9999"
-		"visible"			"1"
-		"enabled"			"1"
-		"image"				"../hud/objectives_flagpanel_compass_blue"
+		"ControlName"	"ImagePanel"
+		"fieldName"		"cpcapred"
+		"xpos"			"9999"
+		"visible"		"1"
+		"enabled"		"1"
+		"image"			"../sprites/obj_icons/icon_obj_cap_red"
 	}
-	"CTFCompassRed"
+	
+	"cpcapredup"
 	{
-		"ControlName"		"ImagePanel"
-		"fieldName"			"CTFCompassRed"
-		"xpos"				"9999"
-		"visible"			"1"
-		"enabled"			"1"
-		"image"				"../hud/objectives_flagpanel_compass_red"
-	}
-	"CTFCompassGrey"
-	{
-		"ControlName"		"ImagePanel"
-		"fieldName"			"CTFCompassGrey"
-		"xpos"				"9999"
-		"visible"			"1"
-		"enabled"			"1"
-		"image"				"../hud/objectives_flagpanel_compass_grey"
-	}
-	"CTFCompassBlueNoArrow"
-	{
-		"ControlName"		"ImagePanel"
-		"fieldName"			"CTFCompassBlueNoArrow"
-		"xpos"				"9999"
-		"visible"			"1"
-		"enabled"			"1"
-		"image"				"../hud/objectives_flagpanel_compass_blue_noarrow"
-	}
-	"CTFCompassRedNoArrow"
-	{
-		"ControlName"		"ImagePanel"
-		"fieldName"			"CTFCompassRedNoArrow"
-		"xpos"				"9999"
-		"visible"			"1"
-		"enabled"			"1"
-		"image"				"../hud/objectives_flagpanel_compass_red_noarrow"
-	}
-	"CTFCompassGreyRed"
-	{
-		"ControlName"		"ImagePanel"
-		"fieldName"			"CTFCompassGreyRed"
-		"xpos"				"9999"
-		"visible"			"1"
-		"enabled"			"1"
-		"image"				"../hud/objectives_flagpanel_compass_grey_with_red"
-	}
-	"CTFIconBriefcase"
-	{
-		"ControlName"		"ImagePanel"
-		"fieldName"			"CTFIconBriefcase"
-		"xpos"				"9999"
-		"visible"			"1"
-		"enabled"			"1"
-		"image"				"../hud/objectives_flagpanel_briefcase"
-	}
-	"CTFIconCarriedBlu"
-	{
-		"ControlName"		"ImagePanel"
-		"fieldName"			"CTFIconCarriedBlu"
-		"xpos"				"9999"
-		"visible"			"1"
-		"enabled"			"1"
-		"image"				"../hud/objectives_flagpanel_carried_blue"
-	}
-	"CTFIconCarriedOutline"
-	{
-		"ControlName"		"ImagePanel"
-		"fieldName"			"CTFIconCarriedOutline"
-		"xpos"				"9999"
-		"visible"			"1"
-		"enabled"			"1"
-		"image"				"../hud/objectives_flagpanel_carried_outline"
-	}
-	"CTFIconCarriedRed"
-	{
-		"ControlName"		"ImagePanel"
-		"fieldName"			"CTFIconCarriedRed"
-		"xpos"				"9999"
-		"visible"			"1"
-		"enabled"			"1"
-		"image"				"../hud/objectives_flagpanel_carried_red"
-	}
-	"CTFIconHome"
-	{
-		"ControlName"		"ImagePanel"
-		"fieldName"			"CTFIconHome"
-		"xpos"				"9999"
-		"visible"			"1"
-		"enabled"			"1"
-		"image"				"../hud/objectives_flagpanel_ico_flag_home"
-	}
-	"CTFIconHomeALT"
-	{
-		"ControlName"		"ImagePanel"
-		"fieldName"			"CTFIconHomeALT"
-		"xpos"				"9999"
-		"visible"			"1"
-		"enabled"			"1"
-		"image"				"../hud/objectives_flagpanel_ico_flag_home_alt"
-	}
-	"CTFIconDropped"
-	{
-		"ControlName"		"ImagePanel"
-		"fieldName"			"CTFIconDropped"
-		"xpos"				"9999"
-		"visible"			"1"
-		"enabled"			"1"
-		"image"				"../hud/objectives_flagpanel_ico_flag_dropped"
-	}
-	"CTFIconMoving"
-	{
-		"ControlName"		"ImagePanel"
-		"fieldName"			"CTFIconMoving"
-		"xpos"				"9999"
-		"visible"			"1"
-		"enabled"			"1"
-		"image"				"../hud/objectives_flagpanel_ico_flag_moving"
-	}
-	"CTFIconMovingALT"
-	{
-		"ControlName"		"ImagePanel"
-		"fieldName"			"CTFIconMovingALT"
-		"xpos"				"9999"
-		"visible"			"1"
-		"enabled"			"1"
-		"image"				"../hud/objectives_flagpanel_ico_flag_moving_alt"
+		"ControlName"	"ImagePanel"
+		"fieldName"		"cpcapredup"
+		"xpos"			"9999"
+		"visible"		"1"
+		"enabled"		"1"
+		"image"			"../sprites/obj_icons/icon_obj_cap_red_up"
 	}
 }

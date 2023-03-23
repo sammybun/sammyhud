@@ -8,6 +8,6 @@
 
 //------------------------------------------
 
-#base "../resource/ui/alternatives/hudmediccharge_scl.res"		//Mini uber % under crosshair
+//#base "../resource/ui/alternatives/hudmediccharge_scl.res"		//Mini uber % under crosshair
 
 //------------------------------------------

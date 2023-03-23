@@ -36,7 +36,7 @@
 		"ControlName"	"EditablePanel"
 		"fieldname"		"MenuTopPanel"
 		"xpos"			"0"
-		"ypos"			"0"
+		"ypos"			"20"
 		"zpos"			"-1"
 		"wide"			"f0"
 		"tall"			"20"
@@ -97,7 +97,7 @@
 		"tabxfittotext"	"1"
 		"tabheight"		"20"
 		"transition_time" "0"
-		"yoffset"		"0"
+		"yoffset"		"20"
 		
 		"HeaderLine"
 		{

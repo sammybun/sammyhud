@@ -31,7 +31,7 @@
 	}
 	"ScoreboardButton"
 	{
-		"label" "Hud Minmode"
+		"label" "Scoreboard"
 		"command" "engine toggle cl_hud_minmode"
 	}
 	"ConsoleButton"
@@ -46,33 +46,53 @@
 	}
 	"QuitButton"
 	{
-		"label"	""
-		"command" "engine replay_confirmquit"
+		"label"	"L"
+		"command" "quit"
 		"OnlyAtMenu" "1"
 	}
 
 	//IN-GAME BUTTONS
 	"CallVoteButton"
 	{
-		"label"			""
+		"label"			"0"
 		"command"		"callvote"
 		"OnlyInGame"	"1"
-		"subimage" "icon_checkbox"
 		"tooltip" "Call Vote"
 	}
 	"MutePlayersButton"
 	{
-		"label"			""
+		"label"			"k"
 		"command"		"OpenPlayerListDialog"
 		"OnlyInGame"	"1"
 		"tooltip" "Mute Players"
 	}
 	"ReportPlayerButton"
 	{
-		"label"			""
+		"label"			","
 		"command"		"OpenReportPlayerDialog"
 		"OnlyInGame"	"1"
 		"tooltip"		"Report Player"
+	}
+	"HudReloadButton"
+	{
+		"label" 			"8"
+		"command" 			"engine vgui_cache_res_files 0;hud_reloadscheme"
+		"tooltip" 			"Reload HUD"
+		"OnlyInGame"		"1"
+	}
+	"FixInvisiblePlayers"
+	{
+		"label" 			"B"
+		"command" 			"engine stop; record fix; stop"
+		"tooltip" 			"Fix Invisible Players"
+		"OnlyInGame"		"1"
+	}
+	"FixSoundButton"
+	{
+		"label" 			"u"
+		"command" 			"engine snd_restart"
+		"tooltip" 			"Reload Sound"
+		"OnlyInGame"		"1"
 	}
 	"RequestCoachButton"
 	{
@@ -82,6 +102,7 @@
 		"subimage" "icon_whistle"
 		"tooltip" "Request Coach"
 	}
+
 
 	//IMAGE BUTTONS
 	"HomeServer"
@@ -101,10 +122,18 @@
 	{
 		"label"	""
 		"command" "engine con_enable 1;showconsole;
-					echo ================================
-					echo --- sammyHud
-					echo --- by sammy
-					echo ================================"
+
+			echo ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~;
+			echo ~~~~~~~~~|-------------|~~~~~~~~~~~~~~~~~~~~~;
+			echo ~~~~~~~~~|==sammyhud===|~~~~~~~~~~~~~~~~~~~~~;
+			echo ~~~~~~~~~|====by=======|~~~~~~~~~~~~~~~~~~~~~;
+			echo ~~~~~~~~~|===sammy=====|~~~~~~~~~~~~~~~~~~~~~;
+			echo ~~~~~~~~~|_____________|~~~~~~~~~~~~~~~~~~~~~;
+			echo ~~~~~~~~~~(\__/)=||~~~~~~~~~~~~~~~~~~~~~~~~~~;
+			echo ~~~~~~~~~~(•ㅅ•)=||~~~~~~~~~~~~~~~~~~~~~~~~~~;
+			echo ~~~~~~~~~~/====づ~~~~~~~~~~~~~~~~~~~~~~~~~~~~;
+			echo ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+
 		"tooltip" "HUD Info"
 	}
 	"SteamWorkshopButton"	//UNUSED

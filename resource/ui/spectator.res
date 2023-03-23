@@ -55,13 +55,26 @@
 		"enabled"		"0"
 		"tabPosition"		"0"
 	}
+
+	"ExampleAnchor"
+    {
+        "ControlName"     "EditablePanel"
+        "fieldName"     "ExampleAnchor"
+        "xpos"             "0"
+        "ypos"             "46"
+        "wide"             "f0"
+        "tall"             "1"
+        "visible"         "1"
+        "enabled"         "1"
+    }
+
 	"ReinforcementsLabel"
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"		"ReinforcementsLabel"
-		"xpos"			"c-300"
-		"ypos"			"50"
-		"wide"			"600"
+		"xpos"			"0"
+		"ypos"			"0"
+		"wide"			"100"
 		"tall"			"18"
 		"autoResize"		"0"
 		"pinCorner"		"0"
@@ -69,15 +82,24 @@
 		"enabled"		"1"
 		"labelText"		"#game_respawntime_in_secs"
 		"textAlignment"		"center"
-		"font"			"nüMedium16"
+		"font"			"nüMedium10"
 		"fgcolor_override"		"nüWhite"
+
+		"bgcolor_override"	"nüBaseTransparent"
+		"auto_wide_tocontents"	"1"
+				"use_proportional_insets"	"1"
+		"textinsetx"			"16"
+
+		"pin_to_sibling" "ExampleAnchor"
+        "pin_corner_to_sibling" "4"
+        "pin_to_sibling_corner" "4"
 	}
 	"BuyBackLabel"
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"		"BuyBackLabel"
 		"xpos"			"0"
-		"ypos"			"0"
+		"ypos"			"10"
 		"wide"			"320"
 		"tall"			"30"
 		"autoResize"		"0"
@@ -250,7 +272,7 @@
 		"wide"			"190"
 		"tall"			"100"
 		"visible"		"0"
-		"bgcolor_override"		"PanelBG"
+		"bgcolor_override"		"nüBaseTransparent"
 		"paintbackground"	"1"
 		"PaintBackgroundType"	"0"
 		

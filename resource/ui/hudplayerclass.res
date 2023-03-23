@@ -190,8 +190,8 @@
 			"Medic"
 			{
 				"fov"			"20"
-				"angles_x"		"-5"
-				"angles_y"		"178"
+				"angles_x"		"-12"
+				"angles_y"		"210"
 				"angles_z"		"0"
 				"origin_x"		"150"
 				"origin_y"		"-5"
@@ -245,14 +245,10 @@
 		"ControlName"			"EditablePanel"
 		"fieldName"				"CarryingWeapon"
 		"xpos"					"20"
-		"xpos_minmode"			"90"
 		"ypos"					"r27"
-		"ypos_minmode"			"r36"
 		"zpos"					"100"
 		"wide"					"500"
-		"wide_minmode"			"500"
 		"tall"	 				"28"
-		"tall_minmode"	 		"28"
 
 		"CarryingBackground"
 		{

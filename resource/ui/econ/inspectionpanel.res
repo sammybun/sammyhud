@@ -16,6 +16,33 @@
 		"proportionaltoparent" "1"
 	}
 
+	"Background"
+	{
+		"ControlName"						"ImagePanel"
+		"fieldName"							"Background"
+		"xpos"								"0"
+		"ypos"								"-40"
+		"zpos"								"-10"
+		"wide"								"f0"
+		"tall"								"480"
+		"visible"							"1"
+		"enabled"							"1"
+		"image"								"replay/thumbnails/menu/Forest_Back"
+		"scaleimage"						"1"
+	}
+	"Shader"
+	{
+		"ControlName"	"EditablePanel"
+		"fieldName"		"Shader"
+		"xpos"			"0"
+		"ypos"			"0"
+		"zpos"			"-9"
+		"wide"			"f0"
+		"tall"			"480"
+		"visible"		"1"
+		"enabled"		"1"
+		"bgcolor_override"	"15 15 15 170"
+	}
 	"ItemName"
 	{		
 		"ControlName"	"CItemModelPanel"
@@ -229,7 +256,7 @@
 		"wide"			"300"
 		"tall"			"100"
 		"zpos"			"100"
-		"border"		"MainMenuBGBorder"
+		"border"		"TransparentBG"
 		"mouseinputenabled"	"1"
 		"proportionaltoparent"	"1"
 

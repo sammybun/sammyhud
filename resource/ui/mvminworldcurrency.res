@@ -62,6 +62,23 @@
 
 	}
 
+	"RemainingLabelShadow"
+	{
+		"ControlNAme"	"CExLabel"
+		"fieldName"		"RemainingLabelShadow"
+		"xpos"			"1"
+		"ypos"			"1"
+		"zpos"			"-1"
+		"wide"			"60"
+		"tall"			"12"
+		"visible"		"1"
+		"enable"		"1"
+		"font"			"nüMediumShadow12"
+		"labelText"		"Remaining"
+		"textAlignment"	"west"
+		"fgcolor"		"ShadowBlack"
+	}
+
 	"CurrencyGood"
 	{
 		"ControlName"	"CExLabel"

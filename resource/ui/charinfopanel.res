@@ -127,7 +127,7 @@
 		"tabwidth"		"150"
 		"tabheight"		"20"
 		"transition_time" "0"
-		"yoffset"		"0"
+		"yoffset"		"20"
 		"zpos"			"1"
 		
 		"HeaderLine"
@@ -157,6 +157,21 @@
 			"activeborder_override"	"NoBorder"
 			"normalborder_override" "NoBorder"
 		}
+
+		"Shader"
+		{
+		"ControlName"	"EditablePanel"
+		"fieldName"		"Shader"
+		"xpos"			"0"
+		"ypos"			"0"
+		"zpos"			"-99"
+		"wide"			"f0"
+		"tall"			"40"
+		"visible"		"1"
+		"enabled"		"1"
+		"bgcolor_override"	"15 15 15 170"
+		}
+		
 	}
 	
 	"BackButton"

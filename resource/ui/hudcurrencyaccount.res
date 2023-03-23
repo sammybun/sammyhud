@@ -14,6 +14,23 @@
 		"labelText"		"Currency"
 		"textAlignment"	"west"
 		"fgcolor"		"nüWhite"
+	}
+
+	"CurrencyLabelShadow"
+	{
+		"ControlNAme"	"CExLabel"
+		"fieldName"		"CurrencyLabelShadow"
+		"xpos"			"1"
+		"ypos"			"1"
+		"zpos"			"-1"
+		"wide"			"50"
+		"tall"			"12"
+		"visible"		"1"
+		"enable"		"1"
+		"font"			"nüMediumShadow12"
+		"labelText"		"Currency"
+		"textAlignment"	"west"
+		"fgcolor"		"ShadowBlack"
 
 	}
 
@@ -40,7 +57,7 @@
 		"fieldName"		"CurrencyShadow"
 		"font"			"nüMediumShadow12"
 		"fgcolor"		"ShadowBlack"
-		"xpos"			"40"
+		"xpos"			"41"
 		"ypos"			"1"
 		"zpos"			"3"
 		"wide"			"50"

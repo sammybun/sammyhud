@@ -34,13 +34,13 @@
 	{
 		"ControlName"	"CTFImagePanel"
 		"fieldName"		"ItemEffectIcon"
-		"xpos"			"0"
-		"ypos"			"0"
+		"xpos"			"70"
+		"ypos"			"-2"
 		"zpos"			"1"
 		"wide"			"14"
 		"tall"			"14"
-		"visible"		"0"
-		"enabled"		"0"
+		"visible"		"1"
+		"enabled"		"1"
 		"image"			"../hud/ico_powerup_critboost_red"
 		"scaleImage"	"1"
 	}
@@ -91,13 +91,13 @@
 		"fieldName"		"PowerUpLabelShadow"
 		"font"			"nüMediumShadow12"
 		"fgcolor"		"ShadowBlack"
-		"xpos"			"0"
+		"xpos"			"1"
 		"ypos"			"1"
 		"zpos"			"2"
 		"wide"			"50"
 		"tall"			"12"
-		"visible"		"0"
-		"enabled"		"0"
+		"visible"		"1"
+		"enabled"		"1"
 		"textAlignment"	"east"	
 		"labelText"		"Power Up"
 	}
@@ -145,7 +145,7 @@
 	{
 		"ControlName"			"CExLabel"
 		"fieldName"				"ItemEffectMeterCountShadow"
-		"xpos"					"40"
+		"xpos"					"41"
 		"ypos"					"1"
 		"zpos"					"1"
 		"wide"					"30"
@@ -158,7 +158,7 @@
 		"textAlignment"			"east"
 		"dulltext"				"0"
 		"brighttext"			"0"
-		"font"					"nüMediumShadow12"
+		"font"					"nüMedium12Shadow"
 		"fgcolor_override"		"ShadowBlack"
 	}
 }

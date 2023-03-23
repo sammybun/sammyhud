@@ -8,7 +8,7 @@
 		"ypos"			"2"
 		"zpos"			"-1"
 		"wide"			"200"
-		"tall"			"35"
+		"tall"			"300"
 		"autoResize"	"0"
 		"pinCorner"		"0"
 		"visible"		"0"
@@ -29,15 +29,13 @@
 		"font"			"nüMedium14"
 		"fgcolor"		"nüWhite"
 		"xpos"			"200"
-		"xpos_minmode"	"5"
-		"ypos"			"2"
+		"ypos"			"0"
 		"zpos"			"3"
 		"wide"			"200"
 		"tall"			"15"
 		"visible"		"1"
 		"enabled"		"1"
 		"textAlignment"				"center"
-		"textAlignment_minmode"		"east"
 		"labelText"					"%wave_count%"
 	}
 	"WaveCountLabelShadow"
@@ -47,15 +45,13 @@
 		"font"			"nüMediumShadow14"
 		"fgcolor"		"ShadowBlack"
 		"xpos"			"200"
-		"xpos_minmode"	"5"
-		"ypos"			"3"
+		"ypos"			"1"
 		"zpos"			"3"
 		"wide"			"200"
 		"tall"			"15"
 		"visible"		"1"
 		"enabled"		"1"
 		"textAlignment"				"center"
-		"textAlignment_minmode"		"east"
 		"labelText"					"%wave_count%"
 	}
 	
@@ -72,11 +68,11 @@
 		"enabled"		"1"
 		"scaleImage"	"1"
 		"PaintBackgroundType" "2"
-		"bgcolor_override"	"TanLight"
+		"bgcolor_override"	"nüWhite"
 		
 		if_verbose
 		{
-			"visible"		"1"
+			"visible"		"0"
 		}
 	}
 	
@@ -84,8 +80,8 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"SupportLabel"
-		"font"			"HudFontSmallestBold"
-		"fgcolor"		"TanLight"
+		"font"			"nüMedium12"
+		"fgcolor"		"nüWhite"
 		"xpos"			"55"
 		"ypos"			"6"
 		"zpos"			"3"
@@ -93,7 +89,7 @@
 		"tall"			"15"
 		"visible"		"0"
 		"enabled"		"1"
-		"textAlignment"				"west"
+		"textAlignment"				"center"
 		"labelText"					"#TF_MVM_Support"
 		
 		if_verbose
@@ -107,14 +103,13 @@
 		"ControlName"	"ScalableImagePanel"
 		"fieldName"		"ProgressBar"
 		"xpos"			"211"
-		"ypos"			"19"
-		"ypos_minmode"	"5"
+		"ypos"			"15"
 		"zpos"			"3"
 		"wide"			"178"
-		"tall"			"10"
+		"tall"			"5"
 		"visible"		"1"
 		"enabled"		"1"
-		"image"			"replay/thumbnails/bg_white"
+		"image"			"replay/thumbnails/panels/bg_blu"
 		
 		"src_corner_height"	"22"				// pixels inside the image
 		"src_corner_width"	"22"
@@ -128,11 +123,10 @@
 		"ControlName"	"ImagePanel"
 		"fieldName"		"ProgressBarBGNew"
 		"xpos"			"211"
-		"ypos"			"19"
-		"ypos_minmode"	"5"
+		"ypos"			"15"
 		"zpos"			"3"
 		"wide"			"178"
-		"tall"			"10"
+		"tall"			"5"
 		"visible"		"1"
 		"enabled"		"1"
 		"fillcolor"		"PanelBG"
@@ -146,7 +140,7 @@
 		"ypos"			"19"
 		"zpos"			"3"
 		"wide"			"180"
-		"tall"			"12"
+		"tall"			"7"
 		"visible"		"0"
 		"enabled"		"0"
 		"image"			"../HUD/tournament_panel_tan"

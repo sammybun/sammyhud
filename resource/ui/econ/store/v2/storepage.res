@@ -160,7 +160,7 @@
 		"ControlName"	"EditablePanel"
 		"fieldName"		"StoreBackgroundPanel"
 		"xpos"			"0"
-		"ypos"			"0"
+		"ypos"			"-40"
 		"zpos"			"-1"
 		"wide"			"f0"
 		"tall"			"f0"
@@ -179,7 +179,7 @@
 			"tall"			"f0"
 			"visible"		"1"
 			"enable"		"1"
-			"image"			"store/store_bg001"
+			"image"			"replay/thumbnails/menu/Forest_Back"
 			"scale_image"	"1"
 			"proportiontoparent"	"1"
 		}

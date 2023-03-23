@@ -460,7 +460,7 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"image"			"replay/thumbnails/bg_blu"
+		"image"			"replay/thumbnails/panels/bg_blu"
 		//"fillcolor"		"nüBLUSolid"
 		
 		if_mvm
@@ -628,7 +628,7 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"image"			"replay/thumbnails/bg_red"
+		"image"			"replay/thumbnails/panels/bg_red"
 		//"fillcolor"		"nüREDSolid"
 		
 		if_mvm

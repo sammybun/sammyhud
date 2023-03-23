@@ -45,8 +45,8 @@
 		"enabled"		"1"
 		"labelText"		""
 		"image"			""		//"replay/thumbnails/bg_White"
-		"fillcolor"		"Gray30"
-		"drawcolor"		"Gray30"
+		"fillcolor"		"nüBaseTransparent"
+		"drawcolor"		"nüBaseTransparent"
 		"scaleImage"	"1"
 		
 		"proportionaltoparent"	"1"
@@ -81,7 +81,7 @@
 		"tall"			"4"			//"f0"
 		"visible"		"1"
 		"enabled"		"1"
-		"bgcolor_override"	"Gray30Mid"
+		"bgcolor_override"	"nüBaseTransparent"
 		"scaleImage"	"1"
 		
 		"proportionaltoparent"	"1"
@@ -366,7 +366,7 @@
 			"brighttext"	"0"
 			
 			"fgcolor"		"nüWhite"
-			"bgcolor_override"	"Gray30"
+			"bgcolor_override"	"nüBaseTransparent"
 			"proportionaltoparent"	"1"
 			"use_proportional_insets"	"1"
 			"textinsetx"			"2"

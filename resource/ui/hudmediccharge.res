@@ -36,7 +36,7 @@
 		"textAlignment"	"west"
 		"dulltext"		"0"
 		"brighttext"	"0"
-		"font"			"nüBoldDropShadow34"
+		"font"			"nüBoldDropShadow30"
 		"fgcolor"		"ChargePercent"
 	}
 

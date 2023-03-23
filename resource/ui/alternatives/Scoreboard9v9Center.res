@@ -203,7 +203,7 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"		"BlueTeamScore"
-		"font"			"nüBold34"
+		"font"			"nüBold32"
 		"fgcolor"		"nüWhite"
 		"labelText"		"%blueteamscore%"
 		"textAlignment"		"center"
@@ -279,7 +279,7 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"		"RedTeamScore"
-		"font"			"nüBold34"
+		"font"			"nüBold32"
 		"fgcolor"		"nüWhite"
 		"labelText"		"%redteamscore%"
 		"textAlignment"		"center"
@@ -1355,23 +1355,4 @@
 		}
 	}
 
-	"MvMScoreboard"
-	{
-		"ControlName"		"CTFHudMannVsMachineScoreboard"
-		"fieldName"			"MvMScoreboard"
-		"xpos"				"0"
-		"ypos"				"0"
-		"zpos"				"10"
-		"wide"				"f0"
-		"tall"				"480"
-		"visible"			"0"
-		"enabled"			"1"
-
-		"verbose"			"1"
-
-		if_mvm
-		{
-			"visible"		"1"
-		}
-	}
 }

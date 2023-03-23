@@ -734,7 +734,7 @@
 		"visible"			"1"
 		"enabled"			"1"
 		"tabPosition"		"0"
-		"labelText"			""
+		"labelText"			"(&R)"
 		"textAlignment"		"south-west"
 		"Command"			"select 12"
 		"Default"			"1"
@@ -811,6 +811,32 @@
 		"pin_to_sibling" "CancelButton"
 		"pin_corner_to_sibling" "PIN_TOPRIGHT" // Corner of this Element
 		"pin_to_sibling_corner" "PIN_TOPLEFT" // Corner of Element you are pinning to
+	}
+
+	"EditLoadout_Custom" [$WIN32] 
+	{
+		"ControlName"	"CExButton"
+		"fieldName"		"EditLoadout_Custom"
+		"xpos"			"9999"
+		"ypos"			"9999"
+		"zpos"			"6"
+		"wide"			"60"
+		"tall"			"20"
+		"autoResize"	"0"
+		"pinCorner"		"2"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"	"0"
+		"labelText"		"(&E)"
+		"textAlignment"	"center"
+		"Command"		"openloadout"
+		"font"			"nü12"
+		
+		"AllCaps"			"1"
+		"border_default"	"ButtonDefaultLight"
+		"border_armed"		"ButtonHoverLight"
+		"paintborder"		"1"
+		"paintbackground"	"0"
 	}
 	
 	"Random_Custom" [$WIN32] 

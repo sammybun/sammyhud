@@ -2,7 +2,7 @@
 // Load custom crosshairs	
 //------------------------------------------
 
-	#base "../resource/Crosshairs/crosshair.res"
+	#base "../customizations/Crosshair.res"
 
 //------------------------------------------
 
@@ -312,7 +312,7 @@
 		"ypos"		"0"
 		"zpos"		"1"
 		"wide"		"f0"
-		"tall"		"480"
+		"tall"		"600"
 		
 		"PaintBackgroundType"	"2"
 	}
@@ -465,7 +465,7 @@
 		"IconScale"	      "0.35"
 		"LineHeight"	  "12"
 		"LineSpacing"	  "0"
-		"CornerRadius"	  "1"
+		"CornerRadius"	  "0"
 		"RightJustify"	  "1"	// If 1, draw notices from the right
 		
 		"TextFont"		  "nü10"
@@ -533,8 +533,8 @@
 		"enabled" "1"
 		"wide"	 "f0"
 		"tall"	 "480"
-		"ypos"	 "20"
-		"xpos"	 "7"
+		"ypos"	 "15"
+		"xpos"	 "0"
 	}
 
 	HudMenu
@@ -741,7 +741,7 @@
 		"visible"				"0"
 		"enabled"				"1"
 		"xpos"					"c-240"
-		"ypos"					"c60"
+		"ypos"					"c80"
 		"wide"					"480"
 		"tall"					"100"
 		"HintSize"				"1"
@@ -757,7 +757,7 @@
 		"visible"	"0"
 		"enabled" 	"1"
 		"xpos"		"r120"
-		"ypos"		"r340"
+		"ypos"		"r350"
 		"wide"		"100"
 		"tall"		"200"
 		"text_xpos"	"8"
@@ -798,8 +798,8 @@
 		"tall"					"200"
 		"visible"				"1"
 		"enabled"				"1"
-		"separator_width"		"3"	// distance between the icons (including their backgrounds)
-		"separator_height"		"5"
+		"separator_width"		"2"	// distance between the icons (including their backgrounds)
+		"separator_height"		"4"
 		"height_offset"			"0"	// distance from the bottom of the panel
 	}
 
@@ -1513,7 +1513,7 @@
 		"ControlName"		"ImagePanel"
 		"fieldName"		"VerticalLine"
 		"xpos"			"0"
-		"ypos"			"c112"
+		"ypos"			"c111"
 		"zpos"			"-5"
 		"wide"			"f0"
 		"tall"			"1"
@@ -1529,7 +1529,7 @@
 		"ControlName"		"ImagePanel"
 		"fieldName"		"VerticalLine"
 		"xpos"			"0"
-		"ypos"			"c101"
+		"ypos"			"c91"
 		"zpos"			"-5"
 		"wide"			"f0"
 		"tall"			"1"
@@ -1544,7 +1544,7 @@
 	{
 		"ControlName"		"ImagePanel"
 		"fieldName"		"VerticalLine"
-		"xpos"			"c0"
+		"xpos"			"c-101"
 		"ypos"			"0"
 		"zpos"			"-5"
 		"wide"			"1"
@@ -1560,7 +1560,7 @@
 	{
 		"ControlName"		"ImagePanel"
 		"fieldName"		"VerticalLine"
-		"xpos"			"c100"
+		"xpos"			"c-144"
 		"ypos"			"0"
 		"zpos"			"-5"
 		"wide"			"1"

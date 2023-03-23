@@ -5,6 +5,151 @@ Scheme
 	Colors
 	{
 		
+
+		///////////////////////////////////////////////////////////////////////////////
+		//////////////////////////// ITEM QUALITY COLORS //////////////////////////////
+		///////////////////////////////////////////////////////////////////////////////
+		
+"QualityColorrarity2"								"28 31 34 255"				//idk??
+		"QualityColorrarity3"								"28 31 34 255"				//idk??
+		"QualityColorCustomized"							"28 31 34 255"				//idk?		
+		"QualityColorCompleted"								"28 31 34 255"				//idk?
+		
+		"QualityColorPaintkitWeapon"						"160 160 160 255"
+		
+	//Normal		
+		"QualityColorNormal"								"182 182 182 255"
+	
+		"Normal"											"147 147 147 255"		
+		"NormalDim"											"118 118 118 255"
+		"NormalDark"										"62 62 62 255"
+		
+	//Unique	
+		"QualityColorUnique"								"255 194 29 255"
+		
+		"Unique"											"255 194 29 255"		
+		"UniqueDim"											"198 153 30 255"
+		"UniqueDark"										"118 96 32 255"
+		
+	//Strange	
+		"QualityColorStrange"								"255 126 0 255"
+		
+		"Strange"											"255 126 0 255"			
+		"StrangeDim"										"198 102 8 255"
+		"StrangeDark"										"118 69 20 255"
+		
+	//Genuine
+		"QualityColorrarity1"								"53 168 83 255"
+		
+		"Genuine"											"53 168 83 255"			
+		"GenuineDim"										"46 134 70 255"
+		"GenuineDark"										"38 85 53 255"
+		
+	//Vintage	
+		"QualityColorVintage"								"93 131 255 255"
+		
+		"Vintage"											"93 131 255 255"		
+		"VintageDim"										"76 106 200 255"
+		"VintageDark"										"54 71 122 255"
+		
+	//Unusual	
+		"QualityColorrarity4"								"101 85 225 255"
+		
+		"Unusual"											"101 85 225 255"		
+		"UnusualDim"										"82 71 177 255"
+		"UnusualDark"										"57 52 110 255"
+		
+	//Haunted
+		"QualityColorHaunted"								"55 239 150 255"
+		
+		"Haunted"											"55 239 150 255"		
+		"HauntedDim"										"48 187 121 255"
+		"HauntedDark"										"38 114 80 255"
+	//Collectors
+		"QualityColorCollectors"							"231 64 42 255"
+		
+		"Collectors"										"231 64 42 255"			
+		"CollectorsDim"										"180 55 40 255"
+		"CollectorsDark"									"108 44 37 255"
+		
+	//Community
+		"QualityColorCommunity"								"65 238 103 255"		//"112 176 74 255"
+		
+		"Community"											"65 238 103 255"
+		"CommunityDim"										"45 202 69 255"
+		"CommunityDark"										"32 126 46 255"
+		
+	//Selfmade
+		"QualityColorSelfMade"								"112 176 74 255"
+		
+		"SelfMade"											"112 176 74 255"		
+		"SelfMadeDim"										"45 202 69 255"
+		"SelfMadeDark"										"32 126 46 255"
+		
+	//practically unused, sorry valve devs
+		"QualityColorDeveloper"								"28 31 34 255"				//practically unused
+		
+		"Developer"											"28 31 34 255"			
+		"DeveloperDim"										"28 31 34 255"
+		"DeveloperDark"										"28 31 34 255"
+	//unused?	
+		"ItemRarityDefault"									"120 120 120 255"
+		
+	//Civilian
+		"ItemRarityCommon"									"176 195 217 255"		
+		"CivilianDim"										"120 134 148 255"
+		"CivilianDark"										"100 112 124 255"
+		
+	//Freelance	
+		"ItemRarityUncommon"								"94 152 217 255"			
+		"FreelanceDim"										"69 109 147 255"
+		"FreelanceDark"										"57 91 124 255"
+		
+	//Mercenary	
+		"ItemRarityRare"									"75 105 255 255"		
+		"MercenaryDim"										"60 85 169 255"
+		"MercenaryDark"										"50 71 142 255"
+		
+	//Commando	
+		"ItemRarityMythical"								"136 71 255 255"		
+		"CommandoDim"										"99 68 169 255"
+		"CommandoDark"										"83 57 142 255"
+		
+	//Assassin
+		"ItemRarityLegendary"								"211 44 230 255"		
+		"AssassinDim"										"147 57 154 255"
+		"AssassinDark"										"122 48 129 255"
+		
+	//Elite	
+		"ItemRarityAncient"									"235 75 75 255"			
+		"EliteDim"											"162 66 62 255"
+		"EliteDark"											"135 55 53 255"
+		
+		"ItemRarityDefault_GreyedOut"						"44 42 40 255"
+		"ItemRarityCommon_GreyedOut"						"100 112 124 255"		//Civilian
+		"QualityColorrarity2_GreyedOut"						"57 91 124 255"			//Freelance	
+		"ItemRarityRare_GreyedOut"							"50 71 142 255"			//Mercenary
+		"ItemRarityMythical_GreyedOut"						"83 57 142 255"			//Commando
+		"ItemRarityLegendary_GreyedOut"						"122 48 129 255"		//Assassin
+		"ItemRarityAncient_GreyedOut"						"135 55 53 255"			//Elite
+		
+		"QualityColorNormal_GreyedOut"						"44 44 44 255"
+		"QualityColorrarity1_GreyedOut"						"20 29 21 255"
+		"QualityColorrarity2_GreyedOut"						"35 33 19 255"
+		"QualityColorrarity3_GreyedOut"						"51 51 62 255"
+		"QualityColorrarity4_GreyedOut"						"36 20 43 255"
+		"QualityColorVintage_GreyedOut"						"18 25 36 255"
+		"QualityColorUnique_GreyedOut"						"64 54 0  255"
+		"QualityColorCommunity_GreyedOut"					"28 44 19 255"
+		"QualityColorDeveloper_GreyedOut"					"41 4 30 255"
+		"QualityColorSelfMade_GreyedOut"					"28 44 74 255"
+		"QualityColorCustomized_GreyedOut"					"71 98 19 255"
+		"QualityColorStrange_GreyedOut"						"52 27 13 255"
+		"QualityColorCompleted_GreyedOut"					"34 20 43 255"
+		"QualityColorHaunted_GreyedOut"						"14 61 43 255"
+		"QualityColorCollectors_GreyedOut"					"60 0 0 255"
+		
+		"QualityColorPaintkitWeapon_GreyedOut"				"60 60 60 255"
 		
 		// base colors
 		"Orange"			"178 82 22 255"
@@ -64,6 +209,7 @@ Scheme
 		"TransparentBlack"	"0 0 0 196"
 		"TransparentLightBlack"	"0 0 0 90"
 		"FooterBGBlack"		"52 48 55 255"
+		
 		
 		"HUDBlueTeam"		"104 124 155 127"
 		"HUDRedTeam"		"180 92 77 127"

@@ -92,7 +92,7 @@
 		{
 			"ControlName"		"CExLabel"
 			"fieldName"		"TimePanelValue"
-			"font"			"nüMedium16"
+			"font"			"nüMedium14"
 			"fgcolor"		"nüWhite"
 			"xpos"			"0"
 			"ypos"			"4"
@@ -145,7 +145,7 @@
 		{
 			"ControlName"		"CExLabel"
 			"fieldName"		"TimePanelValue"
-			"font"			"nüMedium16"
+			"font"			"nüMedium14"
 			"fgcolor"		"nüWhite"
 			"xpos"			"0"
 			"ypos"			"4"

@@ -9,7 +9,7 @@
 		"ypos"					"100"
 		"wide"					"300"
 		"tall"					"300"
-		"bgcolor_override"		"35 35 35 255"
+		"bgcolor_override"		"15 15 15 140"
 		"paintbackgroundtype"	"0"
 		"settitlebarvisible"	""
 		"border"				"NoBorder"

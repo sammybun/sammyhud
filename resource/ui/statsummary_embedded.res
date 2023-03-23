@@ -18,14 +18,28 @@
 		"ControlName"						"ImagePanel"
 		"fieldName"							"Background"
 		"xpos"								"0"
-		"ypos"								"0"
-		"zpos"								"-10"
+		"ypos"								"-40"
+		"zpos"								"-100"
 		"wide"								"f0"
 		"tall"								"480"
 		"visible"							"1"
 		"enabled"							"1"
 		"image"								"replay/thumbnails/menu/Forest_Back"
 		"scaleimage"						"1"
+	}
+	
+	"Shader"
+	{
+		"ControlName"	"EditablePanel"
+		"fieldName"		"Shader"
+		"xpos"			"0"
+		"ypos"			"0"
+		"zpos"			"-99"
+		"wide"			"f0"
+		"tall"			"480"
+		"visible"		"1"
+		"enabled"		"1"
+		"bgcolor_override"	"15 15 15 170"
 	}
 	
 	"OnYourWayLabel" [$WIN32]

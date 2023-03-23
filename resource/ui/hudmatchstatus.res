@@ -208,13 +208,19 @@
 		if_match
 		{
 			"xpos"			"c-41"
-			"ypos"			"-3"
-			"zpos"			"1"
+			"ypos"			"-2"
+			"zpos"			"2"
 			"wide"			"1"
 			"tall"			"17"
 			"visible"		"1"
 			"enabled"		"1"
 			"bgcolor_override"	"nüBLUSolid"
+		}
+
+		if_mvm
+		{
+
+			"visible"	"0"
 		}
 	}
 
@@ -229,13 +235,19 @@
 		if_match
 		{
 			"xpos"			"c40"
-			"ypos"			"-3"
-			"zpos"			"1"
+			"ypos"			"-2"
+			"zpos"			"2"
 			"wide"			"1"
 			"tall"			"17"
 			"visible"		"1"
 			"enabled"		"1"
 			"bgcolor_override"	"nüREDSolid"
+		}
+
+		if_mvm
+		{
+
+			"visible"	"0"
 		}
 	}
 
@@ -253,7 +265,7 @@
 		"starting_width"						"0"
 		"width_per_round"						"0"
 		"indicator_start_offset"				"2"
-		"indicator_max_wide"					"39"
+		"indicator_max_wide"					"40"
 		
 		RedTeamBackground2
 		{
@@ -268,8 +280,8 @@
 		"RoundIndicatorPanel_kv"
 		{
 			"ypos"								"16"
-			"wide"								"5"
-			"tall"								"2"
+			"wide"								"6"
+			"tall"								"1"
 			"zpos"								"7"
 			"image"								"../vgui/replay/thumbnails/panels/Material_Transparent_Black_70"
 			"scaleimage"						"1"
@@ -278,20 +290,20 @@
 		"RoundWinPanelRed_kv"
 		{
 			"ypos"								"16"
-			"wide"								"5"
-			"tall"								"2"
+			"wide"								"6"
+			"tall"								"1"
 			"zpos"								"8"
-			"image"								"../vgui/replay/thumbnails/panels/Panel_Red"
+			"image"								"../vgui/replay/thumbnails/panels/bg_red"
 			"scaleimage"						"1"
 		}
 
 		"RoundWinPanelBlue_kv"
 		{
 			"ypos"								"16"
-			"wide"								"5"
-			"tall"								"2"
+			"wide"								"6"
+			"tall"								"1"
 			"zpos"								"8"
-			"image"								"../vgui/replay/thumbnails/panels/Panel_Blue"
+			"image"								"../vgui/replay/thumbnails/panels/bg_blu"
 			"scaleimage"						"1"
 		}
 
@@ -384,7 +396,7 @@
 		"PositiveColor"			"0 255 0 255"
 		"NegativeColor"			"255 0 0 255"
 		"delta_lifetime"		"1.5"
-		"delta_item_font"		"nüMedium16"
+		"delta_item_font"		"nüMedium14"
 
 		if_match
 		{
@@ -400,7 +412,7 @@
 		{
 			"ControlName"		"CExLabel"
 			"fieldName"		"TimePanelValue"
-			"font"			"nüMedium16"
+			"font"			"nüMedium14"
 			"fgcolor"		"240 240 240 255"
 			"xpos"			"0"
 			"ypos"			"2"

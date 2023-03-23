@@ -38,9 +38,9 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"scaleImage"		"1"
-		"image"			"replay/thumbnails/blank"
-		"teambg_2"		"replay/thumbnails/bg_red"
-		"teambg_3"		"replay/thumbnails/bg_blu"
+		"image"			"replay/thumbnails/panels/blank"
+		"teambg_2"		"replay/thumbnails/panels/bg_red"
+		"teambg_3"		"replay/thumbnails/panels/bg_blu"
 		
 		if_match
 		{
