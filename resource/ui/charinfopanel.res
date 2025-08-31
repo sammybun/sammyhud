@@ -127,7 +127,7 @@
 		"tabwidth"		"150"
 		"tabheight"		"20"
 		"transition_time" "0"
-		"yoffset"		"20"
+		"yoffset"		"40"
 		"zpos"			"1"
 		
 		"HeaderLine"
@@ -167,8 +167,8 @@
 		"zpos"			"-99"
 		"wide"			"f0"
 		"tall"			"40"
-		"visible"		"1"
-		"enabled"		"1"
+		"visible"		"0"
+		"enabled"		"0"
 		"bgcolor_override"	"15 15 15 170"
 		}
 		

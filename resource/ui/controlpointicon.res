@@ -28,7 +28,7 @@
 		"bgcolor_override"	"blank"
 		
 		"proportionaltoparent"	"1"
-		
+		s
 		"paintbackgroundtype"	"0"
 	}
 	
@@ -68,10 +68,10 @@
 		"fieldName"		"CapNumPlayers"
 		"font"			"nü10"
 		"xpos"			"r16"
-		"ypos"			"-5"
+		"ypos"			"-15"
 		"zpos"			"4"
 		"wide"			"14"
-		"tall"			"20"
+		"tall"			"30"
 		"autoResize"		"0"
 		"pinCorner"		"0"
 		"visible"		"1"
