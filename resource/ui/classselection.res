@@ -89,7 +89,7 @@
 		"ControlName"	"EditablePanel"
 		"fieldName"		"CenterAnchor"
 		"xpos"			"c-1"
-		"ypos"			"c-1"
+		"ypos"			"c-50"
 		"zpos"			"-200"
 		"wide"			"2"
 		"tall"			"2"

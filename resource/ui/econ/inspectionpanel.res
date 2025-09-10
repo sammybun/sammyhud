@@ -39,8 +39,8 @@
 		"zpos"			"-9"
 		"wide"			"f0"
 		"tall"			"480"
-		"visible"		"1"
-		"enabled"		"1"
+		"visible"		"0"
+		"enabled"		"0"
 		"bgcolor_override"	"15 15 15 170"
 	}
 	"ItemName"
@@ -593,7 +593,7 @@
 			"default"		"1"
 			"NumericInputOnly"	"1"
 			"bgcolor_override"	"0 0 0 200"
-			"maxchars"		"20"
+			"maxchars"		"18"
 
 			"consume_mode"
 			{

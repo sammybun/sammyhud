@@ -17,7 +17,7 @@
 		"bgcolor_override"	"nüBaseTransparent"
 		"infocus_bgcolor_override" "nüBaseTransparent"
 		"outoffocus_bgcolor_override" "nüBaseTransparent"
-	
+
 		"show_item_backdrop"				"1"
 		"item_backdrop_color"				"nüBaseTransparent"
 		"item_backdrop_left_margin"			"11"
@@ -25,23 +25,23 @@
 		"item_backdrop_top_margin"			"9"
 		"item_backdrop_bottom_margin"		"42"
 		"item_backdrop_paintbackgroundtype"	"2"
-		
+
 		"item_xpos_offcenter_a"	"-310"
 		"item_xpos_offcenter_b"	"165"
-		"item_ypos"		"120"
+		"item_ypos"		"90"
 		"item_ydelta"	"80"
 		"item_mod_wide"	"40"
-		
+
 		"item_backpack_offcenter_x"		"-288"
 		"item_backpack_xdelta"			"4"
 		"item_backpack_ydelta"			"3"
 
-		"button_xpos_offcenter"	"175"		
+		"button_xpos_offcenter"	"175"
 		"button_ypos"	"85"
 		"button_ydelta"	"80"
 		"button_override_delete_xpos" "0"
 
-		"page_button_y"	"346"
+		"page_button_y"	"316"
 		"page_button_x_delta" "3"
 		"page_button_y_delta" "3"
 		"page_button_per_row" "20"
@@ -89,7 +89,7 @@
 				"tall"			"f-3"
 				"textinsetx"	"8"
 				"autoResize"	"1"
-				"pinCorner"		"0"	
+				"pinCorner"		"0"
 				"visible"		"0"
 				"enabled"		"1"
 				"labelText"		"#Store_Price_New"
@@ -100,9 +100,9 @@
 				"fgcolor"		"10 10 10 255"
 			}
 		}
-			
-		
-		
+
+
+
 		"modelpanels_kv"
 		{
 			"ControlName"	"CItemModelPanel"
@@ -115,7 +115,7 @@
 			"noitem_textcolor"		"117 107 94 255"
 			"PaintBackgroundType"	"2"
 			"paintborder"	"1"
-			
+
 			"model_xpos"	"2"
 			"model_ypos"	"5"
 			"model_wide"	"50"
@@ -123,10 +123,10 @@
 			"text_ypos"		"60"
 			"text_center"	"1"
 			"name_only"		"1"
-			
+
 			"inset_eq_x"	"2"
 			"inset_eq_y"	"2"
-			
+
 			"itemmodelpanel"
 			{
 				"use_item_rendertarget" "0"
@@ -147,7 +147,7 @@
 				"textinsetx"	"8"
 				"autoResize"	"0"
 				"skip_autoresize"	"1"
-				"pinCorner"		"0"	
+				"pinCorner"		"0"
 				"visible"		"0"
 				"enabled"		"1"
 				"labelText"		"#Store_Price_New"
@@ -157,11 +157,11 @@
 				"border"		"StoreNewBorder"
 				"fgcolor"		"10 10 10 255"
 			}
-			
+
 			"use_item_sounds"	"1"
 		}
 	}
-	
+
 	"Background"
 	{
 		"ControlName"						"ImagePanel"
@@ -176,7 +176,7 @@
 		"image"								"replay/thumbnails/menu/Forest_Back"
 		"scaleimage"						"1"
 	}
-	
+
 	"Shader"
 	{
 		"ControlName"	"EditablePanel"
@@ -186,11 +186,11 @@
 		"zpos"			"-9"
 		"wide"			"f0"
 		"tall"			"480"
-		"visible"		"1"
-		"enabled"		"1"
+		"visible"		"0"
+		"enabled"		"0"
 		"bgcolor_override"	"15 15 15 170"
 	}
-	
+
 	"CaratLabel"
 	{
 		"ControlName"		"CExLabel"
@@ -274,7 +274,7 @@
 		"Font"				"nü11"
 		"wrap"				"0"
 		"xpos"				"c137"
-		"ypos"				"99"
+		"ypos"				"69"
 		"zpos"				"1"
 		"wide"				"150"
 		"tall"				"15"
@@ -290,7 +290,7 @@
 		"default"			"0"
 		"border_override"	"ButtonBorder"
 		"paintborder"		"1"
-		
+
 		"fgcolor_override"	"nüWhite"
 		"bgcolor_override"	"nüBaseTransparent"
 		"disabledFgColor_override" "nüWhite"
@@ -298,8 +298,8 @@
 		"selectionColor_override" "0 0 0 0"
 		"selectionTextColor_override" "nüWhite"
 		"defaultSelectionBG2Color_override" "0 0 0 0"
-	}	
-	
+	}
+
 //	"ShowBaseItemsCheckbox"
 //	{
 //		"ControlName"	"CheckButton"
@@ -325,7 +325,7 @@
 		"ControlName"	"ImagePanel"
 		"fieldName"		"NameFilterLabel"
 		"xpos"			"c-153"
-		"ypos"			"99"
+		"ypos"			"69"
 		"zpos"			"1"
 		"wide"			"15"
 		"tall"			"15"
@@ -340,7 +340,7 @@
 		"ControlName"		"TextEntry"
 		"fieldName"		"NameFilterTextEntry"
 		"xpos"		"c-288"
-		"ypos"		"99"
+		"ypos"		"69"
 		"wide"		"150"
 		"tall"		"15"
 		"autoResize"		"0"
@@ -358,14 +358,14 @@
 		"paintbackgroundtype" "2"
 		"font"		"nü11"
 	}
-	
+
 	"SortByComboBox"
 	{
 		"ControlName"		"ComboBox"
 		"fieldName"			"SortByComboBox"
 		"Font"				"nü11"
 		"xpos"				"c-75"
-		"ypos"				"99"
+		"ypos"				"69"
 		"zpos"				"1"
 		"wide"				"150"
 		"tall"				"15"
@@ -381,7 +381,7 @@
 		"default"			"0"
 		"border_override"	"ButtonBorder"
 		"paintborder"		"1"
-		
+
 		"fgcolor_override"	"nüWhite"
 		"bgcolor_override"	"nüBaseTransparent"
 		"disabledFgColor_override" "nüWhite"
@@ -389,7 +389,7 @@
 		"selectionColor_override" "0 0 0 0"
 		"selectionTextColor_override" "nüWhite"
 		"defaultSelectionBG2Color_override" "0 0 0 0"
-	}	
+	}
 
 	"mouseoveritempanel"
 	{
@@ -405,12 +405,12 @@
 		"noitem_textcolor"		"117 107 94 255"
 		"PaintBackgroundType"	"2"
 		"paintborder"	"1"
-		
+
 		"text_center"		"1"
 		"model_hide"		"1"
 		"resize_to_text"	"1"
 		"padding_height"	"15"
-		
+
 		"attriblabel"
 		{
 			"font"			"ItemFontAttribLarge"
@@ -429,12 +429,12 @@
 			"centerwrap"	"1"
 		}
 	}
-	
+
 	"mousedragitempanel"
 	{
 		"ControlName"	"CItemModelPanel"
 		"fieldName"		"mousedragitempanel"
-		
+
 		"xpos"			"c-70"
 		"ypos"			"270"
 		"zpos"			"100"
@@ -445,21 +445,21 @@
 		"noitem_textcolor"		"117 107 94 255"
 		"PaintBackgroundType"	"2"
 		"paintborder"	"1"
-		
+
 		"model_ypos"	"3"
 		"model_tall"	"18"
 		"text_ypos"		"30"
 		"text_center"	"1"
 		"name_only"		"1"
 		"model_only"	"1"
-		
+
 		"itemmodelpanel"
 		{
 			"use_item_rendertarget" "0"
 			"allow_rot"				"0"
 		}
 	}
-	
+
 	"PrevPageButton"
 	{
 		"ControlName"	"CExButton"
@@ -482,8 +482,8 @@
 		"Command"		"prevpage"
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
-	}		
-	
+	}
+
 	"CurPageLabel"
 	{
 		"ControlName"	"CExLabel"
@@ -502,7 +502,7 @@
 		"enabled"		"1"
 		"fgcolor_override" "200 80 60 255"
 	}
-	
+
 	"NextPageButton"
 	{
 		"ControlName"	"CExButton"
@@ -525,8 +525,8 @@
 		"Command"		"nextpage"
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
-	}		
-	
+	}
+
 	"DragToNextPageButton"
 	{
 		"ControlName"	"CExButton"
@@ -549,7 +549,7 @@
 		"Command"		""
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
-	}		
+	}
 	"DragToPrevPageButton"
 	{
 		"ControlName"	"CExButton"
@@ -572,8 +572,8 @@
 		"Command"		""
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
-	}		
-	
+	}
+
 	"CancelApplyToolButton"
 	{
 		"ControlName"	"CExButton"
@@ -597,5 +597,5 @@
 		"Command"		"canceltool"
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
-	}		
+	}
 }

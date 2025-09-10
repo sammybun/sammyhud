@@ -80,7 +80,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"	"0"	
-		"fillcolor"		"34 139 34 255"
+		"fillcolor"		"nüAccent"
 		"PaintBackgroundType"	"0"
 	}
 	

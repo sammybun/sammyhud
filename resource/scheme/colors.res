@@ -255,12 +255,12 @@ Scheme
 		"StoreGreen"			"76 107 34 255"
 		
 		// Building HUD Specific
-		"LowHealthRed"		"255 0 0 255"
-		"ProgressOffWhite"	"251 235 202 255"
-		"ProgressBackground"	"250 234 201 51"
-		"HealthBgGrey"		"72 71 69 255"
+		"LowHealthRed"		"219 81 81 255"
+		"ProgressOffWhite"	"nüWhite"
+		"ProgressBackground"	"15 15 15 140"
+		"HealthBgGrey"		"15 15 15 140"
 		
-		"ProgressOffWhiteTransparent"	"251 235 202 128"
+		"ProgressOffWhiteTransparent"	"240 240 240 140"
 		
 		"LabelDark"			"48 43 42 255"
 		"LabelTransparent"	"109 96 80 180"

@@ -10,6 +10,550 @@
 
 "Resource/UI/MainMenuOverride.res"
 {
+
+	"mmMovingBGPanel"
+	{
+		"ControlName"	"EditablePanel"
+		"fieldName"		"mmMovingBGPanel"
+		"xpos"			"0"
+		"ypos"			"0"
+		"zpos"			"-199"
+		"wide"			"f0"
+		"tall"			"480"
+		"visible"		"1"
+		"enabled"		"1"
+
+		"mmBG"
+		{
+			"ControlName"		"ImagePanel"
+			"fieldName"		"mmBG"
+			"xpos"			"0"
+			"ypos"			"0"
+			"zpos"			"100"
+			"wide"			"f0"
+			"tall"			"480"
+			"visible"		"1"
+			"enabled"		"1"
+			"fillcolor"		"nüBase"
+		}
+		"mmFading1"
+		{
+			"ControlName"		"ImagePanel"
+			"fieldName"		"mmFading1"
+			"xpos"			"-300"
+			"ypos"			"0"
+			"zpos"			"101"
+			"wide"			"2000"
+			"tall"			"480"
+			"visible"		"1"
+			"enabled"		"1"
+			"image"			"replay/thumbnails/menu/mm1"
+			"scaleimage"		"1"
+		}
+		"mmFading2"
+		{
+			"ControlName"		"ImagePanel"
+			"fieldName"		"mmFading2"
+			"xpos"			"-200"
+			"ypos"			"0"
+			"zpos"			"101"
+			"wide"			"2000"
+			"tall"			"480"
+			"visible"		"1"
+			"enabled"		"1"
+			"image"			"replay/thumbnails/menu/mm2"
+			"scaleimage"		"1"
+		}
+		"mmFading3"
+		{
+			"ControlName"		"ImagePanel"
+			"fieldName"		"mmFading3"
+			"xpos"			"-300"
+			"ypos"			"0"
+			"zpos"			"101"
+			"wide"			"2000"
+			"tall"			"480"
+			"visible"		"1"
+			"enabled"		"1"
+			"image"			"replay/thumbnails/menu/mm3"
+			"scaleimage"		"1"
+		}
+		"mmFading4"
+		{
+			"ControlName"		"ImagePanel"
+			"fieldName"		"mmFading4"
+			"xpos"			"-400"
+			"ypos"			"0"
+			"zpos"			"101"
+			"wide"			"2000"
+			"tall"			"480"
+			"visible"		"1"
+			"enabled"		"1"
+			"image"			"replay/thumbnails/menu/mm4"
+			"scaleimage"		"1"
+		}
+
+	}
+	"mmBlurBGPanel"
+	{
+		"ControlName"	"EditablePanel"
+		"fieldName"		"mmBlurBGPanel"
+		"xpos"			"5"
+		"ypos"			"190"
+		"zpos"			"-198"
+		"wide"			"150"
+		"tall"			"245"
+		"visible"		"1"
+		"enabled"		"1"
+		
+		"ReposAnchor"
+		{
+			"ControlName" "EditablePanel"
+			"fieldName" "ReposAnchor"
+			"xpos" 		"cs-2"
+			"ypos"		"0"
+			"wide"		"f0"
+			"tall" 		"32"
+			"visible"	"1"
+			"enabled" 	"1"
+			"proportionaltoparent" "0"
+		}
+
+		"mmFading1blur"
+		{
+			"ControlName"		"ImagePanel"
+			"fieldName"		"mmFading1blur"
+			"xpos"			"0"
+			"ypos"			"0"
+			"zpos"			"101"
+			"wide"			"2000"
+			"tall"			"480"
+			"visible"		"1"
+			"enabled"		"1"
+			"image"			"replay/thumbnails/menu/mm1b"
+			"scaleimage"		"1"
+			"proportionaltoparent" "0"
+			
+			"pin_to_sibling" 	"ReposAnchor"
+			"pin_corner_to_sibling" "PIN_TOPLEFT"
+			"pin_to_sibling_corner" "PIN_TOPRIGHT"
+		}
+		"mmFading2blur"
+		{
+			"ControlName"		"ImagePanel"
+			"fieldName"		"mmFading2blur"
+			"xpos"			"0"
+			"ypos"			"0"
+			"zpos"			"101"
+			"wide"			"2000"
+			"tall"			"480"
+			"visible"		"1"
+			"enabled"		"1"
+			"image"			"replay/thumbnails/menu/mm2b"
+			"scaleimage"		"1"
+			"proportionaltoparent" "0"
+			
+			"pin_to_sibling" 	"ReposAnchor"
+			"pin_corner_to_sibling" "PIN_TOPLEFT"
+			"pin_to_sibling_corner" "PIN_TOPRIGHT"
+		}
+		"mmFading3blur"
+		{
+			"ControlName"		"ImagePanel"
+			"fieldName"		"mmFading3blur"
+			"xpos"			"0"
+			"ypos"			"0"
+			"zpos"			"101"
+			"wide"			"2000"
+			"tall"			"480"
+			"visible"		"1"
+			"enabled"		"1"
+			"image"			"replay/thumbnails/menu/mm3b"
+			"scaleimage"		"1"
+			"proportionaltoparent" "0"
+			
+			"pin_to_sibling" 	"ReposAnchor"
+			"pin_corner_to_sibling" "PIN_TOPLEFT"
+			"pin_to_sibling_corner" "PIN_TOPRIGHT"
+		}
+		"mmFading4blur"
+		{
+			"ControlName"		"ImagePanel"
+			"fieldName"		"mmFading4blur"
+			"xpos"			"0"
+			"ypos"			"0"
+			"zpos"			"101"
+			"wide"			"2000"
+			"tall"			"480"
+			"visible"		"1"
+			"enabled"		"1"
+			"image"			"replay/thumbnails/menu/mm4b"
+			"scaleimage"		"1"
+			"proportionaltoparent" "0"
+			
+			"pin_to_sibling" 	"ReposAnchor"
+			"pin_corner_to_sibling" "PIN_TOPLEFT"
+			"pin_to_sibling_corner" "PIN_TOPRIGHT"
+		}
+		"mmBlurCover"
+		{
+			"ControlName"		"ImagePanel"
+			"fieldName"		"mmBlurCover"
+			"xpos"			"0"
+			"ypos"			"0"
+			"zpos"			"102"
+			"wide"			"f0"
+			"tall"			"480"
+			"visible"		"1"
+			"enabled"		"1"
+			"fillcolor"		"15 15 15 237"
+		}
+		"mmBlurBG"
+		{
+			"ControlName"		"ImagePanel"
+			"fieldName"		"mmBlurBG"
+			"xpos"			"0"
+			"ypos"			"0"
+			"zpos"			"99"
+			"wide"			"f0"
+			"tall"			"480"
+			"visible"		"1"
+			"enabled"		"1"
+			"fillcolor"		"15 15 15 150"
+		}
+	}
+
+	"mmButtonPanelIngame"
+	{
+		"ControlName"	"EditablePanel"
+		"fieldName"		"mmButtonPanelIngame"
+		"xpos"			"5"
+		"ypos"			"190"
+		"zpos"			"-197"
+		"wide"			"150"
+		"tall"			"245"
+		"visible"		"1"
+		"enabled"		"1"
+
+		"mmBG"
+		{
+			"ControlName"		"ImagePanel"
+			"fieldName"		"mmBG"
+			"xpos"			"0"
+			"ypos"			"0"
+			"zpos"			"-100"
+			"wide"			"f0"
+			"tall"			"480"
+			"visible"		"1"
+			"enabled"		"1"
+			"fillcolor"		"nüBase"
+			"alpha"			"100"
+		}
+		
+		"mmBlurBg"
+		{
+			"ControlName"	"ImagePanel"
+			"fieldName"		"mmBlurBg"
+			"xpos"			"0"
+			"ypos"			"0"
+			"zpos"			"-500"
+			"wide"			"f0"
+			"tall"			"480"
+			"visible"		"1"
+			"enabled"		"1"
+			"image"			"replay/thumbnails/blur/blur_top_dark"
+			"scaleImage"	"1"
+		}
+		"mmBlurBg2"
+		{
+			"ControlName"	"ImagePanel"
+			"fieldName"		"mmBlurBg2"
+			"xpos"			"0"
+			"ypos"			"0"
+			"zpos"			"-501"
+			"wide"			"f0"
+			"tall"			"480"
+			"visible"		"1"
+			"enabled"		"1"
+			"image"			"replay/thumbnails/blur/blur_right_dark"
+			"scaleImage"	"1"
+		}
+		"mmBlurBg3"
+		{
+			//alpha doesn't work for this, you need to change the texture's alpha
+			"ControlName"	"ImagePanel"
+			"fieldName"		"mmBlurBg3"
+			"xpos"			"0"
+			"ypos"			"0"
+			"zpos"			"-502"
+			"wide"			"f0"
+			"tall"			"480"
+			"visible"		"1"
+			"enabled"		"1"
+			"image"			"replay/thumbnails/blur/blur_bot_dark"
+			"scaleImage"	"1"
+		}
+		"mmBlurBg4"
+		{
+			//alpha doesn't work for this, you need to change the texture's alpha
+			"ControlName"	"ImagePanel"
+			"fieldName"		"mmBlurBg4"
+			"xpos"			"0"
+			"ypos"			"0"
+			"zpos"			"-503"
+			"wide"			"f0"
+			"tall"			"480"
+			"visible"		"1"
+			"enabled"		"1"
+			"image"			"replay/thumbnails/blur/blur_left_dark"
+			"scaleImage"	"1"
+		}
+		"mmBlurBg5"
+		{
+			"ControlName"	"ImagePanel"
+			"fieldName"		"mmBlurBg5"
+			"xpos"			"0"
+			"ypos"			"0"
+			"zpos"			"-504"
+			"wide"			"f0"
+			"tall"			"480"
+			"visible"		"1"
+			"enabled"		"1"
+			"image"			"replay/thumbnails/blur/blur_center_dark"
+			"scaleImage"	"1"
+		}
+	}
+	"mmBlurBGRightPanel"
+	{
+		"ControlName"	"EditablePanel"
+		"fieldName"		"mmBlurBGRightPanel"
+		"xpos"			"r155"
+		"ypos"			"190"
+		"zpos"			"-198"
+		"wide"			"150"
+		"tall"			"245"
+		"visible"		"1"
+		"enabled"		"1"
+		
+		"ReposAnchorr"
+		{
+			"ControlName" "EditablePanel"
+			"fieldName" "ReposAnchorr"
+			"xpos" 		"cs-2"
+			"ypos"		"0"
+			"wide"		"f0"
+			"tall" 		"32"
+			"visible"	"1"
+			"enabled" 	"1"
+			"proportionaltoparent" "0"
+		}
+
+		"mmFading1blurr"
+		{
+			"ControlName"		"ImagePanel"
+			"fieldName"		"mmFading1blurr"
+			"xpos"			"0"
+			"ypos"			"0"
+			"zpos"			"101"
+			"wide"			"2000"
+			"tall"			"480"
+			"visible"		"1"
+			"enabled"		"1"
+			"image"			"replay/thumbnails/menu/mm1b"
+			"scaleimage"		"1"
+			"proportionaltoparent" "0"
+			
+			"pin_to_sibling" 	"ReposAnchorr"
+			"pin_corner_to_sibling" "PIN_TOPLEFT"
+			"pin_to_sibling_corner" "PIN_TOPRIGHT"
+		}
+		"mmFading2blurr"
+		{
+			"ControlName"		"ImagePanel"
+			"fieldName"		"mmFading2blurr"
+			"xpos"			"0"
+			"ypos"			"0"
+			"zpos"			"101"
+			"wide"			"2000"
+			"tall"			"480"
+			"visible"		"1"
+			"enabled"		"1"
+			"image"			"replay/thumbnails/menu/mm2b"
+			"scaleimage"		"1"
+			"proportionaltoparent" "0"
+			
+			"pin_to_sibling" 	"ReposAnchor"
+			"pin_corner_to_sibling" "PIN_TOPLEFT"
+			"pin_to_sibling_corner" "PIN_TOPRIGHT"
+		}
+		"mmFading3blurr"
+		{
+			"ControlName"		"ImagePanel"
+			"fieldName"		"mmFading3blurr"
+			"xpos"			"0"
+			"ypos"			"0"
+			"zpos"			"101"
+			"wide"			"2000"
+			"tall"			"480"
+			"visible"		"1"
+			"enabled"		"1"
+			"image"			"replay/thumbnails/menu/mm3b"
+			"scaleimage"		"1"
+			"proportionaltoparent" "0"
+			
+			"pin_to_sibling" 	"ReposAnchor"
+			"pin_corner_to_sibling" "PIN_TOPLEFT"
+			"pin_to_sibling_corner" "PIN_TOPRIGHT"
+		}
+		"mmFading4blurr"
+		{
+			"ControlName"		"ImagePanel"
+			"fieldName"		"mmFading4blurr"
+			"xpos"			"0"
+			"ypos"			"0"
+			"zpos"			"101"
+			"wide"			"2000"
+			"tall"			"480"
+			"visible"		"1"
+			"enabled"		"1"
+			"image"			"replay/thumbnails/menu/mm4b"
+			"scaleimage"		"1"
+			"proportionaltoparent" "0"
+			
+			"pin_to_sibling" 	"ReposAnchor"
+			"pin_corner_to_sibling" "PIN_TOPLEFT"
+			"pin_to_sibling_corner" "PIN_TOPRIGHT"
+		}
+		"mmBlurCoverr"
+		{
+			"ControlName"		"ImagePanel"
+			"fieldName"		"mmBlurCoverr"
+			"xpos"			"0"
+			"ypos"			"0"
+			"zpos"			"102"
+			"wide"			"f0"
+			"tall"			"480"
+			"visible"		"1"
+			"enabled"		"1"
+			"fillcolor"		"15 15 15 237"
+		}
+		"mmBlurBGr"
+		{
+			"ControlName"		"ImagePanel"
+			"fieldName"		"mmBlurBGr"
+			"xpos"			"0"
+			"ypos"			"0"
+			"zpos"			"99"
+			"wide"			"f0"
+			"tall"			"480"
+			"visible"		"1"
+			"enabled"		"1"
+			"fillcolor"		"15 15 15 150"
+		}
+	}
+
+	"mmButtonPanelRightIngame"
+	{
+		"ControlName"	"EditablePanel"
+		"fieldName"		"mmButtonPanelRightIngame"
+		"xpos"			"r155"
+		"ypos"			"190"
+		"zpos"			"-197"
+		"wide"			"150"
+		"tall"			"245"
+		"visible"		"1"
+		"enabled"		"1"
+
+		"mmBGr"
+		{
+			"ControlName"		"ImagePanel"
+			"fieldName"		"mmBGr"
+			"xpos"			"0"
+			"ypos"			"0"
+			"zpos"			"-100"
+			"wide"			"f0"
+			"tall"			"480"
+			"visible"		"1"
+			"enabled"		"1"
+			"fillcolor"		"nüBase"
+			"alpha"			"100"
+		}
+		
+		"mmBlurBgr"
+		{
+			"ControlName"	"ImagePanel"
+			"fieldName"		"mmBlurBgr"
+			"xpos"			"0"
+			"ypos"			"0"
+			"zpos"			"-500"
+			"wide"			"f0"
+			"tall"			"480"
+			"visible"		"1"
+			"enabled"		"1"
+			"image"			"replay/thumbnails/blur/blur_top_dark"
+			"scaleImage"	"1"
+		}
+		"mmBlurBg2r"
+		{
+			"ControlName"	"ImagePanel"
+			"fieldName"		"mmBlurBg2r"
+			"xpos"			"0"
+			"ypos"			"0"
+			"zpos"			"-501"
+			"wide"			"f0"
+			"tall"			"480"
+			"visible"		"1"
+			"enabled"		"1"
+			"image"			"replay/thumbnails/blur/blur_right_dark"
+			"scaleImage"	"1"
+		}
+		"mmBlurBg3r"
+		{
+			//alpha doesn't work for this, you need to change the texture's alpha
+			"ControlName"	"ImagePanel"
+			"fieldName"		"mmBlurBg3r"
+			"xpos"			"0"
+			"ypos"			"0"
+			"zpos"			"-502"
+			"wide"			"f0"
+			"tall"			"480"
+			"visible"		"1"
+			"enabled"		"1"
+			"image"			"replay/thumbnails/blur/blur_bot_dark"
+			"scaleImage"	"1"
+		}
+		"mmBlurBg4r"
+		{
+			//alpha doesn't work for this, you need to change the texture's alpha
+			"ControlName"	"ImagePanel"
+			"fieldName"		"mmBlurBg4r"
+			"xpos"			"0"
+			"ypos"			"0"
+			"zpos"			"-503"
+			"wide"			"f0"
+			"tall"			"480"
+			"visible"		"1"
+			"enabled"		"1"
+			"image"			"replay/thumbnails/blur/blur_left_dark"
+			"scaleImage"	"1"
+		}
+		"mmBlurBg5r"
+		{
+			"ControlName"	"ImagePanel"
+			"fieldName"		"mmBlurBg5r"
+			"xpos"			"0"
+			"ypos"			"0"
+			"zpos"			"-504"
+			"wide"			"f0"
+			"tall"			"480"
+			"visible"		"1"
+			"enabled"		"1"
+			"image"			"replay/thumbnails/blur/blur_center_dark"
+			"scaleImage"	"1"
+		}
+	}
+	
+
 	MainMenuOverride
 	{
 		"fieldName"		"MainMenuOverride"
@@ -21,7 +565,7 @@
 		"wide"			"f0"
 		"tall"			"480"
 		
-//		"bgcolor_override"	"0 0 0 240"
+	//"bgcolor_override"	"0 0 0 240"
 		
 		"update_url"	"http://store.steampowered.com/news/?filter=updates&appids=440"
 		"blog_url"		"http://www.teamfortress.com/"
@@ -1335,24 +1879,6 @@
 		}
 	}
 
-	"HUDVersion"
-	{
-		"ControlName"	"CExLabel"
-		"fieldName"		"HUDVersion"
-		"font"			"DefaultVerySmall"
-		"labelText"		"v1.13!"
-		"textAlignment"	"east"
-		"xpos"			"r54"
-		"ypos"			"r10"
-		"wide"			"52"
-		"tall"			"10"
-		"autoResize"	"0"
-		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
-		"fgcolor_override"	"240 240 240 5"
-	}
-
 	"QuitButton"
 	{
 		"ControlName"	"EditablePanel"
@@ -1406,7 +1932,7 @@
 		}
 	}			
 
-	"MenuSidePanel"
+  "MenuSidePanel"
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"MenuSidePanel"
@@ -1415,9 +1941,9 @@
 		"zpos"			"-100"
 		"wide"			"150"
 		"tall"			"225"
-		"visible"		"1"
-		"enabled"		"1"
-		"bgcolor_override"	"15 15 15 127"
+		"visible"		"0"
+		"enabled"		"0"
+		"bgcolor_override"	"15 15 15 100"
 	}
 
 
@@ -2232,8 +2758,8 @@
 		"zpos"			"-1"
 		"wide"			"150"
 		"tall"			"20"
-		"visible"		"1"
-		"bgcolor_override"	"15 15 15 230"
+		"visible"		"0"
+		"bgcolor_override"	"15 15 15 0"
 
 		"pin_to_sibling"	"MenuSidePanel"
 		"pin_corner_to_sibling"	"PIN_TOPLEFT"
@@ -3294,12 +3820,12 @@
 			"zpos"			"499"
 			"wide"			"f0"
 			"tall"			"425"
-			"visible"		"1"	
+			"visible"		"0"	
 			"PaintBackgroundType"	"0"
 			"proportionaltoparent"	"1"
 			"mouseinputenabled"	"0"
 
-			"bgcolor_override"	"15 15 15 127"
+			"bgcolor_override"	"15 15 15 15"
 		}
 	}
 
@@ -3336,5 +3862,7 @@
 		"fillcolor"		"nüAccent"
 		"image"								"../vgui/replay/thumbnails/panels/Material_Generic"
 	}
+
+
 	
 }

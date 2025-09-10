@@ -93,4 +93,20 @@
 		"armedBgColor_override"		"CreditsGreen"
 		"defaultBgColor_override"	"GreenSolid"
 	}
+
+	"BG"
+	{
+		"ControlName"					"EditablePanel"
+		"fieldName"						"BG"
+		"xpos"							"-150"
+		"ypos"							"0"
+		"zpos"							"-1"
+		"wide"							"260"
+		"tall"							"f100"
+		"bgcolor_override"				"nüDarkGrey"
+		
+		"pin_to_sibling"				"Title"
+		"pin_corner_to_sibling"			"PIN_CENTER_LEFT"
+		"pin_to_sibling_corner"			"PIN_CENTER_RIGHT"
+	}
 }

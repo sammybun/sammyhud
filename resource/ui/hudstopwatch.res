@@ -1,9 +1,9 @@
-"Resource/UI/HudStopWatch.res"
+"Resource/UI/Hud.res"
 {
-	"HudStopWatchBG"
+	"HudBG"
 	{
 		"ControlName"		"ScalableImagePanel"
-		"fieldName"		"HudStopWatchBG"
+		"fieldName"		"HudBG"
 		"xpos"			"9999"
 		"ypos"			"9999"
 		"zpos"			"-1"
@@ -23,7 +23,7 @@
 		"draw_corner_height" 	"0"	
 	}
 
-	"StopWatchImageCaptureTime"
+	"ImageCaptureTime"
 	{
 		"ControlName"		"ImagePanel"
 		"fieldName"		"StopWatchImageCaptureTime"

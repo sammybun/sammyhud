@@ -37,10 +37,10 @@
 			"color_portrait_bg_blue"	"nüBaseTransparent"
 			"color_portrait_bg_red_dead"	"nüBaseTransparent"
 			"color_portrait_bg_blue_dead"	"nüBaseTransparent"
-			"color_bar_health_high"	"64 201 136 255"
-			"color_bar_health_med"	"255 180 80 255"
+			"color_bar_health_high"	"19 145 120 255" //64 201 136
+			"color_bar_health_med"	"224 156 127 255" //243 156 82
 			"percentage_health_med"	"0.7"
-			"color_bar_health_low"	"204 56 56 255"
+			"color_bar_health_low"	"222 98 98 255"
 			"percentage_health_low"	"0.49"
 			"color_portrait_blend_dead_red"	"255 255 255 255"
 			"color_portrait_blend_dead_blue" "255 255 255 255"
@@ -136,7 +136,7 @@
 				"dulltext"				"0"
 				"brighttext"			"0"
 				"bgcolor_override"	   "0 0 0 0"
-				"fgcolor_override"	   "235 235 235 255"
+				"fgcolor_override"	   "235 235 235 200"
 				"proportionaltoparent"	"1"
 			}
 			"HealthIcon"
@@ -217,7 +217,7 @@
 				"ypos"			"0"
 				"zpos"			"0"
 				"wide"			"f0"
-				"tall"			"24"
+				"tall"			"0"
 				"visible"		"0"
 				"enabled"		"1"
 				"image"			"../HUD/comp_player_status"	
@@ -226,9 +226,11 @@
 			}
 			"SkullPanel"
 			{
-				"ControlName"	"ImagePanel"
-				"fieldName"		"SkullPanel"
-				"xpos"			"999"
+				"image"			"replay\thumbnails\skull"
+				"xpos"			"9999"
+				"zpos"			"0"
+				"wide"			"6"
+				"tall"			"6"
 			}
 		}
 	}

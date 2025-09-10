@@ -38,8 +38,8 @@ event HudSpyDisguiseFadeOut
 		SetVisible 			SkullPanel														1 0
 		SetVisible			respawntime														1 0
 	
-		Animate 			SkullPanel							ypos						20 							Accel 0 0.2
-		Animate 			respawntime							ypos 						1 							Accel 0 0.2
+		Animate 			SkullPanel							ypos						30							Accel 0 0.2
+		Animate 			respawntime							ypos 						0 							Accel 0 0.2
 	}
 	
 	event TeamStatus_PlayerAlive

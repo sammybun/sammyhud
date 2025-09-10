@@ -75,7 +75,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"PlayerStatusHealthValueSpecShadow"
-		"xpos"			"0"
+		"xpos"			"1"
 		"ypos"			"-1"
 		"zpos"			"5"
 		"wide"			"32"
@@ -83,7 +83,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"textAlignment"	"center"
-		"font"			"nüshadow16"
+		"font"			"nü16"
 		"fgcolor"		"ShadowBlack"
 		"labeltext"		"%Health%"
 

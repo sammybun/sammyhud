@@ -138,7 +138,7 @@
 		"fieldName"		"AmmoNoClipShadow"
 		"font"			"nüBold30"
 		"fgcolor"		"ShadowBlack"
-		"xpos"			"2"
+		"xpos"			"1"
 		"ypos"			"-1"
 		"zpos"			"5"
 		"wide"			"90"

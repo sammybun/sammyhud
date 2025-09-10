@@ -4,7 +4,7 @@
 	{
 		"ControlName"		"CWaveStatusPanel"
 		"fieldName"			"WaveStatusPanel"
-		"xpos"				"56"
+		"xpos"				"c-371"
 		"ypos"				"0"
 		"zpos"				"0"
 		"wide"				"600"
@@ -77,15 +77,18 @@
 	{
 		"ControlName"		"ImagePanel"
 		"fieldName"		"PlayerListBackground"
-		"xpos"			"c-260"
-		"ypos"			"150"
+		"xpos"			"0"
+		"ypos"			"2"
 		"zpos"			"-1"
 		"wide"			"520"
-		"tall"			"107"
-		"visible"		"0"
+		"tall"			"106"
+		"visible"		"1"
 		"enabled"		"1"
 		//"image"			"../hud/tournament_panel_brown"
-		"fillcolor"		"0 0 0 50"
+		"fillcolor"		"PanelBG"
+		"pin_to_sibling" "CreditStatsContainer"
+		"pin_corner_to_sibling" "PIN_BOTTOMLEFT"
+		"pin_to_sibling_corner" "PIN_TOPLEFT"
 	}
 
 	"MvMPlayerList"
@@ -109,7 +112,7 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"CreditStatsContainer"
-		"xpos"			"c-330"
+		"xpos"			"c-331"
 		"ypos"			"257"
 		"wide"			"520"
 		"tall"			"80"

@@ -73,7 +73,7 @@
 		"Font"				"HudFontSmallest"
 		"xpos"				"30"
 		"ypos"				"170"
-		"zpos"				"1"
+		"zpos"				"2"
 		"wide"				"220"
 		"tall"				"15"
 		"autoResize"		"0"

@@ -11,7 +11,7 @@
 		"tall"	 		"16"
 		"visible"		"1"
 		"enabled"		"1"
-		"bgcolor_override"	"15 15 15 220"
+		"bgcolor_override"	"nüBaseTransparent"
 	}
 	
 	"TargetIDBG"
@@ -92,8 +92,8 @@
 	{	
 		"ControlName"		"Label"
 		"fieldName"		"TargetNameLabelShadow"
-		"font"			"nüshadow14"
-		"xpos"			"0"					
+		"font"			"nü14"
+		"xpos"			"-1"					
 		"ypos"			"-1"
 		"zpos"			"1"
 		"wide"			"640"

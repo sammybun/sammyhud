@@ -18,6 +18,8 @@ event HudHealthBonusPulse
 	
 	Animate PlayerStatusHealthValueSpecT		FgColor		"Health Buff"	Linear 0.0	0.1
 	Animate PlayerStatusHealthValueSpecT		FgColor		"Health Buff 2"		Linear 0.3	0.4	
+
+	Animate PlayerStatusHealthValueSpecShadow	Alpha 	"150"			Linear 0.0 0.01
 	
 	RunEvent HudHealthBonusPulseLoop	0.4
 }
@@ -44,6 +46,8 @@ event HudHealthBonusPulseStop
 	
 	Animate HealthBarBuffSpec		Alpha		"0"				Linear 0.0 0.01	
 	Animate HealthBarBuffSpec2		Alpha		"0"				Linear 0.0 0.01
+
+	Animate PlayerStatusHealthValueSpecShadow	Alpha 	"255"			Linear 0.0 0.01
 	
 
 }

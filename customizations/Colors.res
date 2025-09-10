@@ -17,28 +17,28 @@ Scheme
 		//-----------------------------------------
 		
 		"Health"				"227 228 230 255"
-		"Health Buff"			"44 245 211 255"	//75 175 255 255
-		"Health Buff 2"			"68 156 200 255"	//150 200 255 75
-		"Health Low"			"255 40 60 255"	//200 0 0 255
-		"Health Low 2"			"170 0 0 255"	//255 75 75 255
+		"Health Buff"			"86 178 246 255"	//44 245 211 255
+		"Health Buff 2"			"77 160 221 75"	//68 156 200 75
+		"Health Low"			"219 81 81 255"	//200 0 0 255
+		"Health Low 2"			"222 98 98 255"	//255 75 75 255
 		
 		
 		// Ammo
 		//-----------------------------------------
 		
 		"Ammo In Clip"			"227 228 230 255"
-		"Ammo In Reserve"		"75 175 255 255"	//41 152 182 255
+		"Ammo In Reserve"		"86 178 246 255"	//44 245 211 255
 		"Ammo No Clip"			"227 228 230 255"
-		"Low Ammo 1"			"255 0 0 255"	//200 0 0 255
-		"Low Ammo 2"			"255 50 50 255"	//255 75 75 255
+		"Low Ammo 1"			"219 81 81 255"	//200 0 0 255
+		"Low Ammo 2"			"222 98 98 255"	//255 75 75 255
 		
 		// Medic Charge
 		//-----------------------------------------
 		
 		"ChargePercent"			"227 228 230 255"
 		"Ubercharge Meter"		"227 228 230 255"
-		"Ubercharge 1"			"123 228 255 255"
-		"Ubercharge 2"			"68 156 200 255"
+		"Ubercharge 1"			"86 178 246 255"
+		"Ubercharge 2"			"77 160 221 75"
 		"Smallmediccharge"      "0 255 0 255"
 		
 		// Misc
@@ -57,7 +57,7 @@ Scheme
 		"BlackLightTransparent"					"0 0 0 50"
 		"Blank"									"0 0 0 0"
 		
-		"nüAccent"				"75 175 255 255"   //Accent Color
+		"nüAccent"				"86 178 246 255"   //Accent Color
 		
 		"nüBase"				"15 15 15 255"
 		"nüBaseTransparent"		"15 15 15 140"
@@ -73,9 +73,9 @@ Scheme
 		"LightPanelBG"			"15 15 15 140"
 		"DarkPanelBG"			"15 15 15 255"
 
-		"nüBLUTransparent"		"86 133 181 140" //88 133 162 140
+		"nüBLUTransparent"		"86 133 181 140" //86 133 162 140
 		"nüREDTransparent"		"180 65 55 140"  //184 56 59 140
-		"nüBLUSolid"			"86 133 181 255" //88 133 162 255
+		"nüBLUSolid"			"86 133 181 255" //86 133 181 255
 		"nüREDSolid"			"180 65 55 255"	 //184 56 59 255
 		
 		"ShadowBlack"			"0 0 0 255"

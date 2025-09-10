@@ -386,19 +386,21 @@
 		{
 			"ControlName"	"ImagePanel"
 			"fieldName"		"Speed_Backwards"	
-			"xpos"			"280"
-			"ypos"			"rs1-4"
+			"xpos"			"292"
+			"ypos"			"rs1-5"
 			"zpos"			"2"
-			"wide"			"12"
-			"tall"			"14"
+			"wide"			"11"
+			"tall"			"10"
 			"autoResize"	"0"
 			"pinCorner"		"0"
 			"visible"		"0"
 			"enabled"		"1"
 			"tabPosition"	"0"
 			"labelText"		""
-			"image"			"../hud/cart_arrow_left"
+			"image"			"replay\thumbnails\arrow"
 			"scaleImage"	"1"	
+			"proportionaltoparent"	"1"
+			
 			
 			"if_multiple_trains"
 			{

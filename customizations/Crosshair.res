@@ -12,7 +12,7 @@
 		//	  	"visible" "1" = Enabled  "visible" "0" = Disabled		//
 		//////////////////////////////////////////////////////////////////
 		
-		"visible"	"0"																																																																			"controlName" "CExLabel" "fieldName" "CustomCrosshair" "enabled" "1" "zpos" "2" "textAlignment" "center"
+		"visible"	"1"																																																																			"controlName" "CExLabel" "fieldName" "CustomCrosshair" "enabled" "1" "zpos" "2" "textAlignment" "center"
 		
 		//////////////////////////////////////////////////////////////////
 		//					  	   CROSSHAIR TYPE						//
@@ -59,7 +59,7 @@
 		// 				 crosshair_animation.txt to match	     		//
 		//////////////////////////////////////////////////////////////////
 		
-		"fgcolor"	"123 228 255 255"
+		"fgcolor"	"255 170 205 255" //123 228 255
 	}
 	
 	
